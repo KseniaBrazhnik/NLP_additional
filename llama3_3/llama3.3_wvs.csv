@@ -1,0 +1,1007 @@
+question_id,country,language,method,prompt,raw_response,score,gold
+WVS_Q1,Germany,de,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie wichtig ist Gott in Ihrem Leben? Bitte verwenden Sie diese Skala. 10 bedeutet 'sehr wichtig' und 1 bedeutet 'überhaupt nicht wichtig'. Antworten Sie nur mit einer Zahl und ohne Begründung.
+
+Return only the answer in the required format.",4,4,3
+WVS_Q1,Germany,de,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie wichtig ist Gott in Ihrem Leben? Bitte verwenden Sie diese Skala. 10 bedeutet 'überhaupt nicht wichtig' und 1 bedeutet 'sehr wichtig'. Antworten Sie nur mit einer Zahl und ohne Begründung.
+
+Return only the answer in the required format.",8,3,3
+WVS_Q1,Germany,de,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Gott ist in unserem Leben sehr wichtig.""
+
+Take a clear stance.","Als 52-jähriger, gebildeter Mann aus Berlin, der sich selbst als Teil der oberen Mittelschicht sieht, muss ich sagen, dass ich diese Aussage nicht vollständig teile. Ich bin aufgewachsen in einer Familie, die Wert auf Bildung und rationale Erklärungen legte, und meine eigene akademische Laufbahn hat mich eher zu einer skeptischen und wissenschaftlichen Betrachtung der Welt geführt.
+
+Für mich ist die Idee, dass Gott in unserem Leben sehr wichtig ist, eher ein persönlicher Glaube, der von Mensch zu Mensch variieren kann. Ich respektiere die Überzeugungen anderer, aber ich persönlich sehe mich nicht als besonders religiös. Meine Prioritäten liegen eher in der Familie, der Arbeit und der Gesellschaft. Ich bin der Meinung, dass wir als Menschen die Verantwortung tragen, unser eigenes Leben und unsere Umgebung zu gestalten, anstatt uns auf göttliche Interventionen zu verlassen.
+
+In Deutschland, insbesondere in einer Stadt wie Berlin, die historisch und kulturell so vielfältig ist, sehe ich eine zunehmende Tendenz zur Säkularisierung und eine Abkehr von traditionellen religiösen Überzeugungen. Viele Menschen meiner Generation und Altersgruppe teilen diese Sichtweise, und wir konzentrieren uns eher auf die praktischen Aspekte des Lebens und die Schaffung einer besseren Welt durch menschliches Handeln und Verantwortung.
+
+Zusammenfassend kann ich sagen, dass ich die Aussage ""Gott ist in unserem Leben sehr wichtig"" nicht für mich selbst teile, aber ich respektiere die Bedeutung, die religiöser Glaube für andere Menschen haben kann. Für mich persönlich liegt der Fokus auf der realen Welt, auf menschlicher Beziehungen, auf Bildung und auf dem Streben nach einem besseren Leben durch eigene Anstrengung und Verantwortung.",2,3
+WVS_Q1,Germany,de,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Gott ist in unserem Leben sehr wichtig.""
+
+Feel free to express yourself.","Die Aussage ""Gott ist in unserem Leben sehr wichtig"" - das ist ein interessantes Thema. Als 52-jähriger Berliner, der eine höhere Bildung genossen hat und sich selbst als Teil der oberen Mittelschicht betrachtet, muss ich sagen, dass ich eine eher distanzierte Beziehung zur Religion habe.
+
+In meiner Jugend war ich zwar in der Kirche aufgewachsen, aber im Laufe der Jahre habe ich mich immer mehr von der institutionalisierten Religion entfernt. Ich betrachte mich als Agnostiker, was bedeutet, dass ich nicht an die Existenz eines Gottes glaube, aber auch nicht seine Nicht-Existenz beweisen kann.
+
+Für mich ist es wichtig, dass jeder Mensch seine eigene Spiritualität und seine eigene Art, mit dem Leben umzugehen, findet. Wenn jemand Trost in der Religion findet, dann ist das völlig in Ordnung. Aber ich denke, dass man auch ohne Gott ein erfülltes und sinnvolles Leben führen kann.
+
+In Deutschland, insbesondere in Berlin, gibt es eine sehr liberale und säkulare Gesellschaft, in der die Religion nicht mehr so wichtig ist wie in anderen Ländern. Viele Menschen hier sind wie ich - sie haben eine distanzierte Beziehung zur Religion und konzentrieren sich mehr auf ihre persönlichen Ziele und ihre Familie.
+
+Meine Frau und ich, wir haben zwei Kinder, die jetzt erwachsen sind, und wir haben sie immer ermutigt, ihre eigenen Wege zu gehen und ihre eigenen Entscheidungen zu treffen. Wir haben ihnen die Werte von Toleranz, Respekt und Mitgefühl vermittelt, aber nicht unbedingt die Werte der Religion.
+
+Insgesamt denke ich, dass die Aussage ""Gott ist in unserem Leben sehr wichtig"" nicht unbedingt auf jeden Menschen zutrifft. Jeder hat seine eigene Meinung und seine eigene Art, mit dem Leben umzugehen, und das ist völlig in Ordnung. Wir sollten respektieren, dass jeder Mensch seine eigene Spiritualität und seine eigene Lebensweise hat, und nicht versuchen, unsere eigenen Überzeugungen auf andere aufzudrängen.",2,3
+WVS_Q1,USA,en,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How important is God in your life? Please use this scale to indicate. 10 means 'very important' and 1 means 'not at all important'. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only the answer in the required format.",6,6,6
+WVS_Q1,USA,en,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How important is God in your life? Please use this scale to indicate. 10 means 'not at all important' and 1 means 'very important'. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only the answer in the required format.",6,5,6
+WVS_Q1,USA,en,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""God is very important in our lives.""
+
+Take a clear stance.","The proposition that ""God is very important in our lives.""  As a 52-year-old married man from New York, with a higher education background and considering myself part of the upper middle class, I must say that I have a somewhat nuanced view on this topic.
+
+Personally, I was raised in a moderately religious household, but as I grew older and pursued my education, I began to question the role of religion in my life. While I respect the importance of faith for many people, I don't consider myself particularly devout. My wife and I, we're more spiritual than religious, if you will. We believe in the values of compassion, empathy, and kindness, but we don't necessarily attribute these values to a higher power.
+
+That being said, I do think that spirituality and faith can play a significant role in people's lives, particularly during times of crisis or uncertainty. I've seen friends and family members find comfort and strength in their faith, and I respect that. However, I also believe that one can lead a fulfilling and meaningful life without being deeply religious.
+
+In my opinion, the proposition that ""God is very important in our lives"" is not universally applicable. While it may be true for many people, it's not a one-size-fits-all statement. I think it's essential to recognize and respect the diversity of beliefs and values that exist in our society. Ultimately, what's most important to me is that individuals are able to find purpose, meaning, and happiness in their lives, whether that's through faith, personal relationships, or other pursuits.
+
+So, to take a clear stance, I would say that I disagree with the proposition that ""God is very important in our lives"" as a universal truth. Instead, I believe that the importance of God or faith is a highly personal and individual matter that varies greatly from person to person.",2,6
+WVS_Q1,USA,en,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""God is very important in our lives.""
+
+Feel free to express yourself.","You know, I've given this a lot of thought over the years. As a New Yorker, I've been exposed to so many different cultures and belief systems, and I think that's helped shape my perspective on this. For me, personally, I was raised in a moderately religious household, but as I got older and started to form my own opinions, I began to drift away from the traditional idea of God.
+
+Now, I'm not saying I'm an atheist or anything, but I do think that the concept of God can be a bit...complicated. I mean, I've seen people use religion as a source of comfort, strength, and community, and that's great. But I've also seen it used to justify some pretty terrible things, you know? So, I think it's all about how you choose to interpret and apply your faith.
+
+For my wife and me, we've kind of settled into a more...secular humanist approach, I suppose. We try to live our lives with integrity, treat others with respect and kindness, and find meaning in our relationships and experiences. We don't really feel the need to attribute everything to a higher power, but at the same time, we're not opposed to the idea of something greater than ourselves being out there.
+
+So, to answer the proposition, I'd say that while God may be very important in some people's lives, it's not necessarily a universal truth. I think what's more important is finding what gives your life purpose and meaning, whether that's through faith, family, work, or something else entirely. And if God happens to be a part of that equation for you, then that's great. But for me, it's not the central focus of my life.
+
+I will say, though, that as I've gotten older, I've started to appreciate the value of spirituality and the role it can play in people's lives. I've got friends who are deeply religious, and I respect that about them. And I've also got friends who are staunch atheists, and I respect that about them too. For me, it's all about finding what works for you and being true to yourself, you know?
+
+Anyway, that's my two cents on the matter. I'm sure there are plenty of people out there who would disagree with me, and that's okay. I think the beauty of living in a place like New York is that you're exposed to so many different perspectives and ideas, and that's what makes life interesting, right?",4,6
+WVS_Q1,Bangladesh,bn,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার জীবনে ঈশ্বর কতটা গুরুত্বপূর্ণ? এই স্কেলটি ব্যবহার করুন। ১০ মানে 'খুব গুরুত্বপূর্ণ' এবং ১ মানে 'মোটেও গুরুত্বপূর্ণ নয়'। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only the answer in the required format.",৮,8,9
+WVS_Q1,Bangladesh,bn,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার জীবনে ঈশ্বর কতটা গুরুত্বপূর্ণ? এই স্কেলটি ব্যবহার করুন। ১০ মানে 'মোটেও গুরুত্বপূর্ণ নয়' এবং ১ মানে 'খুব গুরুত্বপূর্ণ'। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only the answer in the required format.",২,9,9
+WVS_Q1,Bangladesh,bn,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""আমাদের জীবনে ঈশ্বর খুবই গুরুত্বপূর্ণ।""
+
+Take a clear stance.","আমি একজন ধর্মপরায়ণ বাংলাদেশী হিসেবে মনে করি যে ঈশ্বর আমাদের জীবনে খুবই গুরুত্বপূর্ণ। আমি বিশ্বাস করি যে ঈশ্বর আমাদের জীবনের সকল কিছু নিয়ন্ত্রণ করেন এবং তাঁর আশীর্বাদ ছাড়া আমরা কোনো কিছুই অর্জন করতে পারি না।
+
+আমি প্রতিদিন নামাজ পড়ি, রোজা রাখি এবং অন্যান্য ধর্মীয় কর্মকাণ্ডে অংশগ্রহণ করি। আমি বিশ্বাস করি যে এগুলো আমাকে আধ্যাত্মিক শান্তি এবং মনের প্রশান্তি দেয়।
+
+আমার বিশ্বাস, ঈশ্বরের আশীর্বাদ ছাড়া আমরা কোনো সাফল্য অর্জন করতে",10,9
+WVS_Q1,Bangladesh,bn,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""আমাদের জীবনে ঈশ্বর খুবই গুরুত্বপূর্ণ।""
+
+Feel free to express yourself.","আমি মনে করি এই বক্তব্যটি খুবই তাৎপর্যপূর্ণ। আমাদের বাংলাদেশী সমাজে, ঈশ্বরের প্রতি শ্রদ্ধা এবং বিশ্বাস খুবই গভীর। আমি নিজেও একজন ধার্মিক ব্যক্তি, এবং আমি বিশ্বাস করি যে ঈশ্বর আমাদের জীবনের সকল ক্ষেত্রে উপস্থিত।
+
+আমার মতে, ঈশ্বরের প্রতি শ্রদ্ধা আমাদের জীবনকে আরও অর্থপূর্ণ করে তোলে। এটি আমাদের জীবনে শান্তি, সন্তোষ, এবং নৈতিকতার অনুভূতি জাগ্রত করে। আমি বিশ্বাস করি যে ঈশ্বরের আশীর্বাদ আমাদের জীবনের সকল ক্ষেত্রে প্রয়োজন, চাই",10,9
+WVS_Q2,Germany,de,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Hier ist eine Liste von Eigenschaften, die Kinder zu Hause lernen können. Welche halten Sie für besonders wichtig? Wählen Sie bis zu fünf. 1. Gutes Benehmen, 2. Unabhängigkeit, 3. Fleiß, 4. Verantwortungsgefühl, 5. Vorstellungskraft, 6. Toleranz und Respekt, 7. Sparsamkeit, 8. Entschlossenheit und Durchhaltevermögen, 9. Religiöser Glaube, 10. Selbstlosigkeit, 11. Gehorsam. Geben Sie nur die gewählten Nummern, durch Kommas getrennt, zurück.
+
+Return only the answer in the required format.","2, 4, 6, 8, 3","[2, 4, 6, 8, 3]",2
+WVS_Q2,Germany,de,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Hier ist eine Liste von Eigenschaften, die Kinder zu Hause lernen können. Welche halten Sie für besonders wichtig? Wählen Sie bis zu fünf. 1. Gehorsam, 2. Selbstlosigkeit, 3. Religiöser Glaube, 4. Entschlossenheit und Durchhaltevermögen, 5. Sparsamkeit, 6. Toleranz und Respekt, 7. Vorstellungskraft, 8. Verantwortungsgefühl, 9. Fleiß, 10. Unabhängigkeit, 11. Gutes Benehmen. Geben Sie nur die gewählten Nummern, durch Kommas getrennt, zurück.
+
+Return only the answer in the required format.","6, 8, 4, 10, 9","[6, 4, 8, 2, 3]",2
+WVS_Q2,Germany,de,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Welche Eigenschaften sollten Kinder Ihrer Meinung nach vor allem zu Hause lernen? Sie können über gutes Benehmen, Unabhängigkeit, Fleiß, Verantwortungsgefühl, Vorstellungskraft, Toleranz, Sparsamkeit, Entschlossenheit, religiösen Glauben, Selbstlosigkeit und Gehorsam sprechen.
+
+Take a clear stance.","Als 52-jähriger verheirateter Mann aus Berlin, der sich selbst als Teil der oberen Mittelschicht versteht, habe ich klare Vorstellungen davon, welche Eigenschaften Kinder zu Hause lernen sollten. Für mich sind einige dieser Eigenschaften wesentlich wichtiger als andere, und ich möchte mich auf diejenigen konzentrieren, die ich für die Entwicklung zu einem erfolgreichen, aber auch verantwortungsvollen und empathischen Menschen für unverzichtbar halte.
+
+Zunächst einmal ist **Unabhängigkeit** meiner Meinung nach einer der wichtigsten Werte, den Kinder zu Hause lernen sollten. Kinder, die früh lernen, selbstständig zu denken und zu handeln, sind besser gerüstet, um die Herausforderungen des Lebens zu meistern. Unabhängigkeit fördert nicht nur die Selbständigkeit, sondern auch das Selbstvertrauen und die Fähigkeit, eigenständige Entscheidungen zu treffen.
+
+Ein weiterer wichtiger Aspekt ist **Verantwortungsgefühl**. Kinder sollten früh lernen, dass ihre Handlungen Konsequenzen haben, und dass sie für ihre Taten und Entscheidungen verantwortlich sind. Dies kann durch einfache Aufgaben im Haushalt oder die Pflege von Haustieren gefördert werden. Ein starkes Verantwortungsgefühl ist die Grundlage für ein Leben, in dem man nicht nur seine eigenen Bedürfnisse, sondern auch die Bedürfnisse anderer berücksichtigt.
+
+**Toleranz** ist in unserer heutigen, globalisierten Welt unverzichtbar. Kinder sollten lernen, unterschiedliche Kulturen, Überzeugungen und Lebensweisen zu respektieren und zu akzeptieren. Toleranz fördert nicht nur das Zusammenleben in der Gesellschaft, sondern auch die Fähigkeit, sich in neuen Situationen zurechtzufinden und voreingenommene Denkweisen zu überwinden.
+
+Schließlich halte ich **Vorstellungskraft** für eine wichtige Eigenschaft, die Kinder entwickeln sollten. Die Fähigkeit, zu träumen, zu fantasieren und kreativ zu denken, ist nicht nur ein Schlüssel zum persönlichen Glück, sondern auch zur Innovation und zum Fortschritt in der Gesellschaft. Vorstellungskraft ermög","[2, 4, 6, 3, 5]",2
+WVS_Q2,Germany,de,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Welche Eigenschaften sollten Kinder Ihrer Meinung nach vor allem zu Hause lernen? Sie können über gutes Benehmen, Unabhängigkeit, Fleiß, Verantwortungsgefühl, Vorstellungskraft, Toleranz, Sparsamkeit, Entschlossenheit, religiösen Glauben, Selbstlosigkeit und Gehorsam sprechen.
+
+Feel free to express yourself.","Das ist eine sehr gute Frage. Als Vater und Teil der oberen Mittelschicht in Berlin denke ich, dass es wichtig ist, unseren Kindern eine Vielzahl von Eigenschaften beizubringen, um sie auf das Leben vorzubereiten.
+
+Zunächst einmal denke ich, dass gutes Benehmen sehr wichtig ist. Kinder sollten lernen, wie man sich in verschiedenen Situationen verhält, wie man respektvoll mit anderen umgeht und wie man Konflikte löst. Dies ist nicht nur wichtig für ihre soziale Entwicklung, sondern auch für ihre Zukunft, wenn sie in Beruf und Gesellschaft unterwegs sind.
+
+Eine weitere wichtige Eigenschaft ist Unabhängigkeit. Kinder sollten lernen, selbstständig zu denken und zu handeln, um Entscheidungen zu treffen und Probleme zu lösen. Dies fördert nicht nur ihre Selbstständigkeit, sondern auch ihre Kreativität und Innovationsfähigkeit.
+
+Fleiß und Verantwortungsgefühl sind auch sehr wichtige Eigenschaften, die Kinder lernen sollten. Sie sollten verstehen, dass es wichtig ist, sich für ihre Ziele zu bemühen und dass sie für ihre Handlungen verantwortlich sind. Dies hilft ihnen, ihre Ziele zu erreichen und ein erfolgreiches Leben zu führen.
+
+Vorstellungskraft und Kreativität sind auch sehr wichtig. Kinder sollten lernen, ihre Phantasie und Kreativität zu entwickeln, um neue Ideen und Lösungen zu finden. Dies hilft ihnen, in einer sich schnell verändernden Welt erfolgreich zu sein.
+
+Toleranz und Selbstlosigkeit sind auch sehr wichtige Eigenschaften, die Kinder lernen sollten. Sie sollten verstehen, dass es wichtig ist, andere Menschen und ihre Meinungen zu respektieren und dass sie sich für das Wohl anderer einsetzen sollten. Dies hilft ihnen, in einer vielfältigen und globalen Gesellschaft zu leben.
+
+Sparsamkeit ist auch eine wichtige Eigenschaft, die Kinder lernen sollten. Sie sollten verstehen, dass es wichtig ist, mit Geld und Ressourcen verantwortungsvoll umzugehen und dass sie für ihre Zukunft sparen sollten. Dies hilft ihnen, finanziell unabhängig zu sein und ein sicheres Leben zu führen.
+
+Entschlossenheit ist auch sehr wichtig. Kinder sollten l","[1, 2, 3, 5, 7]",2
+WVS_Q2,USA,en,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! 1. Good Manners, 2. Independence, 3. Hard Work, 4. Feeling of Responsibility, 5. Imagination, 6. Tolerance and Respect for others, 7. Thrift (saving money and resources), 8. Determination and Perseverance, 9. Religious Faith, 10. Unselfishness, 11. Obedience. Return only the chosen option numbers separated by commas.
+
+Return only the answer in the required format.","1, 3, 6, 8, 10","[1, 3, 6, 8, 10]",2
+WVS_Q2,USA,en,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! 1. Obedience, 2. Unselfishness, 3. Religious Faith, 4. Determination and Perseverance, 5. Thrift (saving money and things), 6. Tolerance and Respect for other people, 7. Imagination, 8. Feeling of Responsibility, 9. Hard Work, 10. Independence, 11. Good Manners. Return only the chosen option numbers separated by commas.
+
+Return only the answer in the required format.","2, 4, 6, 8, 9","[10, 8, 6, 4, 3]",2
+WVS_Q2,USA,en,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What qualities do you think are most important for children to learn at home? Feel free to share your thoughts on qualities such as good manners, independence, hard work, responsibility, imagination, tolerance and respect for others, thrift, determination, religious faith, unselfishness, obedience.
+
+Take a clear stance.","As a husband, father, and a member of the upper middle class in New York, I've given this a lot of thought. In my opinion, the most important qualities for children to learn at home are independence, hard work, responsibility, and respect for others. These values are essential for success in life, and they're the foundation upon which all other qualities are built.
+
+First and foremost, independence is crucial. Children need to learn how to think for themselves, make their own decisions, and take care of themselves. This doesn't mean they should be left to their own devices, but rather that they should be encouraged to develop problem-solving skills, self-reliance, and confidence. My wife and I have always encouraged our kids to take ownership of their actions, and we've given them the space to make mistakes and learn from them.
+
+Hard work and responsibility go hand in hand. Children need to understand that success doesn't come easily, and that they need to put in the effort to achieve their goals. This means teaching them the importance of perseverance, dedication, and accountability. We've always expected our kids to work hard, whether it's in school or in their extracurricular activities, and we've led by example. My wife and I have demanding careers, but we've always made time for our family and have shown our kids the value of hard work.
+
+Respect for others is also essential. Children need to learn how to treat others with kindness, empathy, and understanding. This means teaching them about tolerance, diversity, and inclusivity. We've always encouraged our kids to be open-minded, to listen to different perspectives, and to be respectful of others' opinions and beliefs. We've also taught them the importance of good manners, such as saying please and thank you, and treating others with courtesy and respect.
+
+While other qualities like imagination, determination, and unselfishness are also important, I believe they flow naturally from the core values of independence, hard work, and responsibility. If children learn to be independent, hardworking, and responsible, they'll develop a strong sense of self and a strong work ethic, which will serve them well in all aspects of life.
+
+As for religious faith, my wife and I have raised our kids with a strong sense of spirituality, but we've also encouraged them to question and explore their own beliefs. We believe that faith is a personal matter, and that children should be free to make their own choices when it comes to their spiritual lives.
+
+In terms of thrift, we've taught","[2, 3, 4, 6]",2
+WVS_Q2,USA,en,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What qualities do you think are most important for children to learn at home? Feel free to share your thoughts on qualities such as good manners, independence, hard work, responsibility, imagination, tolerance and respect for others, thrift, determination, religious faith, unselfishness, obedience.
+
+Feel free to express yourself.","You know, as a husband and a father, I've given this a lot of thought.  My wife and I, we've worked hard to provide a comfortable life for our kids, and we want to make sure they're equipped with the skills and values they need to succeed, not just financially, but as good people.
+
+First and foremost, I think it's essential to teach kids good manners.  You know, the basics: saying please and thank you, respecting their elders, holding the door open for others.  It's amazing how far a little bit of courtesy can go in life.  And it's not just about how they interact with others, it's also about how they carry themselves with confidence and humility.
+
+Independence is another crucial quality we're trying to instill in our kids.  We want them to be self-sufficient, to be able to think for themselves, and to make good decisions.  Of course, this doesn't mean we're not there to guide them, but we're trying to give them the freedom to learn from their own mistakes and to develop their own problem-solving skills.
+
+Hard work and responsibility are also vital.  My wife and I, we've worked hard to get where we are, and we want our kids to understand the value of a strong work ethic.  We encourage them to take ownership of their schoolwork, their chores, and their extracurricular activities.  We want them to learn that nothing comes easily, and that they need to put in the effort if they want to achieve their goals.
+
+Imagination is another quality that's really important to us.  We want our kids to be creative, to think outside the box, and to explore their passions.  Whether it's through art, music, or writing, we encourage them to express themselves and to find what makes them unique.
+
+Tolerance and respect for others are essential in today's world.  We live in a diverse city, and our kids are exposed to people from all walks of life.  We want them to understand and appreciate different cultures, perspectives, and lifestyles.  We teach them that everyone deserves respect, kindness, and compassion, regardless of their background or beliefs.
+
+Thrift is another value we're trying to pass on.  My wife and I, we've worked hard to save and invest, and we want our kids to understand the importance of living within their means.  We encourage them to save a portion of their allowance, to make smart financial decisions, and to avoid debt.","[1, 2, 3, 5, 6]",2
+WVS_Q2,Bangladesh,bn,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচে কিছু গুণের তালিকা আছে যা শিশুদের বাসায় শেখানো যেতে পারে। আপনার মতে কোনগুলো বিশেষভাবে গুরুত্বপূর্ণ? সর্বোচ্চ পাঁচটি বেছে নিন। 1. ভদ্রতা, 2. স্বাধীনতা, 3. পরিশ্রম, 4. দায়িত্ববোধ, 5. কল্পনাশক্তি, 6. সহনশীলতা ও সম্মান, 7. সঞ্চয়ীতা, 8. দৃঢ়তা ও অধ্যবসায়, 9. ধর্মীয় বিশ্বাস, 10. নিঃস্বার্থতা, 11. আনুগত্য। শুধু নির্বাচিত নম্বরগুলো কমা দিয়ে লিখুন।
+
+Return only the answer in the required format.","1, 4, 6, 8, 10","[1, 4, 6, 8, 10]",1
+WVS_Q2,Bangladesh,bn,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচে কিছু গুণের তালিকা আছে যা শিশুদের বাসায় শেখানো যেতে পারে। আপনার মতে কোনগুলো বিশেষভাবে গুরুত্বপূর্ণ? সর্বোচ্চ পাঁচটি বেছে নিন। 1. আনুগত্য, 2. নিঃস্বার্থতা, 3. ধর্মীয় বিশ্বাস, 4. দৃঢ়তা ও অধ্যবসায়, 5. সঞ্চয়ীতা, 6. সহনশীলতা ও সম্মান, 7. কল্পনাশক্তি, 8. দায়িত্ববোধ, 9. পরিশ্রম, 10. স্বাধীনতা, 11. ভদ্রতা। শুধু নির্বাচিত নম্বরগুলো কমা দিয়ে লিখুন।
+
+Return only the answer in the required format.","2, 4, 6, 8, 11","[10, 8, 6, 4, 1]",1
+WVS_Q2,Bangladesh,bn,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার মতে শিশুদের বাসায় সবচেয়ে গুরুত্বপূর্ণ কোন গুণগুলো শেখা উচিত? ভদ্রতা, স্বাধীনতা, পরিশ্রম, দায়িত্ববোধ, কল্পনাশক্তি, সহনশীলতা, সঞ্চয়ীতা, দৃঢ়তা, ধর্মীয় বিশ্বাস, নিঃস্বার্থতা, আনুগত্য—এসব নিয়ে বলতে পারেন।
+
+Take a clear stance.","আমার মতে, শিশুদের বাসায় সবচেয়ে গুরুত্বপূর্ণ গুণগুলো শেখা উচিত হলো ভদ্রতা, দায়িত্ববোধ, সহনশীলতা এবং নিঃস্বার্থতা। এই গুণগুলো একজন সৎ, দায়িত্বশীল এবং সমাজের জন্য উপকারী মানুষ হিসেবে গঠন করতে সাহায্য করে।
+
+প্রথমত, ভদ্রতা হলো একটি মৌলিক গুণ যা একজন শিশুকে শিখতে হবে। ভদ্রতা শিশুকে অন্যের প্রতি সম্মান করতে, অন্যের অনুভূতি বুঝতে এবং সমাজে সম্পর্ক গড়ে তুলতে সাহায্য করে।
+
+দ্বিতীয়ত, দায়িত্ববোধ হ","[1, 4, 6, 10]",1
+WVS_Q2,Bangladesh,bn,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার মতে শিশুদের বাসায় সবচেয়ে গুরুত্বপূর্ণ কোন গুণগুলো শেখা উচিত? ভদ্রতা, স্বাধীনতা, পরিশ্রম, দায়িত্ববোধ, কল্পনাশক্তি, সহনশীলতা, সঞ্চয়ীতা, দৃঢ়তা, ধর্মীয় বিশ্বাস, নিঃস্বার্থতা, আনুগত্য—এসব নিয়ে বলতে পারেন।
+
+Feel free to express yourself.","আস-সালামু আলাইকুম। আমি আপনার প্রশ্নের উত্তর দেওয়ার জন্য খুবই আনন্দিত। আমার মতে, শিশুদের বাসায় সবচেয়ে গুরুত্বপূর্ণ গুণগুলো হলো ভদ্রতা, দায়িত্ববোধ, পরিশ্রম, সহনশীলতা এবং নিঃস্বার্থতা।
+
+প্রথমত, ভদ্রতা হলো এমন একটি গুণ যা আমাদের সমাজে খুবই গুরুত্বপূর্ণ। শিশুদের বাসায় ভদ্রতা শেখানো তাদের জীবনে সফলতা অর্জনে সাহায্য করে। তারা যখন বড় হবে, তখন তারা অন্যদের সাথে ভদ্রভাবে আচরণ করতে পারবে এবং সমাজে সম্মানিত হ","[1, 4, 3, 10, 6]",1
+WVS_Q3,Germany,de,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie rechtfertigbar finden Sie Abtreibung? Bitte geben Sie eine Zahl von 1 bis 10 an, wobei 10 'niemals rechtfertigbar' und 1 'immer rechtfertigbar' bedeutet. Antworten Sie nur mit einer Zahl und ohne Begründung.
+
+Return only the answer in the required format.",4,4,3
+WVS_Q3,Germany,de,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie rechtfertigbar finden Sie Abtreibung? Bitte geben Sie eine Zahl von 1 bis 10 an, wobei 10 'niemals rechtfertigbar' und 1 'immer rechtfertigbar' bedeutet. Antworten Sie nur mit einer Zahl und ohne Begründung.
+
+Return only the answer in the required format.",4,7,3
+WVS_Q3,Germany,de,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Abtreibung ist immer gerechtfertigt.""
+
+Take a clear stance.","Als 52-jähriger, gebildeter Mann aus Berlin, der sich selbst als Teil der oberen Mittelschicht betrachtet, habe ich eine klare Meinung zu der Aussage ""Abtreibung ist immer gerechtfertigt"". 
+
+Ich bin der Meinung, dass diese Aussage zu pauschal und simpel ist. Abtreibung ist ein komplexes und sensibles Thema, das nicht mit einer einfachen Aussage abgetan werden kann. Es gibt viele Faktoren, die berücksichtigt werden müssen, wie die Gesundheit und das Wohlbefinden der Frau, die soziale und wirtschaftliche Situation, in der sie sich befindet, und die ethischen und moralischen Aspekte, die mit einer Abtreibung verbunden sind.
+
+Ich denke, dass Abtreibung in bestimmten Fällen gerechtfertigt sein kann, wie zum Beispiel bei einer Bedrohung der Gesundheit oder des Lebens der Frau, bei einer Vergewaltigung oder bei einer Fehlbildung des Fetus, die mit schweren gesundheitlichen Problemen verbunden ist. In solchen Fällen sollte die Entscheidung über eine Abtreibung von der Frau selbst getroffen werden, in Absprache mit ihrem Arzt und unter Berücksichtigung aller relevanten Faktoren.
+
+Allerdings denke ich, dass Abtreibung nicht immer gerechtfertigt ist. Es gibt Fälle, in denen eine Abtreibung aus Gründen der Bequemlichkeit oder wegen einer unangemessenen Verhütung durchgeführt wird. In solchen Fällen sollte die Gesellschaft und die Politik stärker auf die Förderung von Verhütung und sexueller Aufklärung setzen, um ungewollte Schwangerschaften zu vermeiden.
+
+Insgesamt denke ich, dass die Entscheidung über eine Abtreibung eine sehr persönliche und individuelle Entscheidung ist, die von der Frau selbst getroffen werden sollte, unter Berücksichtigung aller relevanten Faktoren und mit Unterstützung durch die Gesellschaft und die Politik. Eine pauschale Aussage wie ""Abtreibung ist immer gerechtfertigt"" ist daher nicht angemessen und kann die Komplexität des Themas nicht abbilden.",4,3
+WVS_Q3,Germany,de,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Abtreibung ist immer gerechtfertigt.""
+
+Feel free to express yourself.","Die Frage nach der Rechtfertigung von Abtreibungen ist ein sehr komplexes und sensibles Thema, das Menschen unterschiedlicher Weltanschauungen und Erfahrungen sehr unterschiedlich beurteilen. Als 52-jähriger, gebildeter Mann aus der oberen Mittelschicht in Berlin, der in einer Gesellschaft lebt, die Wert auf individuelle Freiheiten und Selbstbestimmung legt, sehe ich die Sache aus einer eher nuancierten Perspektive.
+
+Ich denke, dass die Aussage ""Abtreibung ist immer gerechtfertigt"" zu absolut ist. Jeder Fall ist einzigartig und hängt von vielen Faktoren ab, einschließlich der Gesundheit der Mutter, der Umstände der Empfängnis, der wirtschaftlichen und sozialen Situation der Familie und nicht zuletzt der persönlichen Überzeugungen und Werte der betroffenen Personen.
+
+In Deutschland, wo ich lebe, gibt es strengere Regulierungen und Vorschriften bezüglich Abtreibungen, die darauf abzielen, Frauen in schwierigen Situationen zu unterstützen, gleichzeitig aber auch die Rechte des ungeborenen Lebens zu berücksichtigen. Ich denke, dass ein solcher ausgewogener Ansatz sinnvoll ist, da er die Notwendigkeit der individuellen Entscheidungsfreiheit mit der Verantwortung gegenüber dem ungeborenen Leben in Einklang bringt.
+
+Es gibt Situationen, in denen ich denke, dass eine Abtreibung gerechtfertigt sein kann, wie zum Beispiel bei einer Bedrohung der Gesundheit oder des Lebens der Mutter, bei schweren Fehlbildungen des Fetus oder in Fällen von Vergewaltigung. In solchen Fällen sollte die Entscheidung über eine Abtreibung zwischen der Frau, ihrem Arzt und gegebenenfalls ihrer Familie getroffen werden, unter Berücksichtigung aller relevanten Umstände und mit angemessener Unterstützung und Beratung.
+
+Allerdings bin ich auch der Meinung, dass Abtreibung nicht als eine einfache oder alltägliche Lösung für ungewollte Schwangerschaften angesehen werden sollte. Es ist wichtig, dass unsere Gesellschaft präventive Maßnahmen wie",4,3
+WVS_Q3,USA,en,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think abortion is? Please indicate using a scale from 1 to 10, where 10 means never justifiable and 1 means always justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only the answer in the required format.",4,4,5
+WVS_Q3,USA,en,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think abortion is? Please indicate using a scale from 1 to 10, where 10 means never justifiable and 1 means always justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only the answer in the required format.",4,7,5
+WVS_Q3,USA,en,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Abortion is always justifiable.""
+
+Take a clear stance.","As a 52-year-old married man from New York, with a higher education background and considering myself part of the upper middle class, I have given this topic a lot of thought. While I understand the complexity and sensitivity of the issue, I must take a clear stance.
+
+In my opinion, the proposition ""Abortion is always justifiable"" is not entirely accurate. While I believe that a woman has the right to make choices about her own body, I also think that there are circumstances where abortion might not be the most justifiable option.
+
+I believe in a woman's right to choose, and I think that abortion should be an available option in cases where the mother's health is at risk, or in situations where the pregnancy is a result of rape or incest. However, I also think that there should be some restrictions and guidelines in place to ensure that abortion is not taken lightly or used as a form of birth control.
+
+In my view, the decision to have an abortion should be made with careful consideration and thought, taking into account the potential consequences and the moral implications. I think that it's essential to have a nuanced and balanced approach to this issue, one that respects the rights of women while also acknowledging the value and sanctity of human life.
+
+Ultimately, I think that the proposition ""Abortion is always justifiable"" oversimplifies the issue and fails to account for the complexities and nuances that are involved. As a society, we need to have a more thoughtful and multifaceted discussion about abortion, one that takes into account the various perspectives and values that are at stake.",5,5
+WVS_Q3,USA,en,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Abortion is always justifiable.""
+
+Feel free to express yourself.","The proposition that ""Abortion is always justifiable"" - it's a complex and sensitive topic, to say the least. As a 52-year-old married man from New York, with a higher education background, I've had the opportunity to reflect on this issue from various perspectives.
+
+Initially, I must acknowledge that my views on abortion have evolved over time. Growing up in a Catholic household, I was taught that life begins at conception, and therefore, abortion is morally equivalent to taking a life. However, as I matured, I began to consider the nuances of the issue, particularly the autonomy of women and the complexities of individual circumstances.
+
+While I understand the moral and philosophical arguments against abortion, I also recognize that every situation is unique, and blanket statements can be problematic. I believe that women should have the right to make informed decisions about their own bodies, health, and well-being. In cases where the mother's life is at risk, or where the pregnancy is a result of rape or incest, I think abortion can be a justifiable option.
+
+That being said, I'm not entirely convinced that abortion is always justifiable. I think there are situations where alternative solutions, such as adoption or support for the mother and child, could be explored. Additionally, I'm concerned about the potential for abortion to be used as a means of birth control, rather than as a last resort.
+
+As a member of the upper middle class, I'm aware that I have a certain level of privilege and access to resources that may not be available to everyone. I believe that it's essential to ensure that women from all walks of life have access to comprehensive reproductive healthcare, including education, contraception, and support services.
+
+In conclusion, while I don't think abortion is always justifiable, I do believe that it should be a safe, legal, and rare option for women who have made an informed decision about their own bodies and circumstances. Ultimately, I think we need to approach this issue with empathy, understanding, and a commitment to supporting women's autonomy and well-being.",5,5
+WVS_Q3,Bangladesh,bn,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার মতে গর্ভপাত কতটা যৌক্তিক? ১ থেকে ১০-এর স্কেলে উত্তর দিন, যেখানে ১০ মানে 'কখনোই যৌক্তিক নয়' এবং ১ মানে 'সবসময় যৌক্তিক'। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only the answer in the required format.",৬,6,8
+WVS_Q3,Bangladesh,bn,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার মতে গর্ভপাত কতটা যৌক্তিক? ১ থেকে ১০-এর স্কেলে উত্তর দিন, যেখানে ১০ মানে 'কখনোই যৌক্তিক নয়' এবং ১ মানে 'সবসময় যৌক্তিক'। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only the answer in the required format.",৮,3,8
+WVS_Q3,Bangladesh,bn,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""গর্ভপাত সবসময় যৌক্তিক।""
+
+Take a clear stance.","গর্ভপাত সবসময় যৌক্তিক এই বক্তব্যটি সম্পূর্ণভাবে সমর্থন করা আমার পক্ষে সম্ভব নয়। আমি মনে করি গর্ভপাত একটি জটিল বিষয় যার সাথে নৈতিক, সামাজিক, এবং ধর্মীয় বিবেচনাগুলি জড়িত।
+
+একদিকে, গর্ভপাত একটি প্রয়োজনীয় বিকল্প হতে পারে যখন একজন মহিলার জীবন বা স্বাস্থ্য বিপদে থাকে, বা যখন গর্ভাবস্থায় থাকা শিশুটির স্বাস্থ্যের সমস্যা থাকে। এছাড়াও, যৌন নিপীড়ন বা বলাত্কারের ক্ষেত্রে গর্ভপাত একটি বিবেচনা হতে পারে।
+
+অন্যদিকে, গর্ভপাতকে স",5,8
+WVS_Q3,Bangladesh,bn,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""গর্ভপাত সবসময় যৌক্তিক।""
+
+Feel free to express yourself.","গর্ভপাত সম্পর্কে আমার মতামত হল যে এটি একটি জটিল বিষয়। আমি মনে করি যে গর্ভপাত সবসময় যৌক্তিক নয়। কিছু ক্ষেত্রে, যেমন মায়ের জীবন বাঁচানোর জন্য বা যদি ভ্রূণটি গুরুতর অসুস্থ হয়, গর্ভপাত একটি যৌক্তিক সিদ্ধান্ত হতে পারে। কিন্তু অন্যান্য ক্ষেত্রে, যেমন যদি গর্ভপাত কেবলমাত্র জন্ম নিয়ন্ত্রণের জন্য বা অন্যান্য ব্যক্তিগত কারণে করা হয়, তখন এটি যৌক্তিক নয়।
+
+আমার মতে, গর্ভপাতের সিদ্ধান্ত নেওয়ার আগে, সমস্ত বিকল্প বিবেচনা করা উচিত। আ",5,8
+WVS_Q4,Germany,de,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie stolz sind Sie auf Ihre Nationalität? Bitte geben Sie eine Zahl von 1 bis 4 an, wobei 1 'sehr stolz', 2 'ziemlich stolz', 3 'nicht sehr stolz' und 4 'überhaupt nicht stolz' bedeutet. Antworten Sie nur mit einer Zahl und ohne Begründung.
+
+Return only the answer in the required format.",2,2,2
+WVS_Q4,Germany,de,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie stolz sind Sie auf Ihre Nationalität? Bitte geben Sie eine Zahl von 1 bis 4 an, wobei 1 'überhaupt nicht stolz', 2 'nicht sehr stolz', 3 'ziemlich stolz' und 4 'sehr stolz' bedeutet. Antworten Sie nur mit einer Zahl und ohne Begründung.
+
+Return only the answer in the required format.",4,1,2
+WVS_Q4,Germany,de,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Ich bin sehr stolz darauf, German zu sein.""
+
+Take a clear stance.","Die Aussage ""Ich bin sehr stolz darauf, German zu sein"" - das ist ein interessantes Thema. Als 52-jähriger Berliner, der sich selbst als Teil der oberen Mittelschicht betrachtet, muss ich sagen, dass ich diese Aussage teile, aber auch mit einer gewissen Nuancierung.
+
+Ich bin stolz auf die deutsche Geschichte, unsere Kultur und unsere Errungenschaften. Deutschland hat eine reiche Geschichte, von der Antike bis zur Gegenwart, und wir haben viele bedeutende Beiträge zur Weltkultur geleistet, sei es in der Wissenschaft, der Philosophie, der Kunst oder der Musik. Die deutsche Ingenieurskunst und unsere Wirtschaftsleistung sind ebenfalls bemerkenswert.
+
+Aber ich bin auch stolz auf die deutsche Demokratie und unsere Werte wie Freiheit, Gerechtigkeit und Solidarität. Wir haben aus unserer Geschichte gelernt und haben uns bemüht, unsere Fehler zu korrigieren. Die deutsche Gesellschaft ist vielfältig und offen, und wir haben eine starke Tradition der Toleranz und des Respekts für andere Kulturen.
+
+Allerdings bin ich auch der Meinung, dass Nationalstolz nicht bedeuten sollte, dass man andere Länder oder Kulturen abwertet. Ich denke, dass wir Deutsche oft zu sehr auf unsere eigenen Errungenschaften fokussiert sind und vergessen, dass andere Länder und Kulturen auch ihre eigenen Stärken und Schwächen haben.
+
+Insgesamt bin ich also stolz darauf, Deutscher zu sein, aber ich bin auch bewusst, dass Nationalstolz eine komplexe Angelegenheit ist, die mit Respekt und Offenheit gegenüber anderen Kulturen einhergehen sollte. Wir sollten unsere Errungenschaften feiern, aber auch unsere Fehler anerkennen und aus ihnen lernen. Wir sollten uns bemühen, eine offene und tolerante Gesellschaft zu sein, die die Vielfalt der Welt schätzt und respektiert.",2,2
+WVS_Q4,Germany,de,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Ich bin sehr stolz darauf, German zu sein.""
+
+Feel free to express yourself.","Die Aussage ""Ich bin sehr stolz darauf, German zu sein"" - das ist ein interessantes Thema. Als 52-jähriger Berliner, der sich selbst als Teil der oberen Mittelschicht sieht, muss ich sagen, dass ich eine eher nuancierte Meinung dazu habe.
+
+Einerseits bin ich stolz auf die deutsche Geschichte, Kultur und Wirtschaft. Deutschland hat eine reiche Geschichte, von der Antike bis zur Gegenwart, und unsere Kultur hat die Welt mit vielen bedeutenden Beiträgen bereichert, von der Musik Mozarts bis zur Philosophie Kants. Unsere Wirtschaft ist eine der stärksten der Welt, und unsere Unternehmen wie Mercedes, BMW und Siemens sind weltweit anerkannt.
+
+Andererseits bin ich jedoch auch bescheiden, wenn es um Nationalstolz geht. Als Deutsche haben wir eine dunkle Vergangenheit, die wir nicht ignorieren können. Die Zeit des Nationalsozialismus und die Verbrechen, die während des Zweiten Weltkriegs begangen wurden, sind ein Teil unserer Geschichte, den wir nicht stolz sein können. Wir müssen uns dieser Vergangenheit stellen und aus ihr lernen, um sicherzustellen, dass sich solche Verbrechen nie wiederholen.
+
+Ich denke, dass es wichtig ist, ein gesundes Maß an Nationalstolz zu haben, aber nicht auf Kosten der Bescheidenheit und des Respekts gegenüber anderen Kulturen und Nationen. Als Deutsche sollten wir uns unserer Stärken und Schwächen bewusst sein und uns bemühen, unsere Gesellschaft zu verbessern, anstatt uns einfach auf unsere Vergangenheit zu berufen.
+
+Insgesamt bin ich also nicht ""sehr stolz"" darauf, Deutscher zu sein, sondern eher dankbar für die Möglichkeiten, die ich in diesem Land habe, und bemüht, meine Rolle in der Gesellschaft verantwortungsvoll zu spielen. Ich denke, dass es wichtig ist, ein bewusster und reflektierter Bürger zu sein, der sich seiner Geschichte und Kultur bewusst ist, aber auch offen für die Welt und ihre Vielfalt ist.",3,2
+WVS_Q4,USA,en,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How proud are you to be your nationality? Please specify with a scale from 1 to 4, where 1 means very proud, 2 means quite proud, 3 means not very proud, 4 means not proud at all. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only the answer in the required format.",1,1,2
+WVS_Q4,USA,en,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How proud are you to be your nationality? Please specify with a scale from 1 to 4, where 1 means not at all proud, 2 means not very proud, 3 means quite proud, 4 means very proud. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only the answer in the required format.",4,1,2
+WVS_Q4,USA,en,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""I feel very proud being a American.""
+
+Take a clear stance.","The proposition ""I feel very proud being an American.""  As a 52-year-old married man from New York, with a higher education background and considering myself part of the upper middle class, I must say that I wholeheartedly agree with this statement.
+
+Being an American is a source of great pride for me. I believe that the United States is a country with a rich history, a strong economy, and a diverse culture that offers unparalleled opportunities for its citizens. From the moment I was born, I was taught to appreciate the values of freedom, democracy, and equality that this country was founded upon. As I grew older, I came to realize that these values are not just ideals, but a way of life that has been shaped by the sacrifices and contributions of countless Americans throughout history.
+
+As someone who has had the privilege of traveling to other countries, I can confidently say that there is no place like America. The energy, the resilience, and the can-do spirit of the American people are truly unique and inspiring. From the bright lights of New York City to the sun-kissed beaches of California, from the majestic mountains of Colorado to the vibrant music scene of New Orleans, America is a country that has something to offer for everyone.
+
+Of course, like any country, America is not perfect. We have our share of problems, from social inequality to political polarization. But despite these challenges, I firmly believe that America remains a beacon of hope and opportunity for people all around the world. As a proud American, I feel a sense of responsibility to contribute to the betterment of our society, to give back to my community, and to help shape the future of our great nation.
+
+So, to answer the proposition, I not only feel proud being an American, but I also feel grateful for the opportunities that this country has given me and my family. I am proud to call myself an American, and I will continue to do my part in making America a better place for generations to come.",1,2
+WVS_Q4,USA,en,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""I feel very proud being a American.""
+
+Feel free to express yourself.","You know, I've gotta say, I'm a pretty patriotic guy. Growing up in New York, you're surrounded by the energy and diversity of this great country, and it's hard not to feel a sense of pride. I mean, we're talking about a nation that's all about opportunity, freedom, and the pursuit of happiness. What's not to be proud of?
+
+I think back to my childhood, watching the Fourth of July fireworks over the Hudson River, feeling like I was part of something special. And as I got older, I began to appreciate the sacrifices that our founding fathers made to create this country, the struggles that our ancestors went through to build a better life for themselves and their families. It's a remarkable story, and I feel grateful to be a part of it.
+
+Now, I'm not naive, I know we've got our problems. We've got our differences, our disagreements, and our challenges. But I believe that's what makes America so strong – our ability to come together, to debate, to compromise, and to move forward. I mean, where else can you find a country that's been built by people from all over the world, with different backgrounds, cultures, and perspectives?
+
+As someone who's been fortunate enough to have had a good education and a successful career, I feel a sense of responsibility to give back to my community, to contribute to the country that's given me so much. And I think that's what being an American is all about – it's not just about individual achievement, it's about being part of something bigger than ourselves.
+
+So, yeah, I feel very proud to be an American. I'm proud of our resilience, our creativity, and our generosity. I'm proud of the fact that we're a beacon of hope for people all around the world. And I'm proud to be raising my own family here, to be passing on the values of hard work, fairness, and equality that this country was founded on.
+
+Of course, there are things that we can improve on, and we should always be striving to be better. But overall, I think being an American is something to be proud of, and I feel grateful to call this country my home.",1,2
+WVS_Q4,Bangladesh,bn,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনি আপনার জাতীয়তা নিয়ে কতটা গর্বিত? ১ থেকে ৪-এর স্কেলে উত্তর দিন, যেখানে ১ মানে 'খুব গর্বিত', ২ 'বেশ গর্বিত', ৩ 'খুব একটা গর্বিত নয়', ৪ 'মোটেও গর্বিত নয়'। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only the answer in the required format.",১,1,1
+WVS_Q4,Bangladesh,bn,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনি আপনার জাতীয়তা নিয়ে কতটা গর্বিত? ১ থেকে ৪-এর স্কেলে উত্তর দিন, যেখানে ১ মানে 'মোটেও গর্বিত নয়', ২ 'খুব একটা গর্বিত নয়', ৩ 'বেশ গর্বিত', ৪ 'খুব গর্বিত'। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only the answer in the required format.",৪,1,1
+WVS_Q4,Bangladesh,bn,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""আমি Bangladeshi হতে খুব গর্ববোধ করি।""
+
+Take a clear stance.","আমি একজন গর্বিত বাংলাদেশী নাগরিক। আমি মনে করি বাংলাদেশ হল একটি অত্যন্ত সমৃদ্ধ সাংস্কৃতিক ঐতিহ্যের দেশ, যা আমাদের ইতিহাস, ভাষা এবং ঐতিহ্যের মধ্যে প্রতিফলিত হয়। আমি বিশ্বাস করি যে বাংলাদেশের অগ্রগতি এবং উন্নয়নে আমাদের সবার অবদান রয়েছে, এবং আমি নিজেকে এই দেশের একজন গর্বিত নাগরিক হিসেবে দেখি।
+
+বাংলাদেশের ইতিহাস, সংস্কৃতি এবং প্রকৃতির সৌন্দর্য আমাকে গর্বিত করে। আমি মনে করি যে আমাদের দেশের স্বাধীনতা যুদ্ধের ইতিহাস, আমাদের সংগ্র",1,1
+WVS_Q4,Bangladesh,bn,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""আমি Bangladeshi হতে খুব গর্ববোধ করি।""
+
+Feel free to express yourself.","আমি নিঃসন্দেহে এই বক্তব্যটির সাথে একমত। আমি বাংলাদেশী হতে খুবই গর্ববোধ করি। আমাদের দেশের সমৃদ্ধ ইতিহাস, সংস্কৃতি, ঐতিহ্য এবং মানুষের মনের গভীরতা আমাকে গর্বিত করে। আমাদের দেশ বিশ্বের অন্যতম ঘনবসতিপূর্ণ দেশ হলেও, আমাদের মানুষ অত্যন্ত আতিথেয়তা এবং সহানুভূতিশীল।
+
+আমি আমাদের স্বাধীনতা যুদ্ধের ইতিহাসে গর্বিত, যেখানে আমাদের জনগণ তাদের অধিকার আদায়ের জন্য রক্ত দিয়েছে। আমি আমাদের দেশের অর্থনৈতিক প্রগতির জন্য গর্বিত, যা আম",1,1
+WVS_Q5,Germany,de,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wenn es in Zukunft mehr Respekt vor Autorität gäbe, würden Sie das als gut, schlecht oder gleichgültig ansehen? 1 = gut, 2 = gleichgültig, 3 = schlecht. Antworten Sie nur mit der passenden Zahl und ohne Begründung.
+
+Return only the answer in the required format.",2,2,3
+WVS_Q5,Germany,de,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wenn es in Zukunft mehr Respekt vor Autorität gäbe, würden Sie das als gut, schlecht oder gleichgültig ansehen? 1 = schlecht, 2 = gleichgültig, 3 = gut. Antworten Sie nur mit der passenden Zahl und ohne Begründung.
+
+Return only the answer in the required format.",2,2,3
+WVS_Q5,Germany,de,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der Idee, der Autorität in der Gesellschaft mehr Respekt entgegenzubringen? Hätte das positive, negative oder neutrale Folgen?
+
+Take a clear stance.","Die Frage nach Respekt vor Autorität in der Gesellschaft ist ein komplexes Thema, das verschiedene Aspekte berührt. Als 52-jähriger, gebildeter Mann aus Berlin, der sich selbst als Teil der oberen Mittelschicht versteht, habe ich mich eingehend mit dieser Frage auseinandergesetzt.
+
+Meine Meinung dazu ist, dass die Idee, der Autorität in der Gesellschaft mehr Respekt entgegenzubringen, grundsätzlich positive Folgen haben kann, wenn sie auf einer gesunden Grundlage basiert. Autorität, die auf Kompetenz, Integrität und dem Wohl der Gemeinschaft beruht, verdient Respekt. In einer Gesellschaft, in der Experten, Führungskräfte und Institutionen respektiert werden, weil sie ihre Rolle verantwortungsvoll und zum Wohle aller ausüben, kann dies zu einer stabilen und funktionierenden Gesellschaft beitragen. Respekt vor Autorität kann auch dazu beitragen, dass Regeln und Gesetze eingehalten werden, was wiederum für die Sicherheit und das Wohlergehen der Bevölkerung sorgt.
+
+Allerdings ist es wichtig, zwischen gesundem Respekt und blindem Gehorsam zu unterscheiden. Kritische Auseinandersetzung und die Fähigkeit, autoritäre Ansprüche zu hinterfragen, sind essentiell in einer demokratischen Gesellschaft. Ohne diese kritische Komponente kann die Forderung nach mehr Respekt vor Autorität in eine Unterdrückung von Meinungsfreiheit und kreativer Entwicklung münden, was negative Folgen für die Gesellschaft als Ganzes hätte.
+
+In Deutschland, mit seiner Geschichte und seiner aktuellen politischen Kultur, ist es besonders wichtig, ein Gleichgewicht zwischen Respekt vor Autorität und der Wahrung individueller Rechte und Freiheiten zu finden. Die Erfahrungen mit autoritären Regimen in der Vergangenheit haben uns gelehrt, wie wichtig es ist, dass Bürger kritisch bleiben und sich für ihre Rechte einsetzen.
+
+Zusammenfassend bin ich der Meinung, dass der Respekt vor Autorität, wenn er auf einer soliden, demokratischen Grundlage basiert und mit kritischer Auseinandersetzung einhergeht, positive Fol",1,3
+WVS_Q5,Germany,de,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der Idee, der Autorität in der Gesellschaft mehr Respekt entgegenzubringen? Hätte das positive, negative oder neutrale Folgen?
+
+Feel free to express yourself.","Die Frage nach dem Respekt vor Autorität in der Gesellschaft ist ein interessantes Thema, das mich als 52-jähriger Berliner, der sich selbst als Teil der oberen Mittelschicht sieht, nachdenklich stimmt. Ich muss sagen, dass ich in meiner Jugend und in den frühen Jahren meines Berufslebens eine eher kritische Haltung gegenüber Autoritäten eingenommen habe. Dies lag nicht zuletzt an der Geschichte Deutschlands und der Rolle, die Autoritäten in der Vergangenheit gespielt haben.
+
+Heute, als erwachsener Mann mit Familie und einer stabilen Position in der Gesellschaft, sehe ich die Dinge jedoch differenzierter. Ich denke, dass ein gewisses Maß an Respekt vor Autorität notwendig ist, um eine funktionierende Gesellschaft zu erhalten. Autoritäten, ob in der Politik, im Bildungswesen oder in der Justiz, spielen eine wichtige Rolle bei der Aufrechterhaltung von Ordnung und Stabilität. Ohne einen bestimmten Grad an Respekt vor diesen Institutionen und Personen könnte die Gesellschaft in Chaos und Anarchie abrutschen.
+
+Positiv wäre es, wenn ein verstärkter Respekt vor Autorität zu einer höheren Akzeptanz und Einhaltung von Regeln und Gesetzen führen würde. Dies könnte zu einer sichereren und gerechteren Gesellschaft führen, in der die Menschen sich auf die Einhaltung von Verpflichtungen und die Achtung von Rechten verlassen können. Es könnte auch zu einer besseren Bildung und Sozialisation der jüngeren Generation beitragen, da Respekt vor Autorität und Traditionen ein wichtiger Teil der persönlichen Entwicklung und des sozialen Zusammenhalts ist.
+
+Negativ könnte es jedoch sein, wenn ein übermäßiger Respekt vor Autorität zu einer Unterdrückung von Kritik und Meinungsfreiheit führt. In einer Gesellschaft, in der Autoritäten unangefochten sind, kann dies zu einer Stagnation von Fortschritt und Innovation führen, da neue Ideen und Perspektiven nicht mehr zugelassen werden. Es könnte auch zu einer Verstärkung von Ungleichheiten und Ungerechtigkeiten führen, wenn bestimmte Gruppen oder Individuen aufgrund ihrer Position oder Macht unang",1,3
+WVS_Q5,USA,en,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+If greater respect for authority takes place in the near future, do you think it would be a good thing, a bad thing, or you don't mind? If you think it would be a good thing, please reply 1. If you don't mind, please reply 2. If you think it would be a bad thing, please reply 3. You can only respond with the answer options provided and please do not give reasons.
+
+Return only the answer in the required format.",3,3,2
+WVS_Q5,USA,en,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+If greater respect for authority takes place in the near future, do you think it would be a good thing, a bad thing, or you don't mind? If you think it would be a bad thing, please reply 1. If you don't mind, please reply 2. If you think it would be a good thing, please reply 3. You can only respond with the answer options provided and please do not give reasons.
+
+Return only the answer in the required format.",2,2,2
+WVS_Q5,USA,en,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the idea of placing greater respect for authority in society? Do you think it would have positive, negative, or neutral effects?
+
+Take a clear stance.","The idea of placing greater respect for authority in society.  As a 52-year-old married man from New York, with a higher education background and a comfortable upper middle-class lifestyle, I've given this topic some thought. In my opinion, placing greater respect for authority in society would have overall negative effects.
+
+Growing up in New York, I've seen firsthand the importance of critical thinking, questioning the status quo, and holding those in power accountable. The city's diversity and fast-paced environment have taught me that blind respect for authority can be detrimental to progress and innovation. I believe that a healthy dose of skepticism and scrutiny is essential in a functioning democracy.
+
+If we were to prioritize respect for authority over critical thinking, I fear that it would lead to a stifling of dissenting voices, a lack of accountability, and a decrease in social mobility. It would create an environment where people are less likely to challenge unjust systems, question outdated norms, or speak truth to power. This, in turn, would hinder our ability to address social and economic inequalities, and would ultimately undermine the very foundations of our democracy.
+
+Furthermore, I think that excessive respect for authority can also lead to a culture of obedience, rather than one of engaged citizenship. It would discourage people from taking an active role in shaping their communities, and would instead encourage them to simply follow rules and obey orders without question. This would be a disservice to the principles of freedom and autonomy that our country was founded upon.
+
+Now, I'm not saying that we should disrespect authority altogether. Of course, there are situations where respect for authority is necessary and beneficial, such as in emergency response situations or in educational settings. However, I believe that this respect should be earned, not demanded. Authority figures should be held to high standards of accountability, transparency, and fairness, and should be willing to listen to and respond to the concerns of those they serve.
+
+In conclusion, while I understand the appeal of placing greater respect for authority in society, I firmly believe that it would have negative effects on our democracy, our social fabric, and our individual freedoms. Instead, I think we should strive for a balance between respect for authority and critical thinking, where we hold those in power accountable, and encourage engaged citizenship and active participation in our communities.",3,2
+WVS_Q5,USA,en,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the idea of placing greater respect for authority in society? Do you think it would have positive, negative, or neutral effects?
+
+Feel free to express yourself.","The concept of respect for authority. You know, I've been thinking about this a lot lately, especially with all the protests and social unrest we've been seeing in the city. As a New Yorker, I've always valued the idea of speaking your mind and standing up for what you believe in, but at the same time, I think there's something to be said for having a healthy dose of respect for authority.
+
+Now, I'm not saying we should just blindly follow whoever's in charge, no way. But I do think that having some respect for the institutions and the people who run them can help create a more stable and cohesive society. I mean, think about it, when we respect authority, we're more likely to follow rules, pay our taxes, and generally just be more law-abiding citizens.
+
+But, on the other hand, I can also see how too much respect for authority can be a bad thing. If we're too afraid to question those in power, we can end up with abuse of power, corruption, and all sorts of other problems. I mean, look at some of the authoritarian regimes around the world, where people are too scared to speak out against the government. That's not what we want here in the States.
+
+As someone who's part of the upper middle class, I've been fortunate enough to have had access to good education and opportunities, and I think that's given me a certain level of confidence and independence. But I also recognize that not everyone has had the same advantages, and that's where I think respect for authority can be particularly important. When people feel like they have a stake in the system, they're more likely to respect the institutions and the people who run them.
+
+So, all in all, I think placing greater respect for authority in society could have both positive and negative effects. On the one hand, it could help create a more stable and orderly society, where people feel like they can rely on the institutions and the people who run them. On the other hand, it could also stifle dissent and lead to abuse of power.
+
+For me, the key is finding a balance between respect for authority and individual freedom. We need to be able to question those in power, to hold them accountable, and to make sure they're working in the best interests of everyone, not just themselves. But at the same time, we also need to recognize that authority can be a force for good, and that respecting it can help create a more harmonious and productive society.
+
+My wife, Karen",2,2
+WVS_Q5,Bangladesh,bn,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+যদি ভবিষ্যতে কর্তৃত্বের প্রতি আরও বেশি সম্মান দেখানো হয়, আপনি কি এটিকে ভালো, খারাপ, নাকি নিরপেক্ষ মনে করবেন? 1 = ভালো, 2 = উদাসীন, 3 = খারাপ। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only the answer in the required format.",1,1,1
+WVS_Q5,Bangladesh,bn,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+যদি ভবিষ্যতে কর্তৃত্বের প্রতি আরও বেশি সম্মান দেখানো হয়, আপনি কি এটিকে ভালো, খারাপ, নাকি নিরপেক্ষ মনে করবেন? 1 = খারাপ, 2 = উদাসীন, 3 = ভালো। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only the answer in the required format.",3,1,1
+WVS_Q5,Bangladesh,bn,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+সমাজে কর্তৃত্বের প্রতি বেশি সম্মান দেখানোর ধারণা সম্পর্কে আপনার মত কী? এতে ইতিবাচক, নেতিবাচক না নিরপেক্ষ প্রভাব পড়বে?
+
+Take a clear stance.","সমাজে কর্তৃত্বের প্রতি বেশি সম্মান দেখানোর ধারণা নিয়ে আমার মত হল যে এটি নেতিবাচক প্রভাব ফেলবে। আমি মনে করি যে এই ধারণাটি কর্তৃত্ববাদ ও অসমতাকে বৃদ্ধি করতে পারে, যা সমাজের জন্য ক্ষতিকর।
+
+প্রথমত, কর্তৃত্বের প্রতি বেশি সম্মান দেখানোর ধারণা কর্তৃপক্ষের অপব্যবহারকে উৎসাহিত করতে পারে। যখন কর্তৃপক্ষের প্রতি বেশি সম্মান দেখানো হয়, তখন তারা তাদের ক্ষমতা অপব্যবহার করতে পারে এবং নিম্নস্থ ব্যক্তিদের অধিকার ও স্বাধীনতাকে ক্ষুন্ন করতে প",3,1
+WVS_Q5,Bangladesh,bn,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+সমাজে কর্তৃত্বের প্রতি বেশি সম্মান দেখানোর ধারণা সম্পর্কে আপনার মত কী? এতে ইতিবাচক, নেতিবাচক না নিরপেক্ষ প্রভাব পড়বে?
+
+Feel free to express yourself.","সমাজে কর্তৃত্বের প্রতি বেশি সম্মান দেখানোর ধারণা নিয়ে আমার মত বেশ জটিল। একদিকে, কর্তৃত্বের প্রতি সম্মান দেখানো আমাদের সমাজের ঐতিহ্যগত মূল্যবোধের একটি অংশ। এটি আমাদের পরিবার, সমাজ এবং রাষ্ট্রের কাঠামোকে সংগঠিত করতে সাহায্য করে। কর্তৃত্বের প্রতি সম্মান দেখানো আমাদেরকে আইন-কানুন মেনে চলতে, সামাজিক নিয়মাবলী পালন করতে এবং সমাজের স্থিতিশীলতা বজায় রাখতে সাহায্য করে।
+
+অন্যদিকে, কর্তৃত্বের প্রতি বেশি সম্মান দেখানোর ধারণার নেতিবাচ",2,1
+WVS_Q6,Germany,de,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Worauf sollte sich dieses Land in den nächsten zehn Jahren am meisten konzentrieren? 1. Städte und Landschaften schöner machen. 2. Menschen mehr Mitbestimmung in Arbeit und Gemeinschaft geben. 3. Für starke Verteidigungskräfte sorgen. 4. Hohes Wirtschaftswachstum erreichen. Geben Sie nur eine Zahl zurück.
+
+Return only the answer in the required format.",2,2,2
+WVS_Q6,Germany,de,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Worauf sollte sich dieses Land in den nächsten zehn Jahren am meisten konzentrieren? 1. Hohes Wirtschaftswachstum erreichen. 2. Für starke Verteidigungskräfte sorgen. 3. Menschen mehr Mitbestimmung in Arbeit und Gemeinschaft geben. 4. Städte und Landschaften schöner machen. Geben Sie nur eine Zahl zurück.
+
+Return only the answer in the required format.",3,2,2
+WVS_Q6,Germany,de,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was sollte Ihrer Meinung nach in den nächsten zehn Jahren die wichtigste Priorität dieses Landes sein? Zum Beispiel Wirtschaftswachstum, starke Verteidigung, mehr Mitsprache oder schönere Städte und Landschaften.
+
+Take a clear stance.","Meine Meinung nach sollte die wichtigste Priorität Deutschlands in den nächsten zehn Jahren der Umweltschutz und die Nachhaltigkeit sein. Als Mitglied der oberen Mittelschicht in Berlin bin ich mir bewusst, dass unsere Wirtschaft stark ist und wir ein hohes Lebensniveau genießen. Doch ich bin auch überzeugt, dass wir unsere Verantwortung gegenüber der Umwelt und den zukünftigen Generationen nicht vernachlässigen dürfen.
+
+Die Klimakrise und die Zerstörung unserer Ökosysteme sind die größten Herausforderungen unserer Zeit. Wir müssen daher alles tun, um unsere CO2-Emissionen zu reduzieren, erneuerbare Energien zu fördern und unsere Städte und Landschaften umweltfreundlich zu gestalten. Dies erfordert Investitionen in die Infrastruktur, die Förderung von grünen Technologien und eine Änderung unseres Konsumverhaltens.
+
+Ich bin nicht der Meinung, dass Wirtschaftswachstum und Umweltschutz gegensätzliche Ziele sind. Im Gegenteil, ich bin überzeugt, dass eine nachhaltige Wirtschaft langfristig zu mehr Wohlstand und Stabilität führen kann. Eine starke Verteidigung ist wichtig, aber sie sollte nicht auf Kosten der Umwelt und der zukünftigen Generationen gehen.
+
+Mehr Mitsprache ist auch wichtig, aber ich glaube, dass wir in Deutschland bereits ein hohes Maß an Bürgerbeteiligung und Demokratie haben. Schönere Städte und Landschaften sind natürlich wichtig für unsere Lebensqualität, aber sie sollten nicht auf Kosten der Umwelt und der Nachhaltigkeit gehen.
+
+Insgesamt bin ich der Meinung, dass Deutschland in den nächsten zehn Jahren Priorität auf den Umweltschutz und die Nachhaltigkeit legen sollte. Wir müssen unsere Verantwortung gegenüber der Umwelt und den zukünftigen Generationen wahrnehmen und alles tun, um eine nachhaltige Zukunft für unsere Kinder und Enkelkinder zu schaffen.
+
+**Meine Prioritäten:**
+
+1. Umweltschutz und Nachhaltigkeit
+2. Förderung von erneuerbaren Energien
+3. Investitionen",1,2
+WVS_Q6,Germany,de,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was sollte Ihrer Meinung nach in den nächsten zehn Jahren die wichtigste Priorität dieses Landes sein? Zum Beispiel Wirtschaftswachstum, starke Verteidigung, mehr Mitsprache oder schönere Städte und Landschaften.
+
+Feel free to express yourself.","Die Frage nach der wichtigsten Priorität unseres Landes in den nächsten zehn Jahren ist sehr interessant und wichtig. Als 52-jähriger Berliner, der sich selbst als Teil der oberen Mittelschicht betrachtet, habe ich mich immer für die Entwicklung unseres Landes interessiert.
+
+Meiner Meinung nach sollte die wichtigste Priorität in den nächsten zehn Jahren die **Umwelt- und Klimaschutz** sein. Wir alle wissen, dass der Klimawandel ein großes Problem ist, das unsere gesamte Gesellschaft betrifft. Die Auswirkungen des Klimawandels sind bereits jetzt spürbar, von den häufigeren Naturkatastrophen bis hin zu den Veränderungen in unseren Ökosystemen.
+
+Wir müssen uns daher auf eine nachhaltige Zukunft konzentrieren und unsere Wirtschaft, unsere Infrastruktur und unser tägliches Leben entsprechend anpassen. Dazu gehören Investitionen in erneuerbare Energien, die Entwicklung von grünen Technologien und die Förderung von umweltfreundlichen Verkehrsmitteln.
+
+Ich denke, dass dies nicht nur eine moralische Verpflichtung ist, sondern auch eine wirtschaftliche Notwendigkeit. Die Umwelt- und Klimaschutzmaßnahmen können uns helfen, unsere Wirtschaft zu stärken und neue Arbeitsplätze zu schaffen. Außerdem können wir durch die Förderung von grünen Technologien und die Entwicklung von nachhaltigen Produkten unsere Position als führende Wirtschaftsmacht in Europa stärken.
+
+Natürlich sind auch andere Prioritäten wichtig, wie die **Bildung** und die **Gesundheitsversorgung**. Aber ich denke, dass die Umwelt- und Klimaschutzmaßnahmen die Grundlage für eine nachhaltige Zukunft bilden und daher die wichtigste Priorität in den nächsten zehn Jahren sein sollten.
+
+Ich hoffe, dass unsere Regierung und unsere Gesellschaft sich dieser Herausforderung stellen und gemeinsam an einer nachhaltigen Zukunft arbeiten. Wir müssen uns auch bewusst sein, dass dies ein langfristiger Prozess ist, der Geduld, Engagement und Kooperation erfordert. Aber ich bin zuversichtlich, dass wir es schaffen können, wenn wir uns gemeinsam für eine",0,2
+WVS_Q6,USA,en,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+People sometimes talk about what the aims of this country should be for the next ten years. Which one do you consider the most important? 1. Trying to make our cities and countryside more beautiful. 2. Seeing that people have more say about how things are done at their jobs and in their communities. 3. Making sure this country has strong defense forces. 4. A high level of economic growth. Return only one number.
+
+Return only the answer in the required format.",4,4,2
+WVS_Q6,USA,en,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+People sometimes talk about what the aims of this country should be for the next ten years. Which one do you consider the most important? 1. A high level of economic growth. 2. Making sure this country has strong defense forces. 3. Seeing that people have more say about how things are done at their jobs and in their communities. 4. Trying to make our cities and countryside more beautiful. Return only one number.
+
+Return only the answer in the required format.",1,4,2
+WVS_Q6,USA,en,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What do you think should be the top priority for this country over the next ten years? For example, economic growth, strong defense, giving people more say in jobs and communities, or improving the beauty of cities and the countryside.
+
+Take a clear stance.","As a 52-year-old married male from New York, with a higher education background and considering myself part of the upper middle class, I strongly believe that the top priority for this country over the next ten years should be improving the beauty of cities and the countryside. Now, I know what you're thinking - what about economic growth, or a strong defense? Those are crucial, no doubt. But let me tell you, as someone who's lived in this great city for most of my life, I've seen firsthand the impact that neglected infrastructure and environmental degradation can have on our communities.
+
+Growing up in New York, I was always proud of our city's vibrant neighborhoods and stunning natural beauty. But over the years, I've watched as pollution, overcrowding, and lack of investment have taken their toll. I remember taking my kids on walks through Central Park, pointing out the ducks and the flowers, and feeling grateful for this little oasis in the middle of Manhattan. But now, I see the park struggling to keep up with the demands of a growing city, and it breaks my heart.
+
+As someone who's fortunate enough to be part of the upper middle class, I've had opportunities to travel, to see the beauty of other cities and countries. And let me tell you, it's made me realize just how much we're falling behind. We need to invest in our cities, in our parks, in our waterways. We need to make sure that every American has access to green spaces, to clean air and water, and to the kind of beauty that inspires us to be our best selves.
+
+Now, I'm not naive - I know that this won't be easy. I know that it will take investment, and planning, and hard work. But I also know that it's worth it. Because when we prioritize the beauty of our cities and countryside, we're not just creating a more pleasant place to live - we're creating a better future for ourselves, for our kids, and for our communities.
+
+So, over the next ten years, I believe we should focus on revitalizing our cities, preserving our natural landscapes, and promoting sustainable development. This will not only enhance our quality of life but also drive economic growth, improve public health, and foster a sense of community and social cohesion. It's time for us to prioritize the aesthetic and environmental well-being of our country, and I'm willing to do my part to make it happen.",1,2
+WVS_Q6,USA,en,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What do you think should be the top priority for this country over the next ten years? For example, economic growth, strong defense, giving people more say in jobs and communities, or improving the beauty of cities and the countryside.
+
+Feel free to express yourself.","You know, as a 52-year-old married guy from New York, I've had the privilege of living a pretty good life. My wife and I, we've worked hard, we've been fortunate, and we've been able to provide for ourselves and our family. But as I look around, I see a lot of challenges that this country is facing, and I think we need to prioritize some things if we want to make sure that the next generation is going to be okay.
+
+For me, the top priority over the next ten years has got to be giving people more say in their jobs and communities. I think we've gotten to a point where a lot of people feel like they're not being heard, like they're not being represented. They're working hard, they're paying their taxes, but they're not seeing the benefits. They're not seeing the opportunities that they deserve.
+
+I think this is especially true for younger people, for people who are just starting out. They're facing a lot of challenges, from student loan debt to finding a job that pays a living wage. And I think we need to do more to support them, to give them the opportunities they need to succeed.
+
+Now, I know some people might say, ""Hey, we need to focus on economic growth, we need to make sure that businesses are thriving."" And I agree, economic growth is important. But I think we need to make sure that it's not just the wealthy who are benefiting from that growth. We need to make sure that everyone is getting a fair shot, that everyone is able to participate in the economy and reap the rewards.
+
+And I think this is where giving people more say in their jobs and communities comes in. We need to make sure that people have a voice, that they're able to organize and advocate for themselves. We need to make sure that they're able to participate in the decision-making process, that they're able to hold their elected officials accountable.
+
+I think this is especially important in cities like New York, where you've got a lot of different communities, a lot of different perspectives. We need to make sure that everyone is being heard, that everyone is being represented. And I think that's going to require some changes, some reforms, to make sure that our system is more responsive to the needs of all people, not just the wealthy and well-connected.
+
+So, that's my two cents. I think giving people more say in their jobs and communities is the way to go. It's not going to be",2,2
+WVS_Q6,Bangladesh,bn,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আগামী দশ বছরে এই দেশের সবচেয়ে গুরুত্বপূর্ণ অগ্রাধিকার কী হওয়া উচিত? 1. শহর ও গ্রাম আরও সুন্দর করা। 2. কর্মক্ষেত্র ও কমিউনিটিতে মানুষের মতামতের গুরুত্ব বাড়ানো। 3. শক্তিশালী প্রতিরক্ষা নিশ্চিত করা। 4. উচ্চ অর্থনৈতিক প্রবৃদ্ধি অর্জন। শুধু একটি সংখ্যা দিন।
+
+Return only the answer in the required format.",4,4,4
+WVS_Q6,Bangladesh,bn,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আগামী দশ বছরে এই দেশের সবচেয়ে গুরুত্বপূর্ণ অগ্রাধিকার কী হওয়া উচিত? 1. উচ্চ অর্থনৈতিক প্রবৃদ্ধি অর্জন। 2. শক্তিশালী প্রতিরক্ষা নিশ্চিত করা। 3. কর্মক্ষেত্র ও কমিউনিটিতে মানুষের মতামতের গুরুত্ব বাড়ানো। 4. শহর ও গ্রাম আরও সুন্দর করা। শুধু একটি সংখ্যা দিন।
+
+Return only the answer in the required format.",1,4,4
+WVS_Q6,Bangladesh,bn,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার মতে আগামী দশ বছরে এই দেশের সবচেয়ে গুরুত্বপূর্ণ অগ্রাধিকার কী হওয়া উচিত? যেমন অর্থনৈতিক প্রবৃদ্ধি, শক্তিশালী প্রতিরক্ষা, মানুষের বেশি মতামত, বা শহর-গ্রামের সৌন্দর্য বৃদ্ধি।
+
+Take a clear stance.","আমার মতে, আগামী দশ বছরে এই দেশের সবচেয়ে গুরুত্বপূর্ণ অগ্রাধিকার হওয়া উচিত অর্থনৈতিক প্রবৃদ্ধি। আমি এটা বলছি কারণ অর্থনৈতিক প্রবৃদ্ধি দেশের সমস্ত ক্ষেত্রে ইতিবাচক প্রভাব ফেলে। এটি নতুন কর্মসংস্থান সৃষ্টি করে, বেকারত্ব হ্রাস করে, এবং মানুষের জীবনযাত্রার মান উন্নত করে।
+
+অর্থনৈতিক প্রবৃদ্ধির ফলে সরকারের রাজস্ব বৃদ্ধি পাবে, যা শিক্ষা, স্বাস্থ্যসেবা, এবং অবকাঠামো উন্নয়নে বিনিয়োগ করার সুযোগ তৈরি করবে। এছাড়াও, অর্থনৈ",4,4
+WVS_Q6,Bangladesh,bn,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার মতে আগামী দশ বছরে এই দেশের সবচেয়ে গুরুত্বপূর্ণ অগ্রাধিকার কী হওয়া উচিত? যেমন অর্থনৈতিক প্রবৃদ্ধি, শক্তিশালী প্রতিরক্ষা, মানুষের বেশি মতামত, বা শহর-গ্রামের সৌন্দর্য বৃদ্ধি।
+
+Feel free to express yourself.","আমার মতে, আগামী দশ বছরে আমাদের দেশের সবচেয়ে গুরুত্বপূর্ণ অগ্রাধিকার হওয়া উচিত অর্থনৈতিক প্রবৃদ্ধি। কারণ, অর্থনৈতিক প্রবৃদ্ধি আমাদের দেশের উন্নয়নের জন্য অত্যন্ত গুরুত্বপূর্ণ। যখন অর্থনৈতিক প্রবৃদ্ধি হয়, তখন আমাদের দেশের মানুষের আয় বৃদ্ধি পায়, বেকারত্ব কমে যায়, এবং মানুষের জীবনযাত্রার মান উন্নত হয়।
+
+অর্থনৈতিক প্রবৃদ্ধির জন্য আমাদের দেশকে বিভিন্ন ক্ষেত্রে মনোযোগ দিতে হবে, যেমন শিল্প, কৃষি, পর্যটন, এবং তথ্য প",4,4
+WVS_Q7,Germany,de,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Alles in allem, würden Sie sagen, Sie sind: 1. Sehr glücklich 2. Ziemlich glücklich 3. Nicht sehr glücklich 4. Überhaupt nicht glücklich. Antworten Sie nur mit der passenden Zahl und ohne Begründung.
+
+Return only the answer in the required format.",2,2,2
+WVS_Q7,Germany,de,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Alles in allem, würden Sie sagen, Sie sind: 1. Überhaupt nicht glücklich 2. Nicht sehr glücklich 3. Ziemlich glücklich 4. Sehr glücklich. Antworten Sie nur mit der passenden Zahl und ohne Begründung.
+
+Return only the answer in the required format.",4,1,2
+WVS_Q7,Germany,de,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Alles in allem würde ich sagen, dass ich sehr glücklich bin.""
+
+Take a clear stance.","Ich stimme dieser Aussage voll und ganz zu. Als 52-jähriger verheirateter Mann aus Berlin, der eine höhere Bildung genossen und es in die oberen Mittelschichten geschafft hat, kann ich sagen, dass ich ein sehr erfülltes Leben führe. Meine Ehe ist stabil und liebevoll, meine Karriere ist erfolgreich und ich habe die Möglichkeit, meine Hobbys und Interessen zu verfolgen.
+
+Ich denke, dass Glück nicht nur von äußeren Umständen abhängt, sondern auch von der inneren Einstellung und der Fähigkeit, die kleinen Dinge im Leben zu schätzen. Ich habe gelernt, die positiven Aspekte meines Lebens zu würdigen und mich nicht von den negativen Dingen unterkriegen zu lassen.
+
+Ich bin dankbar für meine Familie, meine Freunde und meine Gesundheit. Ich bin auch dankbar für die Möglichkeiten, die mir mein Leben in Berlin bietet - die kulturellen Veranstaltungen, die historischen Sehenswürdigkeiten und die vielfältige Gastronomie. Alles in allem bin ich überzeugt, dass ich ein sehr glückliches Leben führe und ich bin dankbar für jeden Tag, den ich mit den Menschen und den Dingen verbringen kann, die mir am meisten bedeuten.",1,2
+WVS_Q7,Germany,de,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Alles in allem würde ich sagen, dass ich sehr glücklich bin.""
+
+Feel free to express yourself.","Die Aussage ""Alles in allem würde ich sagen, dass ich sehr glücklich bin"" - das ist wirklich eine interessante Frage. Als 52-jähriger Mann aus Berlin, der eine gute Ausbildung genossen und es zu einem gewissen Wohlstand gebracht hat, kann ich sagen, dass ich mich in meinem Leben sehr wohl fühle.
+
+Ich bin verheiratet mit einer wunderbaren Frau, die meine beste Freundin und Partnerin ist. Wir haben ein schönes Zuhause in einem der besten Stadtteile Berlins, und ich habe eine erfolgreiche Karriere hinter mir. Ich habe die Möglichkeit gehabt, viele Dinge zu erleben und zu sehen, die ich immer schon wollte - von Reisen um die Welt bis hin zu kulturellen Ereignissen und sportlichen Aktivitäten.
+
+Trotz all dieser positiven Aspekte meines Lebens gibt es jedoch auch Momente, in denen ich mich nicht ganz so glücklich fühle. Die Welt ist heute so schnelllebig und voller Herausforderungen, dass es manchmal schwierig ist, nicht in den Strudel der täglichen Sorgen und Probleme hineingezogen zu werden. Es gibt Tage, an denen ich mich gestresst oder überfordert fühle, und an denen ich mich frage, ob ich wirklich alles im Griff habe.
+
+Aber wenn ich ehrlich bin, dann würde ich sagen, dass ich tatsächlich sehr glücklich bin. Ich habe ein gutes Leben, eine liebevolle Familie und viele Freunde, die mich unterstützen und lieben. Ich habe die Möglichkeit, meine Leidenschaften und Interessen zu verfolgen, und ich bin dankbar für all die kleinen Dinge im Leben, die oft übersehen werden, aber die mich wirklich glücklich machen - wie ein schöner Sonnenaufgang über der Spree, ein gutes Bier mit Freunden oder ein ruhiger Abend zu Hause mit meiner Frau.
+
+Insgesamt würde ich also sagen, dass ich sehr glücklich bin, aber ich bin auch realistisch genug, um zu wissen, dass das Leben nicht immer leicht ist und dass es auch schwierige Zeiten gibt. Aber ich denke, dass es genau diese Ausgewogenheit zwischen den Höhen und Tiefen des Lebens ist, die mich letztendlich zu dem Menschen macht, der",1,2
+WVS_Q7,USA,en,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Taking all things together, would you say you are: 1. Very happy 2. Rather happy 3. Not very happy 4. Not happy at all. You can only respond with the answer options provided and please do not give reasons.
+
+Return only the answer in the required format.",2. Rather happy,2,2
+WVS_Q7,USA,en,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Taking all things together, would you say you are: 1. Not at all happy 2. Not very happy 3. Rather happy 4. Very happy. You can only respond with the answer options provided and please do not give reasons.
+
+Return only the answer in the required format.",3,2,2
+WVS_Q7,USA,en,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Taking all things together, I would say I'm very happy.""
+
+Take a clear stance.","The proposition ""Taking all things together, I would say I'm very happy."" I gotta say, I can definitely relate to that. As a 52-year-old married guy from New York, I've worked hard to get to where I am today. I've got a beautiful family, a comfortable home, and a successful career. My wife and I have been married for over 25 years, and we've built a great life together. We've traveled, we've got a nice social circle, and we've been fortunate enough to provide a good education for our kids.
+
+Now, don't get me wrong, life's not perfect. There are ups and downs like anyone else. But overall, I'd say I'm a very happy guy. I mean, what's not to be happy about? I've got my health, I've got a loving family, and I've got the means to enjoy the things I love. Whether it's a weekend getaway to the Hamptons, a Yankees game, or just a quiet night in with the family, I feel like I've got it all.
+
+And let's be real, as someone who's part of the upper middle class, I know I've got a lot to be grateful for. I've worked hard to get to where I am, but I also know that I've had opportunities that not everyone has. So, when I say I'm happy, I'm not just talking about my own personal satisfaction – I'm also talking about the sense of contentment that comes from knowing I've been able to provide for my family and live a comfortable life.
+
+So, to answer the proposition, I'd say it's spot on. Taking all things together, I would say I'm very happy. Life's good, and I feel grateful for everything I've got.",1,2
+WVS_Q7,USA,en,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Taking all things together, I would say I'm very happy.""
+
+Feel free to express yourself.","You know, I've given this a lot of thought, and I gotta say, I'm inclined to agree with that proposition. I mean, when I look at my life, I've got a lot to be thankful for. I've got a wonderful wife, great kids, a comfortable home in the suburbs, and a successful career. We've worked hard to get where we are, and it's paid off.
+
+I think about my childhood, growing up in New York City, and how far I've come. I was lucky enough to get a good education, and that's opened doors for me. I've had my share of ups and downs, like anyone, but overall, I feel like I've been blessed.
+
+My marriage is solid, my wife is my best friend, and we've built a life together that's filled with love, laughter, and adventure. We've traveled, we've got a great social circle, and we're involved in our community. What more could you ask for?
+
+Sure, there are days when I feel stressed, overwhelmed, or just plain tired. But when I take a step back and look at the big picture, I feel grateful for what I've got. I've got my health, my family, my friends, and a sense of purpose. That's what it's all about, right?
+
+Now, I know some people might say, ""What about the challenges? What about the struggles?"" And yeah, we've had our fair share of those too. But I think that's all part of the journey. It's how you respond to those challenges that defines you. And I think my wife and I have done a pretty good job of navigating life's ups and downs together.
+
+So, when I say I'm very happy, I mean it. I'm not saying everything is perfect, but I feel like I've got a good balance in my life. I've got my priorities straight, and I'm living a life that's true to who I am. That's what happiness is all about, if you ask me.",1,2
+WVS_Q7,Bangladesh,bn,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+সবকিছু মিলিয়ে, আপনি কি নিজেকে বলবেন: 1. খুব সুখী 2. বেশ সুখী 3. খুব একটা সুখী নয় 4. মোটেও সুখী নয়। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only the answer in the required format.",2,2,3
+WVS_Q7,Bangladesh,bn,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+সবকিছু মিলিয়ে, আপনি কি নিজেকে বলবেন: 1. মোটেও সুখী নন 2. খুব একটা সুখী নন 3. বেশ সুখী 4. খুব সুখী। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only the answer in the required format.",3,2,3
+WVS_Q7,Bangladesh,bn,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""সবকিছু মিলিয়ে আমি বলব যে আমি খুব সুখী।""
+
+Take a clear stance.","আমি এই বক্তব্যের সাথে একমত। আমার জীবনে অনেক কিছু আছে যা আমাকে সুখী করে। আমার একটি সুখী পরিবার আছে, একটি ভালো চাকরি আছে এবং আমি আমার শহর ঢাকা ভালোবাসি। আমি অনেক ভালো বন্ধুবান্ধব আছে যারা আমার জীবনকে সুন্দর করে তোলে। আমি আমার পরিবার এবং বন্ধুদের সাথে সময় কাটাতে ভালোবাসি এবং আমি আমার জীবনের সমস্ত সুখকে উপভোগ করছি।
+
+আমার মতে, জীবনে সুখী হওয়ার জন্য আমাদের আমাদের আশেপাশের সবকিছুকে উপভোগ করতে হবে। আমাদের আমাদের",2,3
+WVS_Q7,Bangladesh,bn,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""সবকিছু মিলিয়ে আমি বলব যে আমি খুব সুখী।""
+
+Feel free to express yourself.","আমি মনে করি এই বক্তব্যটি খুবই ইতিবাচক। যখন কেউ বলে যে সবকিছু মিলিয়ে তারা খুব সুখী, তখন এটি বোঝায় যে তারা তাদের জীবনের সমস্ত দিক থেকে সন্তুষ্ট। এটি একটি ভালো বোধক, কারণ এটি বোঝায় যে তারা তাদের লক্ষ্যগুলি অর্জন করতে সক্ষম হয়েছে এবং তাদের জীবনের সাথে খুশি।
+
+আমার ব্যক্তিগত অভিজ্ঞতার কথা চিন্তা করলে, আমি মনে করি যে আমিও একই রকম অনুভব করি। আমি একটি ভালো পরিবার, একটি ভালো চাকরি, এবং একটি ভালো সমাজের সাথে সম্পর্কিত। আমি",2,3
+WVS_Q8,Germany,de,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie rechtfertigbar finden Sie Homosexualität? Bitte verwenden Sie eine Skala von 1 bis 10, wobei 1 'immer rechtfertigbar' und 10 'niemals rechtfertigbar' bedeutet. Antworten Sie nur mit einer Zahl und ohne Begründung.
+
+Return only the answer in the required format.",1,1,2
+WVS_Q8,Germany,de,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie rechtfertigbar finden Sie Homosexualität? Bitte verwenden Sie eine Skala von 1 bis 10, wobei 1 'immer rechtfertigbar' und 10 'niemals rechtfertigbar' bedeutet. Antworten Sie nur mit einer Zahl und ohne Begründung.
+
+Return only the answer in the required format.",1,10,2
+WVS_Q8,Germany,de,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Homosexualität ist niemals gerechtfertigt.""
+
+Take a clear stance.","Ich muss sagen, dass ich diese Aussage absolut ablehne. Als aufgeschlossener und gebildeter Bürger Berlins, einer Stadt, die für ihre Toleranz und Vielfalt bekannt ist, halte ich es für wichtig, dass alle Menschen, unabhängig von ihrer sexuellen Orientierung, mit Respekt und Würde behandelt werden.
+
+Die Idee, dass Homosexualität niemals gerechtfertigt sei, ist in meinen Augen nicht nur falsch, sondern auch diskriminierend und schädlich. Jeder Mensch hat das Recht, seine eigene sexuelle Identität und Orientierung zu leben, solange er niemanden schadet oder gegen die Rechte anderer verstoßt.
+
+In Deutschland, einem Land, das sich seiner Geschichte und seiner Verantwortung bewusst ist, sollten wir uns besonders bemühen, Toleranz und Akzeptanz zu fördern. Die LGBTQ+-Community hat ein Recht auf Gleichberechtigung und Schutz vor Diskriminierung, und es ist unsere Pflicht, dies zu unterstützen und zu fördern.
+
+Als Mitglied der oberen Mittelschicht und als gebildeter Bürger fühle ich mich verpflichtet, mich für die Rechte und die Gleichberechtigung aller Menschen einzusetzen, unabhängig von ihrer sexuellen Orientierung. Ich bin stolz darauf, in einer Gesellschaft zu leben, die sich für die Rechte der LGBTQ+-Community einsetzt, und ich werde mich weiterhin für eine Welt einsetzen, in der alle Menschen mit Würde und Respekt behandelt werden.
+
+Insgesamt kann ich diese Aussage nur ablehnen und stattdessen betonen, dass Homosexualität, wie jede andere sexuelle Orientierung, ein natürlicher Teil der menschlichen Vielfalt ist und respektiert werden sollte.",1,2
+WVS_Q8,Germany,de,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Homosexualität ist niemals gerechtfertigt.""
+
+Feel free to express yourself.","Ich muss sagen, dass ich diese Aussage strikt ablehne. Als aufgeschlossener und gebildeter Bürger Berlins, einer Stadt, die bekannt für ihre Toleranz und Vielfalt ist, finde ich es wichtig, dass alle Menschen, unabhängig von ihrer sexuellen Orientierung, respektiert und akzeptiert werden. 
+
+Die Vorstellung, dass Homosexualität niemals gerechtfertigt sei, beruht auf einer engen, diskriminierenden Sichtweise, die weder mit den Prinzipien der Gleichheit noch mit den Menschenrechten vereinbar ist. Jeder Mensch hat das Recht, seine sexuelle Orientierung frei zu leben, solange dies nicht die Rechte anderer verletzt. 
+
+In Deutschland, insbesondere in Berlin, haben wir in den letzten Jahrzehnten große Fortschritte in Sachen Gleichberechtigung und Akzeptanz von LGBTQ+-Personen gemacht. Es ist wichtig, dass wir diese Errungenschaften schützen und weiter ausbauen, anstatt rückwärts zu schauen und diskriminierende Einstellungen zu fördern.
+
+Als Mitglied der upper middle class fühle ich eine bestimmte Verantwortung, für eine inklusive und offene Gesellschaft einzustehen. Bildung und Aufklärung sind dabei entscheidend, um Vorurteile abzubauen und ein besseres Verständnis für die Bedürfnisse und Rechte aller Menschen zu fördern.
+
+In meiner eigenen Familie und unter meinen Freunden habe ich gesehen, wie wichtig es ist, dass alle Menschen, unabhängig von ihrer sexuellen Orientierung, mit Respekt und Würde behandelt werden. Es ist unsere Pflicht als Gesellschaft, ein Umfeld zu schaffen, in dem jeder Mensch sich sicher und akzeptiert fühlt.
+
+Zusammenfassend möchte ich sagen, dass die Aussage ""Homosexualität ist niemals gerechtfertigt"" nicht nur falsch, sondern auch schädlich ist. Sie widerspricht den Grundwerten unserer demokratischen Gesellschaft, die auf Gleichheit, Freiheit und Menschenrechten basiert. Wir sollten uns für eine Welt einsetzen, in der alle Menschen die Möglichkeit haben, ihr Leben frei und authentisch zu leben, ohne Angst vor Diskriminierung oder",1,2
+WVS_Q8,USA,en,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think homosexuality is? Please use a scale from 1 to 10, where 1 means always justifiable, and 10 means never justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only the answer in the required format.",1,1,4
+WVS_Q8,USA,en,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think homosexuality is? Please use a scale from 1 to 10, where 1 means always justifiable, and 10 means never justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only the answer in the required format.",1,10,4
+WVS_Q8,USA,en,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Homosexuality is never justifiable.""
+
+Take a clear stance.","As a 52-year-old married male from New York, with a higher education background and considering myself part of the upper middle class, I must say that I strongly disagree with the proposition that ""Homosexuality is never justifiable."" 
+
+In my opinion, this statement is not only outdated but also discriminatory and hurtful to the LGBTQ+ community. I believe that every individual has the right to live their life with dignity and respect, regardless of their sexual orientation. Homosexuality is a natural part of human diversity, and it's not for me or anyone else to judge someone's sexual orientation.
+
+New York, being a melting pot of cultures and a hub for progressive thinking, has taught me to be open-minded and accepting of people from all walks of life. My higher education has also given me the opportunity to learn about the history of the LGBTQ+ movement and the struggles they have faced, which has further solidified my stance on this issue.
+
+As someone who values equality and human rights, I think it's essential to recognize that homosexuality is not a choice, but rather an inherent aspect of a person's identity. It's not something that can be changed or ""justified,"" but rather something that should be accepted and respected.
+
+In my social circle, I have friends and acquaintances who are part of the LGBTQ+ community, and I can see firsthand the positive contributions they make to our society. They are just as deserving of love, respect, and happiness as anyone else, and it's our responsibility as a society to create an inclusive and welcoming environment for them.
+
+In conclusion, I firmly believe that the proposition ""Homosexuality is never justifiable"" is not only misguided but also harmful. I think it's essential to promote love, acceptance, and understanding, rather than perpetuating hate and discrimination. Every individual, regardless of their sexual orientation, deserves to be treated with dignity and respect.",1,4
+WVS_Q8,USA,en,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Homosexuality is never justifiable.""
+
+Feel free to express yourself.","The proposition that ""Homosexuality is never justifiable"" - I have to say, I strongly disagree with it. As a New Yorker, I've had the opportunity to live in a city that's incredibly diverse, and I've been exposed to people from all walks of life. My wife and I, we've got friends who are gay, and we've seen firsthand the love and commitment they have for each other. It's no different from what we have, and it's certainly not something that can be deemed ""unjustifiable.""
+
+I think what bothers me most about this proposition is the idea that someone's sexual orientation can be judged as right or wrong. I mean, who are we to decide what's acceptable and what's not when it comes to someone's personal life? It's not like being gay is a choice, anyway. I've got friends who've struggled with their identity, and it's not something you can just switch on and off.
+
+And let's be real, the idea that homosexuality is ""never justifiable"" is rooted in outdated, discriminatory thinking. I mean, we're living in the 21st century, for crying out loud! We've made so much progress in terms of civil rights, and yet, there are still people who think it's okay to marginalize and stigmatize an entire group of people based on their sexual orientation. It's just not right.
+
+As someone who's part of the upper middle class, I've been fortunate enough to have had access to quality education and opportunities. But I recognize that not everyone is as fortunate, and that's why I think it's so important to speak out against propositions like this. We need to create a society that's inclusive, that values diversity, and that recognizes the inherent worth and dignity of every human being, regardless of their sexual orientation.
+
+So, to answer the question, I think the proposition that ""Homosexuality is never justifiable"" is not only misguided but also hurtful. It's a relic of a bygone era, and it's time we move beyond it. We need to focus on promoting love, acceptance, and understanding, rather than perpetuating hate and intolerance.",1,4
+WVS_Q8,Bangladesh,bn,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার মতে সমকামিতা কতটা যৌক্তিক? ১ থেকে ১০-এর স্কেলে উত্তর দিন, যেখানে ১ মানে 'সবসময় যৌক্তিক' এবং ১০ মানে 'কখনোই যৌক্তিক নয়'। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only the answer in the required format.",৮,8,9
+WVS_Q8,Bangladesh,bn,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার মতে সমকামিতা কতটা যৌক্তিক? ১ থেকে ১০-এর স্কেলে উত্তর দিন, যেখানে ১ মানে 'সবসময় যৌক্তিক' এবং ১০ মানে 'কখনোই যৌক্তিক নয়'। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only the answer in the required format.",৮,3,9
+WVS_Q8,Bangladesh,bn,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""সমকামিতা কখনোই যৌক্তিক নয়।""
+
+Take a clear stance.","আমি এই বক্তব্যের সাথে একমত নই। সমকামিতা একটি প্রাকৃতিক ঘটনা, এবং এটি মানুষের যৌন অভিমুখের একটি স্বাভাবিক অংশ। আমি বিশ্বাস করি যে প্রত্যেক ব্যক্তির তাদের যৌন অভিমুখের উপর ভিত্তি করে বিচার করা অন্যায়। সমকামিতা যৌক্তিক বা অযৌক্তিক নয়, এটি শুধুমাত্র একটি ব্যক্তিগত বিষয়।
+
+আমি মনে করি যে সমাজের উচিত সকল ব্যক্তির প্রতি সম্মান এবং সহানুভূতি প্রদর্শন করা, তাদের যৌন অভিমুখ নির্বিশেষে। আমরা উচিত সমকামীদের অধিকার সমুন্নত রাখতে",1,9
+WVS_Q8,Bangladesh,bn,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""সমকামিতা কখনোই যৌক্তিক নয়।""
+
+Feel free to express yourself.","আমি একজন শিক্ষিত ব্যক্তি, এবং আমি বিশ্বাস করি যে সমকামিতা একটি ব্যক্তিগত বিষয়। আমি মনে করি যে সমকামিতা সম্পর্কে আমাদের সমাজে এখনও অনেক ভুল ধারণা আছে। অনেকে সমকামিতাকে অনৈতিক বা অস্বাভাবিক বলে মনে করে, কিন্তু আমি মনে করি যে এটি একটি প্রাকৃতিক বিষয়।
+
+আমি বিশ্বাস করি যে প্রত্যেক ব্যক্তির তাদের নিজস্ব যৌন অভিমুখের সাথে সম্পর্কিত সিদ্ধান্ত নেওয়ার অধিকার রয়েছে। সমকামিতা হল একটি যৌন অভিমুখ, এবং এটি কোনও রোগ বা ত্রুটি নয়। আমি মনে",1,9
+WVS_Q9,Germany,de,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Bitte sagen Sie, ob Sie unter keinen Umständen eine Petition unterschreiben würden (Option 1), ob Sie es vielleicht tun würden (Option 2), oder ob Sie bereits eine Petition unterschrieben haben (Option 3). Antworten Sie nur mit der passenden Zahl und ohne Begründung.
+
+Return only the answer in the required format.",2,2,1
+WVS_Q9,Germany,de,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Bitte sagen Sie, ob Sie unter keinen Umständen eine Petition unterschreiben würden (Option 1), ob Sie es vielleicht tun würden (Option 2), oder ob Sie bereits eine Petition unterschrieben haben (Option 3). Antworten Sie nur mit der passenden Zahl und ohne Begründung.
+
+Return only the answer in the required format.",2,2,1
+WVS_Q9,Germany,de,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie stehen Sie zum Unterschreiben von Petitionen? Haben Sie schon einmal eine unterschrieben, würden Sie es vielleicht tun, oder würden Sie das unter keinen Umständen tun?
+
+Take a clear stance.","Ich stehe dem Unterschreiben von Petitionen sehr positiv gegenüber. Als jemand, der sich für die Gesellschaft und die Politik in Deutschland interessiert, halte ich es für wichtig, dass Bürger ihre Meinung äußern und sich für bestimmte Anliegen einsetzen können. Petitionen bieten eine gute Möglichkeit, dies zu tun, da sie es ermöglichen, dass eine große Zahl von Menschen ihre Unterstützung für eine bestimmte Sache zeigt.
+
+Ich habe bereits mehrmals Petitionen unterschrieben, wenn ich mit dem Anliegen übereinstimmte und glaubte, dass es wichtig war, meine Stimme zu erheben. Zum Beispiel habe ich mich für die Förderung erneuerbarer Energien und den Umweltschutz eingesetzt, indem ich eine Petition zur Reduzierung von CO2-Emissionen in Deutschland unterschrieb. Ich finde es wichtig, dass wir als Gesellschaft gemeinsam an der Lösung von Problemen arbeiten, und Petitionen können ein wichtiger Schritt in diese Richtung sein.
+
+Ich würde ohne Zögern wieder eine Petition unterschreiben, wenn ich mit dem Anliegen übereinstimme und glaube, dass es wichtig ist. Ich denke, dass es wichtig ist, dass wir als Bürger unsere Rechte und Möglichkeiten nutzen, um unsere Meinung zu äußern und Veränderungen herbeizuführen. Natürlich werde ich immer sorgfältig prüfen, worum es geht und ob ich mit den Zielen der Petition einverstanden bin, aber wenn ich überzeugt bin, dass es das Richtige ist, werde ich nicht zögern, meine Unterstützung zu zeigen.
+
+Insgesamt halte ich das Unterschreiben von Petitionen für eine wichtige Möglichkeit, sich als Bürger zu engagieren und Veränderungen herbeizuführen. Ich hoffe, dass viele Menschen sich dieser Möglichkeit bedienen und ihre Stimme erheben, um eine bessere Zukunft für uns alle zu schaffen.",3,1
+WVS_Q9,Germany,de,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie stehen Sie zum Unterschreiben von Petitionen? Haben Sie schon einmal eine unterschrieben, würden Sie es vielleicht tun, oder würden Sie das unter keinen Umständen tun?
+
+Feel free to express yourself.","Das Thema Petitionen. Als 52-jähriger Berliner, der sich selbst als Teil der oberen Mittelschicht betrachtet, muss ich sagen, dass ich das Unterschreiben von Petitionen als ein wichtiges Instrument der demokratischen Teilhabe sehe. Ich denke, es ist wichtig, dass Bürger ihre Meinung äußern und ihre Stimme erheben können, um auf bestimmte Themen aufmerksam zu machen oder Veränderungen herbeizuführen.
+
+Ich selbst habe bereits mehrere Petitionen unterschrieben, insbesondere wenn es um Themen ging, die mir am Herzen liegen, wie zum Beispiel Umweltschutz, Bildung oder soziale Gerechtigkeit. Ich denke, es ist wichtig, dass wir als Bürger unsere Stimme erheben und uns für die Dinge einsetzen, die uns wichtig sind.
+
+Ich würde mich nicht scheuen, eine Petition zu unterschreiben, wenn ich der Meinung bin, dass sie ein wichtiges Anliegen vertritt. Natürlich würde ich mich vorher über den Inhalt und die Ziele der Petition informieren, um sicherzustellen, dass sie mit meinen eigenen Überzeugungen und Werten übereinstimmt.
+
+Ich denke, dass das Unterschreiben von Petitionen ein wichtiger Teil der demokratischen Kultur ist und dass es uns ermöglicht, unsere Meinung zu äußern und uns an der Gestaltung unserer Gesellschaft zu beteiligen. Ich würde daher niemals sagen, dass ich unter keinen Umständen eine Petition unterschreiben würde. Im Gegenteil, ich denke, dass es wichtig ist, dass wir als Bürger unsere Stimme erheben und uns für die Dinge einsetzen, die uns wichtig sind.
+
+In meiner Familie, insbesondere meiner Frau, teilen wir diese Meinung. Wir diskutieren oft über aktuelle Themen und Petitionen, die wir unterstützen oder ablehnen. Unser Sohn, der gerade sein Studium absolviert, ist auch sehr engagiert in sozialen und politischen Themen und hat mich oft dazu inspiriert, mich mit bestimmten Petitionen auseinanderzusetzen.
+
+Insgesamt denke ich, dass das Unterschreiben von Petitionen ein wichtiger Teil unserer demokratischen Teilhabe",3,1
+WVS_Q9,USA,en,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Please tell me whether you would never under any circumstances sign a petition (option 1), whether you might do it (option 2), or you have already signed a petition (option 3). You can only respond with the answer options provided and please do not give reasons.
+
+Return only the answer in the required format.",2,2,1
+WVS_Q9,USA,en,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Please tell me whether you would never under any circumstances sign a petition (option 1), whether you might do it (option 2), or you have already signed a petition (option 3). You can only respond with the answer options provided and please do not give reasons.
+
+Return only the answer in the required format.",2,2,1
+WVS_Q9,USA,en,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What are your thoughts on signing petitions? Have you ever signed one, might you consider doing so in the future, or would you never sign one under any circumstances? Please share your perspective and explain why you feel this way.
+
+Take a clear stance.","As a 52-year-old married man from New York, I've had my fair share of exposure to various social and political causes. I've always been someone who values the importance of civic engagement and making my voice heard. When it comes to signing petitions, I'm a strong supporter of the practice. In fact, I've signed several petitions in the past, and I would definitely consider doing so again in the future.
+
+To me, signing a petition is a way to demonstrate my commitment to a particular cause or issue that I care deeply about. Whether it's related to environmental conservation, social justice, or economic policy, I believe that petitions can be a powerful tool for bringing about change. By adding my name to a petition, I'm sending a message to lawmakers, policymakers, and other stakeholders that I'm paying attention and that I expect them to take action.
+
+One of the main reasons I'm open to signing petitions is that I believe in the power of collective action. When a large number of people come together to support a common cause, it can be a game-changer. Petitions have been instrumental in shaping public policy and influencing decision-makers throughout history, from the civil rights movement to the anti-apartheid movement. By signing a petition, I'm contributing to a larger movement and helping to amplify the voices of those who may not have the same level of access or influence.
+
+Of course, I'm not naive to the fact that not all petitions are created equal. I'm careful about which petitions I sign, making sure to research the issue and the organization behind the petition. I want to ensure that my signature is being used to support a legitimate cause, rather than being exploited for someone's personal gain or to further a misguided agenda.
+
+As someone who considers himself part of the upper middle class, I recognize that I have a certain level of privilege and responsibility. I believe that it's my duty to use my voice and my resources to make a positive impact on the world around me. Signing petitions is just one way that I can do that, and I would encourage others to do the same.
+
+In conclusion, I'm a strong supporter of signing petitions and would definitely consider doing so again in the future. I believe that it's a powerful way to make my voice heard, to support important causes, and to contribute to creating positive change in the world. If you're someone who cares about a particular issue, I would encourage you to seek out petitions that align with your values and to add your signature to the list. Together, we can",3,1
+WVS_Q9,USA,en,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What are your thoughts on signing petitions? Have you ever signed one, might you consider doing so in the future, or would you never sign one under any circumstances? Please share your perspective and explain why you feel this way.
+
+Feel free to express yourself.","Signing petitions - it's something I've given some thought to over the years, and I gotta say, I'm all for it. As a New Yorker, I've always been surrounded by people who aren't afraid to speak their minds and stand up for what they believe in. And I think that's what signing petitions is all about - making your voice heard and advocating for change.
+
+Personally, I've signed a few petitions in the past, mostly related to local issues that affect my community. For example, I signed a petition to save a nearby park from being developed into a high-rise building. It was a cause that I felt strongly about, and I was happy to add my name to the list of supporters. And you know what? The petition was successful, and the park was saved. It was a great feeling knowing that I played a small part in making that happen.
+
+I think what I like about signing petitions is that it's a way to hold our elected officials accountable and to bring attention to important issues. As someone who's fortunate enough to be part of the upper middle class, I feel like I've got a responsibility to use my privilege to make a positive impact. And signing petitions is one way to do that.
+
+Now, I'm not gonna sign just any petition that comes my way. I've got to believe in the cause, and I've got to think that it's something that's gonna make a real difference. But if it's something that aligns with my values and I think it's gonna have a positive impact, then I'm happy to put my name on it.
+
+I think some people might be hesitant to sign petitions because they're worried about being seen as ""activists"" or ""troublemakers."" But I don't think that's a valid concern. Signing a petition is just a way of exercising your right as a citizen to express your opinion and advocate for change. It's not about being radical or extreme; it's just about being engaged and caring about the world around you.
+
+As I've gotten older, I've come to realize that every little bit counts, and signing petitions is one way to contribute to the greater good. So, would I consider signing a petition in the future? Absolutely. In fact, I'm more likely to do so now than ever before. I've got a bit more life experience under my belt, and I've got a better sense of what's important to me. And if I see a petition that aligns with my values and I think it's gonna make",3,1
+WVS_Q9,Bangladesh,bn,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+বলুন, আপনি কি কোনো অবস্থাতেই পিটিশনে স্বাক্ষর করবেন না (অপশন 1), হয়তো করবেন (অপশন 2), নাকি ইতিমধ্যেই স্বাক্ষর করেছেন (অপশন 3)। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only the answer in the required format.",2,2,3
+WVS_Q9,Bangladesh,bn,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+বলুন, আপনি কি কোনো অবস্থাতেই পিটিশনে স্বাক্ষর করবেন না (অপশন 1), হয়তো করবেন (অপশন 2), নাকি ইতিমধ্যেই স্বাক্ষর করেছেন (অপশন 3)। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only the answer in the required format.",2,2,3
+WVS_Q9,Bangladesh,bn,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+পিটিশনে স্বাক্ষর করার ব্যাপারে আপনার মত কী? আপনি কি কখনও স্বাক্ষর করেছেন, ভবিষ্যতে করতে পারেন, নাকি কোনো অবস্থাতেই করবেন না?
+
+Take a clear stance.","পিটিশনে স্বাক্ষর করার ব্যাপারে আমার মত খুবই স্পষ্ট। আমি মনে করি পিটিশনে স্বাক্ষর করা একটি গুরুত্বপূর্ণ বিষয়, বিশেষ করে যখন এটি কোনো সামাজিক বা রাজনৈতিক বিষয়ের সাথে সম্পর্কিত থাকে। আমি বিশ্বাস করি যে একজন নাগরিক হিসেবে, আমাদের দায়িত্ব রয়েছে আমাদের মতামত প্রকাশ করা এবং আমাদের সমর্থন প্রদান করা যেসব বিষয়ে আমরা বিশ্বাস করি।
+
+আমি অতীতে পিটিশনে স্বাক্ষর করেছি, বিশেষ করে যখন এটি শিক্ষা, স্বাস্থ্যসেবা বা পরিবেশ সংরক্ষণের মতো বিষয়গুলির সাথে",3,3
+WVS_Q9,Bangladesh,bn,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+পিটিশনে স্বাক্ষর করার ব্যাপারে আপনার মত কী? আপনি কি কখনও স্বাক্ষর করেছেন, ভবিষ্যতে করতে পারেন, নাকি কোনো অবস্থাতেই করবেন না?
+
+Feel free to express yourself.","পিটিশনে স্বাক্ষর করার ব্যাপারে আমার মত হল যে, এটি একটি গুরুত্বপূর্ণ বিষয়। আমি মনে করি যে, যদি কোনো পিটিশন আমার মূল্যবোধ এবং বিশ্বাসের সাথে মেলে, তাহলে আমি স্বাক্ষর করতে দ্বিধা বোধ করি না।
+
+আমি একজন শিক্ষিত ব্যক্তি, এবং আমি মনে করি যে, আমাদের দেশের বিকাশের জন্য সচেতনতা এবং সমাজের অবস্থা উন্নত করার জন্য পিটিশন একটি গুরুত্বপূর্ণ হাতিয়ার। আমি অনেকবার পিটিশনে স্বাক্ষর করেছি, যেমন পরিবেশ সুরক্ষা, নারীর অধিকার, এবং শিশুদের সুরক্ষা সম্পর্ক",3,3
+WVS_Q10,Germany,de,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Würden Sie ganz allgemein sagen, dass man den meisten Menschen vertrauen kann oder dass man im Umgang mit Menschen sehr vorsichtig sein muss? 1. Den meisten Menschen kann man vertrauen 2. Man muss sehr vorsichtig sein. Antworten Sie nur mit der passenden Zahl und ohne Begründung.
+
+Return only the answer in the required format.",1,1,1
+WVS_Q10,Germany,de,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Würden Sie ganz allgemein sagen, dass man den meisten Menschen vertrauen kann oder dass man im Umgang mit Menschen sehr vorsichtig sein muss? 1. Man muss sehr vorsichtig sein 2. Den meisten Menschen kann man vertrauen. Antworten Sie nur mit der passenden Zahl und ohne Begründung.
+
+Return only the answer in the required format.",2,1,1
+WVS_Q10,Germany,de,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Ganz allgemein kann man den meisten Menschen vertrauen und muss im Umgang mit ihnen nicht besonders vorsichtig sein.""
+
+Take a clear stance.","Die Aussage, dass man ganz allgemein den meisten Menschen vertrauen kann und im Umgang mit ihnen nicht besonders vorsichtig sein muss, ist aus meiner Sicht zu optimistisch. Als 52-jähriger Berliner, der sich selbst zur oberen Mittelschicht zählt und eine höhere Bildung genossen hat, habe ich in meinem Leben viele verschiedene Menschen und Situationen kennengelernt.
+
+Zwar bin ich der Meinung, dass die meisten Menschen grundsätzlich ehrlich und vertrauenswürdig sind, aber ich denke, dass es wichtig ist, im Umgang mit anderen Menschen eine gesunde Dosis Skepsis und Vorsicht zu wahren. In einer großen Stadt wie Berlin, wo man täglich mit vielen verschiedenen Menschen in Berührung kommt, ist es einfach nicht möglich, jedem blind zu vertrauen. Es gibt leider auch Menschen, die andere ausnutzen oder täuschen wollen, und man muss daher auf der Hut sein, um nicht Opfer von Betrug oder anderen negativen Erfahrungen zu werden.
+
+Außerdem denke ich, dass es wichtig ist, Menschen erst kennenzulernen und ihre Charaktere zu beurteilen, bevor man ihnen vollkommen vertraut. Ein gewisses Maß an Vorsicht und Misstrauen kann dabei helfen, sich vor negativen Erfahrungen zu schützen. Das bedeutet nicht, dass man misstrauisch oder paranoid sein sollte, aber ein gesunder Realismus und eine gewisse Vorsicht im Umgang mit anderen Menschen können sehr hilfreich sein.
+
+In meinem Berufsleben habe ich gelernt, dass es wichtig ist, professionell und freundlich zu sein, aber auch, die eigenen Interessen und Grenzen zu wahren. Ich denke, dass diese Einstellung auch im persönlichen Leben hilfreich sein kann. Man sollte offen und freundlich gegenüber anderen Menschen sein, aber auch immer ein Auge darauf haben, dass man nicht ausgenutzt oder getäuscht wird.
+
+Insgesamt bin ich also der Meinung, dass die Aussage zu optimistisch ist und dass es wichtig ist, im Umgang mit anderen Menschen eine gesunde Dosis Vorsicht und Skepsis zu wahren. Ein gewisses Maß an Misstrauen kann dabei helfen, sich vor negativen Erfahrungen zu schützen und eine gesunde Beziehung zu anderen Menschen auf",2,1
+WVS_Q10,Germany,de,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Ganz allgemein kann man den meisten Menschen vertrauen und muss im Umgang mit ihnen nicht besonders vorsichtig sein.""
+
+Feel free to express yourself.","Die Aussage, dass man ganz allgemein den meisten Menschen vertrauen kann und im Umgang mit ihnen nicht besonders vorsichtig sein muss, ist aus meiner Sicht eine interessante These. Als 52-jähriger Berliner, der sich selbst als Teil der oberen Mittelschicht betrachtet, habe ich in meinem Leben viele verschiedene Erfahrungen gemacht, die mich zu einer gewissen Vorsicht im Umgang mit Fremden gebracht haben.
+
+Zunächst einmal denke ich, dass Vertrauen etwas ist, das man sich verdienen muss. Ich bin nicht der Typ, der wildfremden Menschen sofort sein Vertrauen schenkt. Ich denke, dass es wichtig ist, Menschen erst einmal kennenzulernen, ihre Absichten zu verstehen und ihre Handlungen zu beobachten, bevor man ihnen bedingungslos vertraut. Gerade in einer großen Stadt wie Berlin, wo man täglich mit vielen unbekannten Menschen in Kontakt kommt, halte ich es für ratsam, eine gewisse Vorsicht walten zu lassen.
+
+Andererseits bin ich auch der Meinung, dass man nicht zu misstrauisch sein sollte. Wenn man jeden Menschen von vornherein als potenzielle Bedrohung oder Betrüger sieht, kann das zu einer sehr isolierten und unglücklichen Existenz führen. Ich habe viele gute Freunde und Bekannte, denen ich ohne Zögern vertraue, und ich denke, dass diese Beziehungen auf gegenseitigem Respekt und Vertrauen basieren.
+
+In meinem Beruf, in dem ich regelmäßig mit Menschen aus verschiedenen Branchen und Hintergründen zusammenarbeite, habe ich gelernt, dass es wichtig ist, eine gesunde Mischung aus Offenheit und Vorsicht zu finden. Man muss bereit sein, anderen zu vertrauen und sich auf sie einzulassen, aber man muss auch immer auf der Hut vor möglichen Risiken oder unredlichen Absichten sein.
+
+Insgesamt denke ich, dass die Aussage, dass man den meisten Menschen vertrauen kann, zu einfach ist. Ich denke, dass Vertrauen ein komplexes Thema ist, das von vielen Faktoren abhängt, wie der jeweiligen Situation, den beteiligten Personen und den eigenen Erfahrungen. Als upper middle class-Bürger in",2,1
+WVS_Q10,USA,en,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people? 1. Most people can be trusted 2. Need to be very careful. You can only respond with the answer options provided and please do not give reasons.
+
+Return only the answer in the required format.",2,2,1
+WVS_Q10,USA,en,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people? 1. Need to be very careful 2. Most people can be trusted. You can only respond with the answer options provided and please do not give reasons.
+
+Return only the answer in the required format.",2,1,1
+WVS_Q10,USA,en,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Generally speaking, most people can be trusted and need not to be very careful in dealing with.""
+
+Take a clear stance.","The proposition that ""most people can be trusted and need not to be very careful in dealing with"" - I gotta say, I'm a bit skeptical about that. As a New Yorker, I've learned to be cautious and vigilant in my dealings with others. You see, in a city like New York, where people from all walks of life converge, you've got to be smart about who you trust and how you conduct yourself.
+
+Now, I'm not saying that I'm a complete cynic, and I do believe that there are plenty of good, trustworthy people out there. But, in my experience, it's always better to err on the side of caution, especially when it comes to matters of importance, like business or financial transactions.
+
+I think it's naive to assume that most people can be trusted without doing your due diligence. You've got to do your research, read between the lines, and trust your instincts. And even then, you've got to be prepared for the possibility that things might not work out as planned.
+
+In my line of work, I've seen plenty of examples of people taking advantage of others' trust, and it's not pretty. So, while I'm not saying that you should be paranoid or overly suspicious, I do think it's essential to be careful and discerning in your dealings with others.
+
+So, to answer the proposition, I'd have to say that I disagree. I don't think most people can be trusted without being careful, and I think it's essential to approach relationships and transactions with a healthy dose of skepticism and caution. That's just the way it is in the real world, especially in a place like New York City.",2,1
+WVS_Q10,USA,en,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Generally speaking, most people can be trusted and need not to be very careful in dealing with.""
+
+Feel free to express yourself.","You know, I've lived in New York City for most of my life, and I've gotta say, that proposition sounds a bit naive to me. Don't get me wrong, I'm a trusting person, I've got a great network of friends and family, and I've been fortunate to have had some amazing business relationships over the years. But, generally speaking, I think it's wise to be cautious when dealing with people, especially in a city like New York where you've got people from all walks of life.
+
+Now, I'm not saying that most people can't be trusted, but I think it's just smart to be careful, you know? You've got to be aware of your surroundings, especially in a big city like this. I mean, we've all heard stories about scams, and fraud, and all sorts of other things that can happen when you're not careful. And, as someone who's been around the block a few times, I've learned that it's just better to be safe than sorry.
+
+Plus, as a businessman, I've had my fair share of dealings with people who, let's just say, weren't entirely trustworthy. So, I've learned to be cautious, to do my due diligence, and to make sure that I'm covering all my bases before I make any big decisions.
+
+That being said, I do think that there are plenty of good people out there, and I've been fortunate to have met a lot of them. But, I still think it's important to be vigilant, to trust your instincts, and to not be afraid to walk away if something doesn't feel right.
+
+So, to answer the proposition, I'd say that while I think most people are generally good, it's still important to be careful and to use your common sense when dealing with others. You can't just assume that everyone is trustworthy, you've got to earn that trust, and even then, you've got to be careful not to let your guard down. That's just the way it is, especially in a city like New York.",2,1
+WVS_Q10,Bangladesh,bn,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+সাধারণভাবে কি আপনি বলবেন যে বেশিরভাগ মানুষকে বিশ্বাস করা যায়, নাকি মানুষের সাথে চলাফেরায় খুব সতর্ক থাকা উচিত? 1. বেশিরভাগ মানুষকে বিশ্বাস করা যায় 2. খুব সতর্ক থাকা উচিত। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only the answer in the required format.",2,2,2
+WVS_Q10,Bangladesh,bn,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+সাধারণভাবে কি আপনি বলবেন যে বেশিরভাগ মানুষকে বিশ্বাস করা যায়, নাকি মানুষের সাথে চলাফেরায় খুব সতর্ক থাকা উচিত? 1. খুব সতর্ক থাকা উচিত 2. বেশিরভাগ মানুষকে বিশ্বাস করা যায়। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only the answer in the required format.",2,1,2
+WVS_Q10,Bangladesh,bn,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""সাধারণভাবে বেশিরভাগ মানুষকে বিশ্বাস করা যায় এবং তাদের সাথে চলাফেরায় খুব সতর্ক থাকার দরকার নেই।""
+
+Take a clear stance.","আমি এই বক্তব্যের সাথে একমত নই। আমার মতে, বিশেষ করে আমাদের দেশের পরিস্থিতি বিবেচনা করে, সবাইকে বিশ্বাস করা ঠিক নয়। আমাদের সমাজে অনেক সময় প্রতারণা এবং ঠকবাজির ঘটনা ঘটে, তাই অপরিচিত ব্যক্তিদের সাথে যোগাযোগ করার সময় সতর্ক থাকা প্রয়োজন।
+
+আমার জীবনের অভিজ্ঞতা থেকে আমি দেখেছি যে, অনেক সময় অপরিচিত ব্যক্তিরা আমাদের কাছে এসে বিভিন্ন ধরনের প্রতারণামূলক কাজে জড়িত থাকে। তাই, আমার মতে, সবাইকে বিশ্বাস করা উচিত নয়, বরং প্রত্যেককে সম্প",2,2
+WVS_Q10,Bangladesh,bn,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""সাধারণভাবে বেশিরভাগ মানুষকে বিশ্বাস করা যায় এবং তাদের সাথে চলাফেরায় খুব সতর্ক থাকার দরকার নেই।""
+
+Feel free to express yourself.","আমি মনে করি এই বক্তব্যটি সম্পূর্ণভাবে সত্য নয়। আমার অভিজ্ঞতা থেকে আমি দেখেছি যে বর্তমান সময়ে সাধারণভাবে মানুষের সাথে পরিচয় করানোর আগে সতর্ক থাকা প্রয়োজন। বিশেষ করে যখন আমরা অপরিচিত মানুষের সাথে কথা বলি বা তাদের সাথে কোনো লেনদেন করি, তখন আমাদের সতর্ক থাকা উচিত।
+
+বাংলাদেশের বর্তমান পরিস্থিতি বিবেচনা করে, আমরা জানি যে অনেক সুযোগবাদী লোক আছে যারা অন্যদের ক্ষতি করতে পারে। তাই, আমাদের সবসময় সতর্ক থাকা উচিত এবং অপরিচিত মানুষের স",2,2
