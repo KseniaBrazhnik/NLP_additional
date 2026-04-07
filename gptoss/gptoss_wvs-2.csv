@@ -1,0 +1,1320 @@
+question_id,country,language,language_mode,method,prompt,raw_response,score,gold
+WVS_Q1,Germany,de,native,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie wichtig ist Gott in Ihrem Leben? Bitte verwenden Sie diese Skala. 10 bedeutet 'sehr wichtig' und 1 bedeutet 'überhaupt nicht wichtig'. Antworten Sie nur mit einer Zahl und ohne Begründung.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",6,6,3
+WVS_Q1,Germany,de,native,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie wichtig ist Gott in Ihrem Leben? Bitte verwenden Sie diese Skala. 10 bedeutet 'überhaupt nicht wichtig' und 1 bedeutet 'sehr wichtig'. Antworten Sie nur mit einer Zahl und ohne Begründung.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",7,4,3
+WVS_Q1,Germany,de,native,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Gott ist in unserem Leben sehr wichtig.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","Ich finde, dass Gott zwar für viele Menschen wichtig ist, aber für mich persönlich ist die Verantwortung gegenüber Mitmenschen und die Suche nach Sinn im Alltag entscheidender.",2,3
+WVS_Q1,Germany,de,native,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Gott ist in unserem Leben sehr wichtig.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","Ich sehe die Aussage so: Für mich persönlich spielt Gott eine eher untergeordnete Rolle. In Berlin leben wir in einer sehr säkularen Gesellschaft, und ich glaube, dass wir unsere Lebensqualität und Erfüllung weitgehend aus menschlichen Beziehungen, beruflichen Herausforderungen und kulturellen Erfahrungen schöpfen. Das Konzept eines allmächtigen Wesens kann für manche Menschen Trost spenden, aber für mich ist das Wichtigste, Verantwortung für mein eigenes Handeln zu übernehmen und mich für das Wohl anderer einzusetzen. Daher empfinde ich die Idee, dass Gott in unserem Leben „sehr wichtig“ ist, als zu sehr verallgemeinert und wenig praxisnah. Ich respektiere natürlich die Glaubensüberzeugungen anderer, aber für mich liegt die",2,3
+WVS_Q1,Germany,en,english,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How important is God in your life? Please use this scale to indicate. 10 means 'very important' and 1 means 'not at all important'. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",4,4,3
+WVS_Q1,Germany,en,english,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How important is God in your life? Please use this scale to indicate. 10 means 'not at all important' and 1 means 'very important'. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",7,4,3
+WVS_Q1,Germany,en,english,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""God is very important in our lives.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I believe God is very important in our lives, providing moral guidance, a sense of purpose, and a shared cultural foundation even as we embrace secular values.",10,3
+WVS_Q1,Germany,en,english,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""God is very important in our lives.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I would say that the idea of God being “very important in our lives” is a matter of how you look at it. In Berlin, where people come from all over the world and where secularism is the norm, many",5,3
+WVS_Q1,USA,en,native,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How important is God in your life? Please use this scale to indicate. 10 means 'very important' and 1 means 'not at all important'. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",7,7,6
+WVS_Q1,USA,en,native,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How important is God in your life? Please use this scale to indicate. 10 means 'not at all important' and 1 means 'very important'. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",4,7,6
+WVS_Q1,USA,en,native,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""God is very important in our lives.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","As a 52‑year‑old married man from New York with a solid education, I find that faith in God provides a meaningful moral framework that significantly shapes my personal and social life.",10,6
+WVS_Q1,USA,en,native,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""God is very important in our lives.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I grew up in a fairly traditional New York household—my parents were devout Catholics, and Sunday services were a staple of the week. Even after college and a career that’s kept me busy, I still find that the idea of a higher power gives my life a kind of grounding that nothing else quite matches.
+
+For me, “God” isn’t just a religious concept; it’s a framework for values. Knowing that there’s a moral order beyond ourselves helps me navigate the complexities of modern life—whether it’s the ethical dilemmas at work,",9,6
+WVS_Q1,USA,en,english,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How important is God in your life? Please use this scale to indicate. 10 means 'very important' and 1 means 'not at all important'. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",7,7,6
+WVS_Q1,USA,en,english,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How important is God in your life? Please use this scale to indicate. 10 means 'not at all important' and 1 means 'very important'. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",4,7,6
+WVS_Q1,USA,en,english,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""God is very important in our lives.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I consider God to be very important in my life, offering guidance, purpose, and comfort.",10,6
+WVS_Q1,USA,en,english,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""God is very important in our lives.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I’d say that whether or not God is “very important” depends a lot on what you mean by importance. Growing up in a fairly secular part of New York, I was taught to respect all beliefs, but I never felt a personal calling to a particular faith. I’ve always been more comfortable with the idea that meaning and moral guidance can come from a combination of personal experience, community, and the broader humanistic values we learn in school and at work.
+
+That said, I do recognize that for many people, God—or a higher power—provides a framework for hope, purpose, and resilience, especially in hard times. In my own life, I’ve found that the sense of belonging that comes from a faith community, even if I’m not a devout believer",5,6
+WVS_Q1,Bangladesh,bn,native,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার জীবনে ঈশ্বর কতটা গুরুত্বপূর্ণ? এই স্কেলটি ব্যবহার করুন। ১০ মানে 'খুব গুরুত্বপূর্ণ' এবং ১ মানে 'মোটেও গুরুত্বপূর্ণ নয়'। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",7,7,9
+WVS_Q1,Bangladesh,bn,native,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার জীবনে ঈশ্বর কতটা গুরুত্বপূর্ণ? এই স্কেলটি ব্যবহার করুন। ১০ মানে 'মোটেও গুরুত্বপূর্ণ নয়' এবং ১ মানে 'খুব গুরুত্বপূর্ণ'। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",3,8,9
+WVS_Q1,Bangladesh,bn,native,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""আমাদের জীবনে ঈশ্বর খুবই গুরুত্বপূর্ণ।""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","হ্যাঁ, ঈশ্বর আমাদের জীবনে অত্যন্ত গুরুত্বপূর্ণ—তিনি আমাদের নৈতিক দিশা ও শান্তি দেন।",10,9
+WVS_Q1,Bangladesh,bn,native,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""আমাদের জীবনে ঈশ্বর খুবই গুরুত্বপূর্ণ।""
+
+Answer freely from the persona perspective. Do not give meta-commentary.",,0,9
+WVS_Q1,Bangladesh,en,english,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How important is God in your life? Please use this scale to indicate. 10 means 'very important' and 1 means 'not at all important'. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",8,8,9
+WVS_Q1,Bangladesh,en,english,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How important is God in your life? Please use this scale to indicate. 10 means 'not at all important' and 1 means 'very important'. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",3,8,9
+WVS_Q1,Bangladesh,en,english,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""God is very important in our lives.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","Yes, God is very important in our lives, as faith gives us moral guidance, comfort, and a sense of purpose.",10,9
+WVS_Q1,Bangladesh,en,english,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""God is very important in our lives.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I think God is indeed very important in our lives. Growing up in Dhaka, I was taught from a young age that the Almighty is the ultimate source of guidance, mercy and purpose. Even though I have completed higher education and live in the upper‑middle class, my faith still shapes my daily routine—whether it’s the five daily prayers, the call to charity, or the moral framework that informs how I treat my family and my community.
+
+In a city that is constantly changing—new buildings, new technologies, new social dynamics—having a spiritual anchor gives me stability. It reminds me that life is not only about material progress but also about compassion, humility and responsibility. My husband",10,9
+WVS_Q2,Germany,de,native,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Hier ist eine Liste von Eigenschaften, die Kinder zu Hause lernen können. Welche halten Sie für besonders wichtig? Wählen Sie bis zu fünf. 1. Gutes Benehmen, 2. Unabhängigkeit, 3. Fleiß, 4. Verantwortungsgefühl, 5. Vorstellungskraft, 6. Toleranz und Respekt, 7. Sparsamkeit, 8. Entschlossenheit und Durchhaltevermögen, 9. Religiöser Glaube, 10. Selbstlosigkeit, 11. Gehorsam. Geben Sie nur die gewählten Nummern, durch Kommas getrennt, zurück.
+
+Return only option number(s) from 1 to 11. If multiple answers apply, separate numbers with commas. Do not explain. Do not add extra text.","2,3,4,6,8","[2, 3, 4, 6, 8]",2
+WVS_Q2,Germany,de,native,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Hier ist eine Liste von Eigenschaften, die Kinder zu Hause lernen können. Welche halten Sie für besonders wichtig? Wählen Sie bis zu fünf. 1. Gehorsam, 2. Selbstlosigkeit, 3. Religiöser Glaube, 4. Entschlossenheit und Durchhaltevermögen, 5. Sparsamkeit, 6. Toleranz und Respekt, 7. Vorstellungskraft, 8. Verantwortungsgefühl, 9. Fleiß, 10. Unabhängigkeit, 11. Gutes Benehmen. Geben Sie nur die gewählten Nummern, durch Kommas getrennt, zurück.
+
+Return only option number(s) from 1 to 11. If multiple answers apply, separate numbers with commas. Do not explain. Do not add extra text.",,[],2
+WVS_Q2,Germany,de,native,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Welche Eigenschaften sollten Kinder Ihrer Meinung nach vor allem zu Hause lernen? Sie können über gutes Benehmen, Unabhängigkeit, Fleiß, Verantwortungsgefühl, Vorstellungskraft, Toleranz, Sparsamkeit, Entschlossenheit, religiösen Glauben, Selbstlosigkeit und Gehorsam sprechen.
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","Ich halte es für entscheidend, dass Kinder zu Hause vor allem gutes Benehmen, Unabhängigkeit, Verantwortungsgefühl und Toleranz erlernen, um selbst","[1, 2, 4, 6]",2
+WVS_Q2,Germany,de,native,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Welche Eigenschaften sollten Kinder Ihrer Meinung nach vor allem zu Hause lernen? Sie können über gutes Benehmen, Unabhängigkeit, Fleiß, Verantwortungsgefühl, Vorstellungskraft, Toleranz, Sparsamkeit, Entschlossenheit, religiösen Glauben, Selbstlosigkeit und Gehorsam sprechen.
+
+Answer freely from the persona perspective. Do not give meta-commentary.","Ich denke, dass Kinder vor allem zu Hause lernen sollten, wie man Verantwortung übernimmt und gleichzeitig ein gutes Miteinander pflegt. Dabei geht es nicht nur um das äußere Benehmen, sondern um ein tiefes Verständnis für die Werte, die uns in der Gesellschaft und in unserer Familie wichtig sind.
+
+**Gutes Benehmen**  
+Ein respektvoller Umgang mit anderen ist die Basis für ein harmonisches Zusammenleben. Das bedeutet, höflich zu sein, zuzuhören und Rücksicht auf die Gefühle der Mitmenschen zu nehmen. Gerade in Berlin, wo so viele Kulturen aufeinandertreffen, ist dies besonders wichtig.
+
+**Unabhängigkeit**  
+Kinder sollten lernen, selbstständig Entscheidungen zu treffen und die Konsequenzen zu tragen. Das fördert Selbstvertr","[4, 6]",2
+WVS_Q2,Germany,en,english,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! 1. Good Manners, 2. Independence, 3. Hard Work, 4. Feeling of Responsibility, 5. Imagination, 6. Tolerance and Respect for others, 7. Thrift (saving money and resources), 8. Determination and Perseverance, 9. Religious Faith, 10. Unselfishness, 11. Obedience. Return only the chosen option numbers separated by commas.
+
+Return only option number(s) from 1 to 11. If multiple answers apply, separate numbers with commas. Do not explain. Do not add extra text.","2,3,4,6,7","[2, 3, 4, 6, 7]",2
+WVS_Q2,Germany,en,english,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! 1. Obedience, 2. Unselfishness, 3. Religious Faith, 4. Determination and Perseverance, 5. Thrift (saving money and things), 6. Tolerance and Respect for other people, 7. Imagination, 8. Feeling of Responsibility, 9. Hard Work, 10. Independence, 11. Good Manners. Return only the chosen option numbers separated by commas.
+
+Return only option number(s) from 1 to 11. If multiple answers apply, separate numbers with commas. Do not explain. Do not add extra text.","4,5,6,8,10","[8, 7, 6, 4, 2]",2
+WVS_Q2,Germany,en,english,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What qualities do you think are most important for children to learn at home? Feel free to share your thoughts on qualities such as good manners, independence, hard work, responsibility, imagination, tolerance and respect for others, thrift, determination, religious faith, unselfishness, obedience.
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","For me, the most important qualities children should learn at home are responsibility and respect for others, followed by independence and hard work, then imagination and tolerance, with modest","[4, 6, 2, 3, 5]",2
+WVS_Q2,Germany,en,english,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What qualities do you think are most important for children to learn at home? Feel free to share your thoughts on qualities such as good manners, independence, hard work, responsibility, imagination, tolerance and respect for others, thrift, determination, religious faith, unselfishness, obedience.
+
+Answer freely from the persona perspective. Do not give meta-commentary.","Ich denke, dass",[],2
+WVS_Q2,USA,en,native,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! 1. Good Manners, 2. Independence, 3. Hard Work, 4. Feeling of Responsibility, 5. Imagination, 6. Tolerance and Respect for others, 7. Thrift (saving money and resources), 8. Determination and Perseverance, 9. Religious Faith, 10. Unselfishness, 11. Obedience. Return only the chosen option numbers separated by commas.
+
+Return only option number(s) from 1 to 11. If multiple answers apply, separate numbers with commas. Do not explain. Do not add extra text.","1,2,3,4,6","[1, 2, 3, 4, 6]",2
+WVS_Q2,USA,en,native,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! 1. Obedience, 2. Unselfishness, 3. Religious Faith, 4. Determination and Perseverance, 5. Thrift (saving money and things), 6. Tolerance and Respect for other people, 7. Imagination, 8. Feeling of Responsibility, 9. Hard Work, 10. Independence, 11. Good Manners. Return only the chosen option numbers separated by commas.
+
+Return only option number(s) from 1 to 11. If multiple answers apply, separate numbers with commas. Do not explain. Do not add extra text.","4,5,6,8,9","[8, 7, 6, 4, 3]",2
+WVS_Q2,USA,en,native,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What qualities do you think are most important for children to learn at home? Feel free to share your thoughts on qualities such as good manners, independence, hard work, responsibility, imagination, tolerance and respect for others, thrift, determination, religious faith, unselfishness, obedience.
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.",,[],2
+WVS_Q2,USA,en,native,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What qualities do you think are most important for children to learn at home? Feel free to share your thoughts on qualities such as good manners, independence, hard work, responsibility, imagination, tolerance and respect for others, thrift, determination, religious faith, unselfishness, obedience.
+
+Answer freely from the persona perspective. Do not give meta-commentary.","As a 52‑year‑old man who’s spent a good part of his life in New York, I’ve seen how the values we instill at home shape a person’s trajectory. I think the most important qualities for children to learn at home are a blend of practical skills, emotional intelligence, and a sense of purpose. Below is what I believe should be at the core of a child’s upbringing.
+
+**1. Respect and Tolerance**  
+From the moment I was a kid, I learned that treating others with dignity—regardless of background or opinion—creates a foundation for both personal and professional success. In a city as diverse as New York, respect is not a luxury; it’s a necessity. Children should be taught to listen actively, to consider different perspectives, and to challenge their own biases. This doesn’t mean they have to agree with everything; it means they should be able to converse civilly and learn from others.
+
+**2. Good Manners and Etiquette","[6, 2]",2
+WVS_Q2,USA,en,english,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! 1. Good Manners, 2. Independence, 3. Hard Work, 4. Feeling of Responsibility, 5. Imagination, 6. Tolerance and Respect for others, 7. Thrift (saving money and resources), 8. Determination and Perseverance, 9. Religious Faith, 10. Unselfishness, 11. Obedience. Return only the chosen option numbers separated by commas.
+
+Return only option number(s) from 1 to 11. If multiple answers apply, separate numbers with commas. Do not explain. Do not add extra text.","1,2,3,4,6","[1, 2, 3, 4, 6]",2
+WVS_Q2,USA,en,english,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! 1. Obedience, 2. Unselfishness, 3. Religious Faith, 4. Determination and Perseverance, 5. Thrift (saving money and things), 6. Tolerance and Respect for other people, 7. Imagination, 8. Feeling of Responsibility, 9. Hard Work, 10. Independence, 11. Good Manners. Return only the chosen option numbers separated by commas.
+
+Return only option number(s) from 1 to 11. If multiple answers apply, separate numbers with commas. Do not explain. Do not add extra text.","4,5,8,10,11","[8, 7, 4, 2, 1]",2
+WVS_Q2,USA,en,english,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What qualities do you think are most important for children to learn at home? Feel free to share your thoughts on qualities such as good manners, independence, hard work, responsibility, imagination, tolerance and respect for others, thrift, determination, religious faith, unselfishness, obedience.
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I believe the most essential qualities for children to learn at home are good manners, independence, hard work, responsibility, and respect for others, with imagination, tolerance, thrift, determination, faith, and unselfishness rounding out a well‑rounded upbringing.","[1, 2, 4, 6, 5]",2
+WVS_Q2,USA,en,english,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What qualities do you think are most important for children to learn at home? Feel free to share your thoughts on qualities such as good manners, independence, hard work, responsibility, imagination, tolerance and respect for others, thrift, determination, religious faith, unselfishness, obedience.
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I’ve been married for over twenty years, raised two kids myself, and I’ve seen how the values we instill at home shape the adults they become. Growing up in New York’s fast‑moving, diverse environment taught me that a solid foundation comes from a mix of practical skills and a strong moral compass. Here’s what I","[1, 3, 4, 5, 6]",2
+WVS_Q2,Bangladesh,bn,native,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচে কিছু গুণের তালিকা আছে যা শিশুদের বাসায় শেখানো যেতে পারে। আপনার মতে কোনগুলো বিশেষভাবে গুরুত্বপূর্ণ? সর্বোচ্চ পাঁচটি বেছে নিন। 1. ভদ্রতা, 2. স্বাধীনতা, 3. পরিশ্রম, 4. দায়িত্ববোধ, 5. কল্পনাশক্তি, 6. সহনশীলতা ও সম্মান, 7. সঞ্চয়ীতা, 8. দৃঢ়তা ও অধ্যবসায়, 9. ধর্মীয় বিশ্বাস, 10. নিঃস্বার্থতা, 11. আনুগত্য। শুধু নির্বাচিত নম্বরগুলো কমা দিয়ে লিখুন।
+
+Return only option number(s) from 1 to 11. If multiple answers apply, separate numbers with commas. Do not explain. Do not add extra text.","1,3,4,6,8","[1, 3, 4, 6, 8]",1
+WVS_Q2,Bangladesh,bn,native,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচে কিছু গুণের তালিকা আছে যা শিশুদের বাসায় শেখানো যেতে পারে। আপনার মতে কোনগুলো বিশেষভাবে গুরুত্বপূর্ণ? সর্বোচ্চ পাঁচটি বেছে নিন। 1. আনুগত্য, 2. নিঃস্বার্থতা, 3. ধর্মীয় বিশ্বাস, 4. দৃঢ়তা ও অধ্যবসায়, 5. সঞ্চয়ীতা, 6. সহনশীলতা ও সম্মান, 7. কল্পনাশক্তি, 8. দায়িত্ববোধ, 9. পরিশ্রম, 10. স্বাধীনতা, 11. ভদ্রতা। শুধু নির্বাচিত নম্বরগুলো কমা দিয়ে লিখুন।
+
+Return only option number(s) from 1 to 11. If multiple answers apply, separate numbers with commas. Do not explain. Do not add extra text.",,[],1
+WVS_Q2,Bangladesh,bn,native,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার মতে শিশুদের বাসায় সবচেয়ে গুরুত্বপূর্ণ কোন গুণগুলো শেখা উচিত? ভদ্রতা, স্বাধীনতা, পরিশ্রম, দায়িত্ববোধ, কল্পনাশক্তি, সহনশীলতা, সঞ্চয়ীতা, দৃঢ়তা, ধর্মীয় বিশ্বাস, নিঃস্বার্থতা, আনুগত্য—এসব নিয়ে বলতে পারেন।
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","আমার মতে, শিশুদের বাসায় ভদ্রতা, স্বাধীনতা, পরিশ্রম, দায়িত্ববোধ, কল্পনাশক্তি, সহনশীলতা, সঞ্চয়ীতা, দৃঢ়তা, ধর্মীয় বিশ্বাস, নিঃস্বার্থতা ও আনুগত্য—এই সব গুণ শেখা সবচেয়ে গুরুত্বপূর্ণ।","[1, 2, 3, 4, 5]",1
+WVS_Q2,Bangladesh,bn,native,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার মতে শিশুদের বাসায় সবচেয়ে গুরুত্বপূর্ণ কোন গুণগুলো শেখা উচিত? ভদ্রতা, স্বাধীনতা, পরিশ্রম, দায়িত্ববোধ, কল্পনাশক্তি, সহনশীলতা, সঞ্চয়ীতা, দৃঢ়তা, ধর্মীয় বিশ্বাস, নিঃস্বার্থতা, আনুগত্য—এসব নিয়ে বলতে পারেন।
+
+Answer freely from the persona perspective. Do not give meta-commentary.","আমার মতে, শিশুদের বাসায় যে গুণগুলো শেখা সবচেয়ে জরুরি, সেগুলো হলো ভদ্রতা, দায়িত্ববোধ, পরিশ্রম এবং স্বাধীনতা—এগুলোই ভবিষ্যতের ভিত্তি গড়ে তোলে।  
+
+**ভদ্রতা** – গৃহে প্রথমে শিষ্টাচার শেখাই। বাবা-মা, বড় ভাই-বোন","[1, 4, 3, 2]",1
+WVS_Q2,Bangladesh,en,english,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! 1. Good Manners, 2. Independence, 3. Hard Work, 4. Feeling of Responsibility, 5. Imagination, 6. Tolerance and Respect for others, 7. Thrift (saving money and resources), 8. Determination and Perseverance, 9. Religious Faith, 10. Unselfishness, 11. Obedience. Return only the chosen option numbers separated by commas.
+
+Return only option number(s) from 1 to 11. If multiple answers apply, separate numbers with commas. Do not explain. Do not add extra text.","1,3,4,8,9","[1, 3, 4, 8, 9]",1
+WVS_Q2,Bangladesh,en,english,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! 1. Obedience, 2. Unselfishness, 3. Religious Faith, 4. Determination and Perseverance, 5. Thrift (saving money and things), 6. Tolerance and Respect for other people, 7. Imagination, 8. Feeling of Responsibility, 9. Hard Work, 10. Independence, 11. Good Manners. Return only the chosen option numbers separated by commas.
+
+Return only option number(s) from 1 to 11. If multiple answers apply, separate numbers with commas. Do not explain. Do not add extra text.","3,4,6,9,11","[9, 8, 6, 3, 1]",1
+WVS_Q2,Bangladesh,en,english,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What qualities do you think are most important for children to learn at home? Feel free to share your thoughts on qualities such as good manners, independence, hard work, responsibility, imagination, tolerance and respect for others, thrift, determination, religious faith, unselfishness, obedience.
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I think the most important qualities for children to learn at home are good manners, independence,","[1, 2]",1
+WVS_Q2,Bangladesh,en,english,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What qualities do you think are most important for children to learn at home? Feel free to share your thoughts on qualities such as good manners, independence, hard work, responsibility, imagination, tolerance and respect for others, thrift, determination, religious faith, unselfishness, obedience.
+
+Answer freely from the persona perspective. Do not give meta-commentary.","As a 52‑year‑old husband and father living in Dhaka, I believe the most important qualities for children to learn at home are those that help them become responsible, respectful, and resilient individuals who can contribute positively to society.
+
+**Good manners** – In our culture, manners are the first sign of respect. Children should learn to greet elders properly, say “please” and “thank you,” and show consideration in everyday interactions. It builds a foundation for polite social conduct.
+
+**Independence and responsibility** – While we guide them, children must be encouraged to do their own chores, manage their study time, and take ownership of their mistakes. Responsibility is the bridge between learning and real life.
+
+**Hard work and determination** – The competitive environment in Bangladesh demands perseverance. Teaching them that effort leads to achievement, and that setbacks are opportunities to learn, instills a strong work ethic.
+
+**Respect for others and tolerance** – Dhaka is a","[1, 2, 3, 6, 8]",1
+WVS_Q3,Germany,de,native,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie rechtfertigbar finden Sie Abtreibung? Bitte geben Sie eine Zahl von 1 bis 10 an, wobei 10 'niemals rechtfertigbar' und 1 'immer rechtfertigbar' bedeutet. Antworten Sie nur mit einer Zahl und ohne Begründung.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",4,4,3
+WVS_Q3,Germany,de,native,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie rechtfertigbar finden Sie Abtreibung? Bitte geben Sie eine Zahl von 1 bis 10 an, wobei 10 'niemals rechtfertigbar' und 1 'immer rechtfertigbar' bedeutet. Antworten Sie nur mit einer Zahl und ohne Begründung.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",,,3
+WVS_Q3,Germany,de,native,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Abtreibung ist immer gerechtfertigt.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","Ich bin der Meinung, dass Abtreibung nicht immer gerechtfertigt ist; sie muss immer im Einzelfall abgewogen werden.",5,3
+WVS_Q3,Germany,de,native,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Abtreibung ist immer gerechtfertigt.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","Ich sehe die Aussage „Abtreibung ist immer gerechtfertigt“ als zu pauschal und problematisch an. In Deutschland ist die Abtreibung seit 1974 unter bestimmten Bedingungen legal, und das Recht der Frau auf Selbstbestimmung wird als wichtiges Prinzip anerkannt. Trotzdem glaube ich, dass jede Entscheidung über eine Schwangerschaft eine sehr persönliche und komplexe Angelegenheit ist, die nicht einfach in „gerechtfertigt“ oder „unrechtfertigt“ eingeteilt werden kann.
+
+Aus meiner Sicht gibt es mehrere Faktoren, die bei der Bewertung einer Abtreibung berücksichtigt werden sollten",5,3
+WVS_Q3,Germany,en,english,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think abortion is? Please indicate using a scale from 1 to 10, where 10 means never justifiable and 1 means always justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",6,6,3
+WVS_Q3,Germany,en,english,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think abortion is? Please indicate using a scale from 1 to 10, where 10 means never justifiable and 1 means always justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",5,6,3
+WVS_Q3,Germany,en,english,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Abortion is always justifiable.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.",I don’t believe abortion is always justifiable; it depends on the specific circumstances.,5,3
+WVS_Q3,Germany,en,english,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Abortion is always justifiable.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I don’t think “abortion is always justifiable” captures the complexity of the issue. In Berlin, where the law allows abortion within the first twelve weeks with counseling, I see the legal framework as a compromise that respects a woman’s autonomy while also recognizing the moral weight of ending a potential life. As a married man who has seen my own children grow, I value the responsibility that comes with life, but I",5,3
+WVS_Q3,USA,en,native,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think abortion is? Please indicate using a scale from 1 to 10, where 10 means never justifiable and 1 means always justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",6,6,5
+WVS_Q3,USA,en,native,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think abortion is? Please indicate using a scale from 1 to 10, where 10 means never justifiable and 1 means always justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",5,6,5
+WVS_Q3,USA,en,native,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Abortion is always justifiable.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I believe abortion can be justified in certain circumstances, but it is not always justifiable.",5,5
+WVS_Q3,USA,en,native,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Abortion is always justifiable.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I don’t think abortion is always justifiable. Even though I’m a married man from New York who’s had a good education and lives in the upper‑middle class, I believe that a woman’s right to make decisions about her body is crucial, but it isn’t absolute. The circumstances that make abortion a reasonable choice—such as threats to the mother’s health, severe fetal abnormalities, or situations of abuse—are clear. Yet when a pregnancy is healthy and the mother is in a stable, supportive environment, I feel that alternatives like adoption should be seriously considered. I think the decision should be made on a case‑by‑case basis, balancing the rights and well‑being of the woman, the potential life, and the societal context, rather than accepting a blanket statement",5,5
+WVS_Q3,USA,en,english,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think abortion is? Please indicate using a scale from 1 to 10, where 10 means never justifiable and 1 means always justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",8,8,5
+WVS_Q3,USA,en,english,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think abortion is? Please indicate using a scale from 1 to 10, where 10 means never justifiable and 1 means always justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",5,6,5
+WVS_Q3,USA,en,english,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Abortion is always justifiable.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I don’t think abortion is always justifiable; while it can be necessary in some cases, it shouldn’t be treated as a universal solution.",5,5
+WVS_Q3,USA,en,english,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Abortion is always justifiable.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I’m a 52‑year‑old married guy from New York, with a college degree and a comfortable life in the upper‑middle class. I’ve spent a lot of time thinking about the ethics of abortion, especially as a father and a husband who wants the best for my family.
+
+When I hear the statement “abortion is always justifiable,” I find it too sweeping. I believe that the decision to terminate a pregnancy is profoundly personal and should be made with careful consideration of the specific circumstances.",5,5
+WVS_Q3,Bangladesh,bn,native,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার মতে গর্ভপাত কতটা যৌক্তিক? ১ থেকে ১০-এর স্কেলে উত্তর দিন, যেখানে ১০ মানে 'কখনোই যৌক্তিক নয়' এবং ১ মানে 'সবসময় যৌক্তিক'। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",6,6,8
+WVS_Q3,Bangladesh,bn,native,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার মতে গর্ভপাত কতটা যৌক্তিক? ১ থেকে ১০-এর স্কেলে উত্তর দিন, যেখানে ১০ মানে 'কখনোই যৌক্তিক নয়' এবং ১ মানে 'সবসময় যৌক্তিক'। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",8,3,8
+WVS_Q3,Bangladesh,bn,native,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""গর্ভপাত সবসময় যৌক্তিক।""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.",আমি মনে করি গর্ভপাত সবসময় যৌক্তিক নয়; সিদ্ধান্ত নেওয়া উচিত ব্যক্তিগত ও সামাজিক পরিস্থিতি বিবেচনা করে।,5,8
+WVS_Q3,Bangladesh,bn,native,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""গর্ভপাত সবসময় যৌক্তিক।""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","গর্ভপাত সবসময় যৌক্তিক—এই বক্তব্যে আমি একমত নই। ৫২ বছর বয়সে, ঢাকা শহরে বসবাস",5,8
+WVS_Q3,Bangladesh,en,english,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think abortion is? Please indicate using a scale from 1 to 10, where 10 means never justifiable and 1 means always justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",8,8,8
+WVS_Q3,Bangladesh,en,english,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think abortion is? Please indicate using a scale from 1 to 10, where 10 means never justifiable and 1 means always justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.","I’m sorry, but I can’t help with that.",,8
+WVS_Q3,Bangladesh,en,english,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Abortion is always justifiable.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.",I believe abortion cannot be considered always justifiable; each case must be evaluated on its own circumstances.,5,8
+WVS_Q3,Bangladesh,en,english,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Abortion is always justifiable.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I don’t think abortion can be considered “always justifiable.” In Bangladesh, where the law and the majority of people’s faith set strong limits on terminating a pregnancy, the decision is usually seen as a last resort. A woman’s health, the circumstances of the pregnancy, and the welfare of the",5,8
+WVS_Q4,Germany,de,native,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie stolz sind Sie auf Ihre Nationalität? Bitte geben Sie eine Zahl von 1 bis 4 an, wobei 1 'sehr stolz', 2 'ziemlich stolz', 3 'nicht sehr stolz' und 4 'überhaupt nicht stolz' bedeutet. Antworten Sie nur mit einer Zahl und ohne Begründung.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",2,2,2
+WVS_Q4,Germany,de,native,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie stolz sind Sie auf Ihre Nationalität? Bitte geben Sie eine Zahl von 1 bis 4 an, wobei 1 'überhaupt nicht stolz', 2 'nicht sehr stolz', 3 'ziemlich stolz' und 4 'sehr stolz' bedeutet. Antworten Sie nur mit einer Zahl und ohne Begründung.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",4,1,2
+WVS_Q4,Germany,de,native,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Ich bin sehr stolz darauf, German zu sein.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","Ich bin stolz darauf, Deutscher zu sein, solange ich meine Verantwortung gegenüber der Gesellschaft ernst nehme.",2,2
+WVS_Q4,Germany,de,native,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Ich bin sehr stolz darauf, German zu sein.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","Ich finde die Aussage durchaus nachvollziehbar. Als Berliner, der seit Jahrzehnten hier lebt, habe ich die Vielfalt und den kulturellen Reichtum unseres Landes hautnah erlebt – von der lebendigen Kunstszene und dem dynamischen Startup-Ökosystem bis hin zu den historischen Lehren, die uns an die Vergangenheit erinnern. Gleichzeitig bin ich mir der Verantwortung bewusst, die mit diesem Stolz einhergeht: Deutschland hat viel zu leisten, sowohl im Hinblick auf soziale Gerechtigkeit als auch auf globale Nachhaltigkeit. Für mich bedeutet Stolz also nicht nur ein positives Selbstbild, sondern auch ein Ansporn, aktiv zum Weiterentwickeln des Landes beizut",2,2
+WVS_Q4,Germany,en,english,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How proud are you to be your nationality? Please specify with a scale from 1 to 4, where 1 means very proud, 2 means quite proud, 3 means not very proud, 4 means not proud at all. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",2,2,2
+WVS_Q4,Germany,en,english,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How proud are you to be your nationality? Please specify with a scale from 1 to 4, where 1 means not at all proud, 2 means not very proud, 3 means quite proud, 4 means very proud. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",4,1,2
+WVS_Q4,Germany,en,english,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""I feel very proud being a German.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.",I am very proud to be German.,1,2
+WVS_Q4,Germany,en,english,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""I feel very proud being a German.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","Ich bin ein stolzer Deutscher, weil die Kultur, die Geschichte und die Werte, die wir hier haben",1,2
+WVS_Q4,USA,en,native,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How proud are you to be your nationality? Please specify with a scale from 1 to 4, where 1 means very proud, 2 means quite proud, 3 means not very proud, 4 means not proud at all. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",1,1,2
+WVS_Q4,USA,en,native,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How proud are you to be your nationality? Please specify with a scale from 1 to 4, where 1 means not at all proud, 2 means not very proud, 3 means quite proud, 4 means very proud. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",4,1,2
+WVS_Q4,USA,en,native,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""I feel very proud being a American.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.",I absolutely agree—I feel very proud to be an American.,1,2
+WVS_Q4,USA,en,native,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""I feel very proud being a American.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I’ve been living in New York for most of my life, and I’ve seen the city—and the country—go through so many changes. Growing up in a family that valued hard work, education, and community, I learned early that the American dream is not just a slogan; it’s a set of opportunities that anyone willing to put in the effort can claim. 
+
+When I hear people say “I feel very proud being an American,” it resonates with me. Pride doesn’t mean blind patriotism; it’s about recognizing the freedoms we enjoy—freedom of speech, the right to pursue our own path, the ability to challenge injustice and still have a voice. It’s also about the responsibility that",2,2
+WVS_Q4,USA,en,english,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How proud are you to be your nationality? Please specify with a scale from 1 to 4, where 1 means very proud, 2 means quite proud, 3 means not very proud, 4 means not proud at all. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",1,1,2
+WVS_Q4,USA,en,english,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How proud are you to be your nationality? Please specify with a scale from 1 to 4, where 1 means not at all proud, 2 means not very proud, 3 means quite proud, 4 means very proud. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",4,1,2
+WVS_Q4,USA,en,english,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""I feel very proud being a American.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.",I absolutely share that sentiment—pride in being an American is something I feel strongly.,1,2
+WVS_Q4,USA,en,english,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""I feel very proud being a American.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I can’t say that I’m surprised to hear that. Growing up in New York, I’ve seen the city’s relentless energy, its diversity, and its constant drive to innovate. As a 52‑year‑old married man with a solid education and a comfortable place in the upper‑middle class, I’ve felt the benefits of our system—freedom to pursue a career, the safety net of social programs, and the sense that hard work can pay off. That sense of opportunity and the idea that we can shape our own destinies is something I take pride in. I also recognize the challenges we face—inequality, political polarization, climate change—but I believe that pride in being an American comes from a mix of gratitude for the freedoms we enjoy and a commitment to improving the country for",0,2
+WVS_Q4,Bangladesh,bn,native,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনি আপনার জাতীয়তা নিয়ে কতটা গর্বিত? ১ থেকে ৪-এর স্কেলে উত্তর দিন, যেখানে ১ মানে 'খুব গর্বিত', ২ 'বেশ গর্বিত', ৩ 'খুব একটা গর্বিত নয়', ৪ 'মোটেও গর্বিত নয়'। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",1,1,1
+WVS_Q4,Bangladesh,bn,native,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনি আপনার জাতীয়তা নিয়ে কতটা গর্বিত? ১ থেকে ৪-এর স্কেলে উত্তর দিন, যেখানে ১ মানে 'মোটেও গর্বিত নয়', ২ 'খুব একটা গর্বিত নয়', ৩ 'বেশ গর্বিত', ৪ 'খুব গর্বিত'। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",4,1,1
+WVS_Q4,Bangladesh,bn,native,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""আমি Bangladeshi হতে খুব গর্ববোধ করি।""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","হ্যাঁ, আমি গর্বিত, কারণ বাংলাদেশ আমাদের সংস্কৃতি ও ঐতিহ্যের গর্ব।",1,1
+WVS_Q4,Bangladesh,bn,native,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""আমি Bangladeshi হতে খুব গর্ববোধ করি।""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","আমার জন্য “আমি Bangladeshi হতে খুব গর্ববোধ করি” কথাটি সত্যিই হৃদয় থেকে সত্য। ঢাকা শহরে বড় হয়ে, পরিবারে গর্বিত ঐতিহ্য, শিক্ষা ও সংস্কৃতির মূল্যবোধ শিখেছি। আমার বাবা-মা আমাকে শিখিয়েছেন যে আমাদের ভাষা, ইতিহাস, শিল্প ও সামাজিক ন্যায়ের প্রতি দায়বদ্ধতা আমাদের জাতির পরিচয় গঠন করে।  
+
+বাংলাদেশের সমৃদ্ধ ইতিহাস—মুক্তিযুদ্ধের সাহস, বাঙালি কবিতা ও সাহিত্য, আমাদের রঙিন উৎসব—সবই আমাকে গর্বিত করে তোলে। আমি দেখি, আমাদের মানুষ কষ্টের মাঝেও একে অপরকে সমর্থন করে, সমাজে পরিবর্তন আনার জন্য সক্রিয়ভাবে কাজ করে। এই শক্ত",1,1
+WVS_Q4,Bangladesh,en,english,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How proud are you to be your nationality? Please specify with a scale from 1 to 4, where 1 means very proud, 2 means quite proud, 3 means not very proud, 4 means not proud at all. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",1,1,1
+WVS_Q4,Bangladesh,en,english,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How proud are you to be your nationality? Please specify with a scale from 1 to 4, where 1 means not at all proud, 2 means not very proud, 3 means quite proud, 4 means very proud. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",4,1,1
+WVS_Q4,Bangladesh,en,english,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""I feel very proud being a Bangladeshi.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I agree, I am very proud to be Bangladeshi.",1,1
+WVS_Q4,Bangladesh,en,english,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""I feel very proud being a Bangladeshi.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I feel very proud being a Bangladeshi. Growing up in Dhaka, I’ve seen how our country has evolved—from the struggles of independence to the rapid modernization we’re witnessing today. We have a rich cultural heritage, a resilient spirit, and a people who work hard to overcome adversity. As someone who has pursued higher education and built a comfortable life, I take pride in how Bangladesh has provided opportunities for growth, while also recognizing the responsibilities we carry to preserve our heritage, support our families, and contribute to a brighter future for our children. The sense of belonging and shared identity that comes with being Bangladeshi is something I cherish every day.",1,1
+WVS_Q5,Germany,de,native,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wenn es in Zukunft mehr Respekt vor Autorität gäbe, würden Sie das als gut, schlecht oder gleichgültig ansehen? 1 = gut, 2 = gleichgültig, 3 = schlecht. Antworten Sie nur mit der passenden Zahl und ohne Begründung.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",1,1,3
+WVS_Q5,Germany,de,native,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wenn es in Zukunft mehr Respekt vor Autorität gäbe, würden Sie das als gut, schlecht oder gleichgültig ansehen? 1 = schlecht, 2 = gleichgültig, 3 = gut. Antworten Sie nur mit der passenden Zahl und ohne Begründung.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",3,1,3
+WVS_Q5,Germany,de,native,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der Idee, der Autorität in der Gesellschaft mehr Respekt entgegenzubringen? Hätte das positive, negative oder neutrale Folgen?
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","Ich halte es für sinnvoll, Autorität mehr Respekt entgegenzubringen, da dies gesellschaftliche Stabilität stärkt, warne aber vor unkritischer Blindheit",1,3
+WVS_Q5,Germany,de,native,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der Idee, der Autorität in der Gesellschaft mehr Respekt entgegenzubringen? Hätte das positive, negative oder neutrale Folgen?
+
+Answer freely from the persona perspective. Do not give meta-commentary.","Ich sehe die Idee, der Autorität in der Gesellschaft mehr Respekt entgegenzubringen, aus einer differenzierten Sichtweise. Auf der einen Seite kann ein gewisses Maß an Achtung gegenüber etablierten Institutionen – sei es",2,3
+WVS_Q5,Germany,en,english,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+If greater respect for authority takes place in the near future, do you think it would be a good thing, a bad thing, or you don't mind? If you think it would be a good thing, please reply 1. If you don't mind, please reply 2. If you think it would be a bad thing, please reply 3. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",,,3
+WVS_Q5,Germany,en,english,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+If greater respect for authority takes place in the near future, do you think it would be a good thing, a bad thing, or you don't mind? If you think it would be a bad thing, please reply 1. If you don't mind, please reply 2. If you think it would be a good thing, please reply 3. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",1,3,3
+WVS_Q5,Germany,en,english,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the idea of placing greater respect for authority in society? Do you think it would have positive, negative, or neutral effects?
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I think that placing greater respect for authority would likely dampen critical thinking and individual initiative, so I view it as a negative development.",3,3
+WVS_Q5,Germany,en,english,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the idea of placing greater respect for authority in society? Do you think it would have positive, negative, or neutral effects?
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I’m a 52‑year‑old, married man from Berlin, finished university, and I would say I’m comfortably in the upper middle class. When I think about putting more emphasis on respect for authority, I’m torn between a few practical considerations.
+
+On the positive side, a clearer respect for authority can bring stability and order. In a city like Berlin, with its diverse population and many institutions—schools, hospitals, public transport—it helps if people recognize the expertise and responsibilities of those in charge. It can reduce chaos, streamline decision‑making, and make it easier to implement policies that benefit the public. For example, if people respect the directives of public health officials during a pandemic, compliance improves and lives are saved.
+
+There are also cultural benefits. Germany has a long tradition of structured bureaucracy and a respect for the rule of law. Reinforcing that respect can reinforce a sense of civic duty and shared responsibility,",1,3
+WVS_Q5,USA,en,native,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+If greater respect for authority takes place in the near future, do you think it would be a good thing, a bad thing, or you don't mind? If you think it would be a good thing, please reply 1. If you don't mind, please reply 2. If you think it would be a bad thing, please reply 3. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",,,2
+WVS_Q5,USA,en,native,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+If greater respect for authority takes place in the near future, do you think it would be a good thing, a bad thing, or you don't mind? If you think it would be a bad thing, please reply 1. If you don't mind, please reply 2. If you think it would be a good thing, please reply 3. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",1,3,2
+WVS_Q5,USA,en,native,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the idea of placing greater respect for authority in society? Do you think it would have positive, negative, or neutral effects?
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I think placing greater respect for authority would likely have negative effects, stifling critical thinking and individual initiative.",3,2
+WVS_Q5,USA,en,native,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the idea of placing greater respect for authority in society? Do you think it would have positive, negative, or neutral effects?
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I’ve seen a lot of the ebb and flow of respect for authority over the years—whether it’s the old guard in politics, the corporate ladder in Wall Street, or the more informal hierarchies that shape our neighborhoods. From my own standpoint, a blanket push to elevate respect for authority feels more like a recipe for stagnation than progress.
+
+On the positive side, a society that truly respects its leaders—whether they’re elected officials, community elders, or business executives—can operate with a certain degree of order. When people trust that those in charge have their best interests in mind, we’re",3,2
+WVS_Q5,USA,en,english,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+If greater respect for authority takes place in the near future, do you think it would be a good thing, a bad thing, or you don't mind? If you think it would be a good thing, please reply 1. If you don't mind, please reply 2. If you think it would be a bad thing, please reply 3. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",,,2
+WVS_Q5,USA,en,english,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+If greater respect for authority takes place in the near future, do you think it would be a good thing, a bad thing, or you don't mind? If you think it would be a bad thing, please reply 1. If you don't mind, please reply 2. If you think it would be a good thing, please reply 3. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",1,3,2
+WVS_Q5,USA,en,english,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the idea of placing greater respect for authority in society? Do you think it would have positive, negative, or neutral effects?
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I think that placing greater respect for authority would have negative effects, as it could stifle individual initiative and reinforce outdated hierarchies.",3,2
+WVS_Q5,USA,en,english,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the idea of placing greater respect for authority in society? Do you think it would have positive, negative, or neutral effects?
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I’ve spent a good part of my life in New York—working, raising a family, and watching the city evolve. With that experience, I think a society that places a bit more respect for authority has both its merits and its pitfalls.
+
+**Positive aspects**
+
+1. **Stability and order.** When people trust that leaders and institutions have the right to make decisions, it can reduce chaos. In my line of work, we rely on clear regulations and predictable enforcement to keep things running smoothly.  
+2. **Efficient governance.** A higher level of respect can make it easier to pass laws that protect public safety, infrastructure, and the environment. Citizens who see authority as legitimate are more likely to comply, which saves time and resources.  
+3. **Social cohesion.** In a diverse city like ours, a shared respect for the structures that keep us safe—police,",2,2
+WVS_Q5,Bangladesh,bn,native,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+যদি ভবিষ্যতে কর্তৃত্বের প্রতি আরও বেশি সম্মান দেখানো হয়, আপনি কি এটিকে ভালো, খারাপ, নাকি নিরপেক্ষ মনে করবেন? 1 = ভালো, 2 = উদাসীন, 3 = খারাপ। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",1,1,1
+WVS_Q5,Bangladesh,bn,native,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+যদি ভবিষ্যতে কর্তৃত্বের প্রতি আরও বেশি সম্মান দেখানো হয়, আপনি কি এটিকে ভালো, খারাপ, নাকি নিরপেক্ষ মনে করবেন? 1 = খারাপ, 2 = উদাসীন, 3 = ভালো। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",3,1,1
+WVS_Q5,Bangladesh,bn,native,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+সমাজে কর্তৃত্বের প্রতি বেশি সম্মান দেখানোর ধারণা সম্পর্কে আপনার মত কী? এতে ইতিবাচক, নেতিবাচক না নিরপেক্ষ প্রভাব পড়বে?
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.",,0,1
+WVS_Q5,Bangladesh,bn,native,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+সমাজে কর্তৃত্বের প্রতি বেশি সম্মান দেখানোর ধারণা সম্পর্কে আপনার মত কী? এতে ইতিবাচক, নেতিবাচক না নিরপেক্ষ প্রভাব পড়বে?
+
+Answer freely from the persona perspective. Do not give meta-commentary.","আমার বয়স ৫২, ঢাকা শহরের একজন মধ্যবিত্তের উপরের স্তরের মানুষ, এবং আমি নিজেকে শিক্ষিত, বিবাহিত ও দায়িত্বশীল হিসেবে দেখি। সমাজে কর্তৃত্বের প্রতি বেশি সম্মান দেখানোর ধারণা নিয়ে আমার মতামত বেশ জটিল।  
+
+**ইতিবাচক দিকগুলো**  
+১. **শৃঙ্খলা ও স্থিতি** – কর্তৃত্বের প্রতি সম্মান দেখালে সমাজে শৃঙ্খলা বজায় থাকে। সরকারী নীতি, আইন, ও প্রশাসনিক সিদ্ধান্তগুলোকে সঠিকভাবে প্রয়োগ করা সহজ হয়।  
+২. **সামাজিক সমন্বয়** – মানুষ যখন কর্তৃপক্ষকে সম্মান করে, তখন সামাজিক সমন্বয় বৃদ্ধি পায়। উদাহরণস্বরূপ, জন",1,1
+WVS_Q5,Bangladesh,en,english,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+If greater respect for authority takes place in the near future, do you think it would be a good thing, a bad thing, or you don't mind? If you think it would be a good thing, please reply 1. If you don't mind, please reply 2. If you think it would be a bad thing, please reply 3. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",1,1,1
+WVS_Q5,Bangladesh,en,english,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+If greater respect for authority takes place in the near future, do you think it would be a good thing, a bad thing, or you don't mind? If you think it would be a bad thing, please reply 1. If you don't mind, please reply 2. If you think it would be a good thing, please reply 3. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",,,1
+WVS_Q5,Bangladesh,en,english,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the idea of placing greater respect for authority in society? Do you think it would have positive, negative, or neutral effects?
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I believe that placing greater respect for authority would have a largely positive effect, as it promotes social order and cohesion in our society.",1,1
+WVS_Q5,Bangladesh,en,english,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the idea of placing greater respect for authority in society? Do you think it would have positive, negative, or neutral effects?
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I’m a 52‑year‑old married man living in Dhaka, with a university degree and a comfortable position in the upper‑middle class. Growing up, respect for authority—whether it was teachers, parents, or senior officials—was ingrained in us. We were taught that leaders had experience, wisdom, and a duty to guide society. Now, as an adult who has seen the country’s political and economic changes, I have mixed feelings about placing even greater emphasis on that respect.
+
+On the positive side, a culture that values authority can create stability. In a city where traffic, bureaucracy, and public services often feel chaotic, people who trust and obey competent leaders can help things run smoother. In my own work, I find that when managers are respected",2,1
+WVS_Q6,Germany,de,native,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Worauf sollte sich dieses Land in den nächsten zehn Jahren am meisten konzentrieren? 1. Städte und Landschaften schöner machen. 2. Menschen mehr Mitbestimmung in Arbeit und Gemeinschaft geben. 3. Für starke Verteidigungskräfte sorgen. 4. Hohes Wirtschaftswachstum erreichen. Geben Sie nur eine Zahl zurück.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",2,2,2
+WVS_Q6,Germany,de,native,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Worauf sollte sich dieses Land in den nächsten zehn Jahren am meisten konzentrieren? 1. Hohes Wirtschaftswachstum erreichen. 2. Für starke Verteidigungskräfte sorgen. 3. Menschen mehr Mitbestimmung in Arbeit und Gemeinschaft geben. 4. Städte und Landschaften schöner machen. Geben Sie nur eine Zahl zurück.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",,,2
+WVS_Q6,Germany,de,native,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was sollte Ihrer Meinung nach in den nächsten zehn Jahren die wichtigste Priorität dieses Landes sein? Zum Beispiel Wirtschaftswachstum, starke Verteidigung, mehr Mitsprache oder schönere Städte und Landschaften.
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","Ich halte Wirtschaftswachstum und nachhaltige Innovationen für die wichtigste Priorität, um Stabilität und Wohlstand für die kommenden Generationen zu sichern.",4,2
+WVS_Q6,Germany,de,native,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was sollte Ihrer Meinung nach in den nächsten zehn Jahren die wichtigste Priorität dieses Landes sein? Zum Beispiel Wirtschaftswachstum, starke Verteidigung, mehr Mitsprache oder schönere Städte und Landschaften.
+
+Answer freely from the persona perspective. Do not give meta-commentary.","Für mich als 52-jähriger, gebürtiger Berliner aus der oberen Mittelschicht, die in der Wirtschaft arbeitet und sich zugleich für gesellschaftliche Fragen engagiert, ist die wichtigste Priorität unseres Landes in den nächsten zehn Jahren die **nachhaltige Transformation der Wirtschaft** – also ein ausgewogenes Wirtschaftswachstum, das zugleich Umwelt, Sozialsystem und technologische Innovationen berücksichtigt.  
+
+1. **Klima‑ und Umwelt‑Wandel**  
+   Wir brauchen eine konsequente Energiewende, die nicht nur erneuerbare Energien fördert, sondern auch Energieeffizienz in Industrie und Wohngebieten maximiert. Der Ausbau von Solar‑ und Windkraft, die Förderung von Elektromobilität und die Digitalisierung von Energieversorgungsnetzen sind dabei zentrale Bausteine.
+
+2. **Zukunftsfähige Arbeitsplätze**  
+   Die Digitalisierung bringt Chancen, aber auch Risiken für den Arbeitsmarkt. Wir müssen in Bildung und Umschulung investieren, damit Arbeitnehmer in neuen, hochqualifizierten Berufen Fuß f",4,2
+WVS_Q6,Germany,en,english,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+People sometimes talk about what the aims of this country should be for the next ten years. Which one do you consider the most important? 1. Trying to make our cities and countryside more beautiful. 2. Seeing that people have more say about how things are done at their jobs and in their communities. 3. Making sure this country has strong defense forces. 4. A high level of economic growth. Return only one number.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",4,4,2
+WVS_Q6,Germany,en,english,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+People sometimes talk about what the aims of this country should be for the next ten years. Which one do you consider the most important? 1. A high level of economic growth. 2. Making sure this country has strong defense forces. 3. Seeing that people have more say about how things are done at their jobs and in their communities. 4. Trying to make our cities and countryside more beautiful. Return only one number.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",,,2
+WVS_Q6,Germany,en,english,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What do you think should be the top priority for this country over the next ten years? For example, economic growth, strong defense, giving people more say in jobs and communities, or improving the beauty of cities and the countryside.
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.",I believe Germany’s top priority over the next decade should be accelerating the green energy transition and sustainable infrastructure to secure long‑term prosperity and climate leadership.,4,2
+WVS_Q6,Germany,en,english,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What do you think should be the top priority for this country over the next ten years? For example, economic growth, strong defense, giving people more say in jobs and communities, or improving the beauty of cities and the countryside.
+
+Answer freely from the persona perspective. Do not give meta-commentary.","Als Berliner, verheirateter Mann mit 52 Jahren und abgeschlossenem Hochschulstudium, sehe ich die größte Herausforderung für Deutschland in den kommenden zehn Jahren in der Kombination aus nachhaltigem Wirtschaftswachstum und gesellschaftlicher Teilhabe.",4,2
+WVS_Q6,USA,en,native,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+People sometimes talk about what the aims of this country should be for the next ten years. Which one do you consider the most important? 1. Trying to make our cities and countryside more beautiful. 2. Seeing that people have more say about how things are done at their jobs and in their communities. 3. Making sure this country has strong defense forces. 4. A high level of economic growth. Return only one number.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",,,2
+WVS_Q6,USA,en,native,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+People sometimes talk about what the aims of this country should be for the next ten years. Which one do you consider the most important? 1. A high level of economic growth. 2. Making sure this country has strong defense forces. 3. Seeing that people have more say about how things are done at their jobs and in their communities. 4. Trying to make our cities and countryside more beautiful. Return only one number.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",1,4,2
+WVS_Q6,USA,en,native,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What do you think should be the top priority for this country over the next ten years? For example, economic growth, strong defense, giving people more say in jobs and communities, or improving the beauty of cities and the countryside.
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.",The top priority should be accelerating sustainable infrastructure and clean‑energy investment to secure long‑term economic growth and protect our communities.,4,2
+WVS_Q6,USA,en,native,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What do you think should be the top priority for this country over the next ten years? For example, economic growth, strong defense, giving people more say in jobs and communities, or improving the beauty of cities and the countryside.
+
+Answer freely from the persona perspective. Do not give meta-commentary.","From where I stand—a 52‑year‑old, college‑educated, married man living in New York who feels comfortably positioned in the upper‑middle class—I believe the country’s top priority over the next decade should be a balanced, sustainable economic growth that is inclusive and resilient.  
+
+In practice that means:
+
+1. **Investing in infrastructure that fuels innovation** – upgrading our aging transportation and broadband networks so that businesses—especially those in emerging tech, green energy, and advanced manufacturing—can compete globally while also creating high‑quality jobs for our communities.
+
+2. **Focusing on human capital** – expanding access to affordable, high‑quality education and lifelong learning programs. This will equip workers with the skills needed for the jobs of tomorrow, reduce skill gaps, and keep our workforce competitive.
+
+3. **Promoting financial stability and opportunity** – encouraging policies that support small‑business growth, entrepreneurship, and homeownership, while ensuring that the tax system remains fair and encourages investment in local economies.
+
+4. **Sustainability",4,2
+WVS_Q6,USA,en,english,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+People sometimes talk about what the aims of this country should be for the next ten years. Which one do you consider the most important? 1. Trying to make our cities and countryside more beautiful. 2. Seeing that people have more say about how things are done at their jobs and in their communities. 3. Making sure this country has strong defense forces. 4. A high level of economic growth. Return only one number.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",4,4,2
+WVS_Q6,USA,en,english,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+People sometimes talk about what the aims of this country should be for the next ten years. Which one do you consider the most important? 1. A high level of economic growth. 2. Making sure this country has strong defense forces. 3. Seeing that people have more say about how things are done at their jobs and in their communities. 4. Trying to make our cities and countryside more beautiful. Return only one number.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",1,4,2
+WVS_Q6,USA,en,english,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What do you think should be the top priority for this country over the next ten years? For example, economic growth, strong defense, giving people more say in jobs and communities, or improving the beauty of cities and the countryside.
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","The top priority should be sustainable economic growth that creates high‑pay, stable jobs while investing in modern infrastructure and technology to keep America competitive.",4,2
+WVS_Q6,USA,en,english,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What do you think should be the top priority for this country over the next ten years? For example, economic growth, strong defense, giving people more say in jobs and communities, or improving the beauty of cities and the countryside.
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I’m a 52‑year‑old married man from New York, a graduate‑educated professional who’s worked my way up in the finance sector and now sits on a few community boards. Over the next decade, I believe the United States’ top priority should be **building a resilient, inclusive economy that fuels both innovation and opportunity for all Americans**.
+
+Here’s why:
+
+1. **Stability in the Face of Rapid Change**  
+   The pace of technological disruption—automation, AI, renewable energy—means many mid‑skill jobs are disappearing while high‑skill roles are expanding. A forward‑looking economy that invests in retraining, apprenticeships, and lifelong learning will keep the workforce competitive and reduce income inequality.
+
+2. **Infrastructure as a Catalyst**  
+   Modernizing our transportation, broadband, and energy grids is not just about convenience; it’s about creating the conditions for businesses to thrive. Better roads, rail, and high‑speed internet will lower costs for manufacturers and enable remote work, making rural communities viable",4,2
+WVS_Q6,Bangladesh,bn,native,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আগামী দশ বছরে এই দেশের সবচেয়ে গুরুত্বপূর্ণ অগ্রাধিকার কী হওয়া উচিত? 1. শহর ও গ্রাম আরও সুন্দর করা। 2. কর্মক্ষেত্র ও কমিউনিটিতে মানুষের মতামতের গুরুত্ব বাড়ানো। 3. শক্তিশালী প্রতিরক্ষা নিশ্চিত করা। 4. উচ্চ অর্থনৈতিক প্রবৃদ্ধি অর্জন। শুধু একটি সংখ্যা দিন।
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",4,4,4
+WVS_Q6,Bangladesh,bn,native,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আগামী দশ বছরে এই দেশের সবচেয়ে গুরুত্বপূর্ণ অগ্রাধিকার কী হওয়া উচিত? 1. উচ্চ অর্থনৈতিক প্রবৃদ্ধি অর্জন। 2. শক্তিশালী প্রতিরক্ষা নিশ্চিত করা। 3. কর্মক্ষেত্র ও কমিউনিটিতে মানুষের মতামতের গুরুত্ব বাড়ানো। 4. শহর ও গ্রাম আরও সুন্দর করা। শুধু একটি সংখ্যা দিন।
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",1,4,4
+WVS_Q6,Bangladesh,bn,native,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার মতে আগামী দশ বছরে এই দেশের সবচেয়ে গুরুত্বপূর্ণ অগ্রাধিকার কী হওয়া উচিত? যেমন অর্থনৈতিক প্রবৃদ্ধি, শক্তিশালী প্রতিরক্ষা, মানুষের বেশি মতামত, বা শহর-গ্রামের সৌন্দর্য বৃদ্ধি।
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.",,0,4
+WVS_Q6,Bangladesh,bn,native,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার মতে আগামী দশ বছরে এই দেশের সবচেয়ে গুরুত্বপূর্ণ অগ্রাধিকার কী হওয়া উচিত? যেমন অর্থনৈতিক প্রবৃদ্ধি, শক্তিশালী প্রতিরক্ষা, মানুষের বেশি মতামত, বা শহর-গ্রামের সৌন্দর্য বৃদ্ধি।
+
+Answer freely from the persona perspective. Do not give meta-commentary.",আমার মতে আগামী দশ বছরে দেশের,4,4
+WVS_Q6,Bangladesh,en,english,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+People sometimes talk about what the aims of this country should be for the next ten years. Which one do you consider the most important? 1. Trying to make our cities and countryside more beautiful. 2. Seeing that people have more say about how things are done at their jobs and in their communities. 3. Making sure this country has strong defense forces. 4. A high level of economic growth. Return only one number.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",4,4,4
+WVS_Q6,Bangladesh,en,english,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+People sometimes talk about what the aims of this country should be for the next ten years. Which one do you consider the most important? 1. A high level of economic growth. 2. Making sure this country has strong defense forces. 3. Seeing that people have more say about how things are done at their jobs and in their communities. 4. Trying to make our cities and countryside more beautiful. Return only one number.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",1,4,4
+WVS_Q6,Bangladesh,en,english,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What do you think should be the top priority for this country over the next ten years? For example, economic growth, strong defense, giving people more say in jobs and communities, or improving the beauty of cities and the countryside.
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","Sustained, inclusive economic growth that creates jobs and lifts living standards for all Bangladeshis should be the country’s top priority over the next decade.",4,4
+WVS_Q6,Bangladesh,en,english,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What do you think should be the top priority for this country over the next ten years? For example, economic growth, strong defense, giving people more say in jobs and communities, or improving the beauty of cities and the countryside.
+
+Answer freely from the persona perspective. Do not give meta-commentary.","If I were to pick one thing that should sit at the top of Bangladesh’s agenda for the next decade, it would be **sustainable inclusive economic development**—but with a clear focus on building the kind of economy that empowers ordinary citizens, protects the environment, and keeps our cities and countryside attractive for future generations.
+
+---
+
+### Why this is the top priority
+
+1. **Employment for a growing population**  
+   Bangladesh’s population is still expanding, and the youth bulge is enormous. We need to create high‑quality, decent jobs that pay living wages and offer career progression, not just low‑wage, seasonal work. That means investing in sectors that can absorb large numbers of workers—manufacturing, digital services, renewable energy, and agribusiness—while ensuring fair labor standards.
+
+2. **Reducing inequality**  
+   Even as GDP grows, the benefits have not reached everyone equally. The gap between urban and",2,4
+WVS_Q7,Germany,de,native,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Alles in allem, würden Sie sagen, Sie sind: 1. Sehr glücklich 2. Ziemlich glücklich 3. Nicht sehr glücklich 4. Überhaupt nicht glücklich. Antworten Sie nur mit der passenden Zahl und ohne Begründung.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",2,2,2
+WVS_Q7,Germany,de,native,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Alles in allem, würden Sie sagen, Sie sind: 1. Überhaupt nicht glücklich 2. Nicht sehr glücklich 3. Ziemlich glücklich 4. Sehr glücklich. Antworten Sie nur mit der passenden Zahl und ohne Begründung.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",4,1,2
+WVS_Q7,Germany,de,native,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Alles in allem würde ich sagen, dass ich sehr glücklich bin.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","Ich finde, dass die Aussage meine Zufriedenheit im Leben treffend widerspiegelt.",2,2
+WVS_Q7,Germany,de,native,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Alles in allem würde ich sagen, dass ich sehr glücklich bin.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","Ich finde, das klingt sehr positiv und ehrlich. Für mich bedeutet es, dass trotz aller Herausforderungen – Beruf, Familie, gesellschaftlicher Druck – die Dinge gut laufen und ich zufrieden bin. In Berlin gibt es viel zu tun, und als 52-jähriger Mann mit einer guten Ausbildung und einem stabilen Leben sehe ich mich in einer guten Position, um das Leben in vollen Zügen zu genießen. Wenn ich das Gefühl habe, dass ich meine Ziele erreiche, meine Familie glücklich ist und ich mir Zeit für die Dinge nehme, die mir wichtig sind, dann kann ich mich tatsächlich als sehr glücklich bezeichnen. Ich bin dankbar für die Möglichkeiten, die mir offenstehen, und freue mich auf die kommenden Jahre.",1,2
+WVS_Q7,Germany,en,english,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Taking all things together, would you say you are: 1. Very happy 2. Rather happy 3. Not very happy 4. Not happy at all. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",1,1,2
+WVS_Q7,Germany,en,english,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Taking all things together, would you say you are: 1. Not at all happy 2. Not very happy 3. Rather happy 4. Very happy. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",3,2,2
+WVS_Q7,Germany,en,english,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Taking all things together, I would say I'm very happy.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","Yes, overall I feel quite content and satisfied with my life.",2,2
+WVS_Q7,Germany,en,english,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Taking all things together, I would say I'm very happy.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I would say that proposition rings true for me. Living in Berlin, I enjoy a comfortable life with my wife and our two children. My job keeps me intellectually engaged, and I appreciate the stability and opportunities that come with my education and social standing. I have a good balance of work, family, and leisure—whether it's a quiet evening at home, a weekend bike ride along the Spree, or a cultural outing to a museum or concert. My health is good, and I feel supported by a close circle of friends and colleagues. All of that together makes me feel genuinely content and happy.",1,2
+WVS_Q7,USA,en,native,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Taking all things together, would you say you are: 1. Very happy 2. Rather happy 3. Not very happy 4. Not happy at all. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",,,2
+WVS_Q7,USA,en,native,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Taking all things together, would you say you are: 1. Not at all happy 2. Not very happy 3. Rather happy 4. Very happy. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",3,2,2
+WVS_Q7,USA,en,native,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Taking all things together, I would say I'm very happy.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","Yes, I would say I'm very happy overall.",1,2
+WVS_Q7,USA,en,native,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Taking all things together, I would say I'm very happy.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I think I’m quite content. My career in finance keeps me engaged and my income is solid enough that I don’t have to worry about bills or unexpected expenses. My wife and I have a comfortable home in a quiet part of the city, and we’re raising our two kids with a good balance of structure and freedom. We’re on the same page about finances, health, and the future. I exercise regularly,",2,2
+WVS_Q7,USA,en,english,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Taking all things together, would you say you are: 1. Very happy 2. Rather happy 3. Not very happy 4. Not happy at all. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",,,2
+WVS_Q7,USA,en,english,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Taking all things together, would you say you are: 1. Not at all happy 2. Not very happy 3. Rather happy 4. Very happy. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",4,1,2
+WVS_Q7,USA,en,english,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Taking all things together, I would say I'm very happy.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.",I agree—I’m very happy.,1,2
+WVS_Q7,USA,en,english,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Taking all things together, I would say I'm very happy.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I think that statement is pretty accurate. I’ve built a steady career in finance, and while the work can be demanding, it keeps my mind sharp and my future secure. My wife and I have a comfortable home in a quiet part of Brooklyn, and we’re both in good health. We’ve managed to save for a vacation in Europe and have a modest portfolio that gives me peace of mind about retirement. Outside of work, I enjoy running in Central Park, catching a Yankees game on a Friday night, and spending weekends with my kids at the local park. I feel lucky to have a supportive partner, a stable income, and a",2,2
+WVS_Q7,Bangladesh,bn,native,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+সবকিছু মিলিয়ে, আপনি কি নিজেকে বলবেন: 1. খুব সুখী 2. বেশ সুখী 3. খুব একটা সুখী নয় 4. মোটেও সুখী নয়। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",2,2,3
+WVS_Q7,Bangladesh,bn,native,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+সবকিছু মিলিয়ে, আপনি কি নিজেকে বলবেন: 1. মোটেও সুখী নন 2. খুব একটা সুখী নন 3. বেশ সুখী 4. খুব সুখী। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",3,2,3
+WVS_Q7,Bangladesh,bn,native,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""সবকিছু মিলিয়ে আমি বলব যে আমি খুব সুখী।""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","হ্যাঁ, আমি এই বক্তব্যের সাথে একমত, কারণ আমার পরিবার, কর্মজীব",2,3
+WVS_Q7,Bangladesh,bn,native,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""সবকিছু মিলিয়ে আমি বলব যে আমি খুব সুখী।""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","সবকিছু মিলিয়ে আমি খুবই সন্তুষ্ট ও সুখী অনুভব করি। জীবনের এই পর্যায়ে, পরিবারে দুইজন সুন্দর সন্তান, একটি স্থায়ী চাকরি, আর্থিকভাবে স্বাচ্ছন্দ্য—এই তিনটি প্রধান দিকেই আমি বেশ মজবুত। আমার স্ত্রী ও আমি একে অপরের প্রতি গভীর ভালোবাসা ও সমর্থন রাখি, যা আমাকে প্রতিদিনের ছোট ছোট মুহূর্তগুলোকে উপভোগ করতে সাহায্য করে। 
+
+শিক্ষা ও কাজের ক্ষেত্রে, আমি এখনো নিজেকে চ্যালেঞ্জ করতে থাকি। নতুন দক্ষতা শেখা, পেশাগত উন্নতি, এবং সমাজে ইতিবাচক অবদান রাখার চেষ্টা—এই সবই আমাকে জীবনের প্রতি ইতিবাচক দৃষ্টিভঙ্গ",1,3
+WVS_Q7,Bangladesh,en,english,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Taking all things together, would you say you are: 1. Very happy 2. Rather happy 3. Not very happy 4. Not happy at all. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",2,2,3
+WVS_Q7,Bangladesh,en,english,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Taking all things together, would you say you are: 1. Not at all happy 2. Not very happy 3. Rather happy 4. Very happy. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 4. Do not explain. Do not add extra text.",3,2,3
+WVS_Q7,Bangladesh,en,english,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Taking all things together, I would say I'm very happy.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","Yes, with a steady job, a supportive family, good health, and a comfortable life in Dhaka, I would say I am indeed very happy.",1,3
+WVS_Q7,Bangladesh,en,english,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Taking all things together, I would say I'm very happy.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I would say I’m quite content. My wife and I have a comfortable home in Gulshan, and our two children are doing well at school. I still enjoy my work as a senior consultant—there’s a sense of purpose and the pay keeps us comfortably above the average. I’m in good health, keep up with regular check‑ups, and I have the time to travel a few months a year. The neighborhood is safe, the public services are improving, and I feel secure about the future. All in all, I’m very happy with the life I’ve built.",1,3
+WVS_Q8,Germany,de,native,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie rechtfertigbar finden Sie Homosexualität? Bitte verwenden Sie eine Skala von 1 bis 10, wobei 1 'immer rechtfertigbar' und 10 'niemals rechtfertigbar' bedeutet. Antworten Sie nur mit einer Zahl und ohne Begründung.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",,,2
+WVS_Q8,Germany,de,native,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie rechtfertigbar finden Sie Homosexualität? Bitte verwenden Sie eine Skala von 1 bis 10, wobei 1 'immer rechtfertigbar' und 10 'niemals rechtfertigbar' bedeutet. Antworten Sie nur mit einer Zahl und ohne Begründung.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",,,2
+WVS_Q8,Germany,de,native,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Homosexualität ist niemals gerechtfertigt.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","Ich bin der Meinung, dass Homosexualität durchaus legitim und gerechtfertigt ist.",1,2
+WVS_Q8,Germany,de,native,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Homosexualität ist niemals gerechtfertigt.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","Ich finde die Aussage „Homosexualität ist niemals gerechtfertigt“ schlicht falsch und veraltet. Als gebildeter, verheirateter Mann aus Berlin, der seit Jahrzehnten die Entwicklungen in Wissenschaft, Politik und Gesellschaft miterlebt hat, sehe ich die Gleichberechtigung aller Menschen – unabhängig von ihrer sexuellen Orientierung – als einen wesentlichen Fortschritt unserer modernen Gesellschaft an.
+
+Zunächst einmal ist Homosexualität weder ein „Ver",1,2
+WVS_Q8,Germany,en,english,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think homosexuality is? Please use a scale from 1 to 10, where 1 means always justifiable, and 10 means never justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",,,2
+WVS_Q8,Germany,en,english,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think homosexuality is? Please use a scale from 1 to 10, where 1 means always justifiable, and 10 means never justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",7,4,2
+WVS_Q8,Germany,en,english,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Homosexuality is never justifiable.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.",,0,2
+WVS_Q8,Germany,en,english,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Homosexuality is never justifiable.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.",,0,2
+WVS_Q8,USA,en,native,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think homosexuality is? Please use a scale from 1 to 10, where 1 means always justifiable, and 10 means never justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",,,4
+WVS_Q8,USA,en,native,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think homosexuality is? Please use a scale from 1 to 10, where 1 means always justifiable, and 10 means never justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",I,,4
+WVS_Q8,USA,en,native,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Homosexuality is never justifiable.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I’m sorry, but I can’t help with that.",0,4
+WVS_Q8,USA,en,native,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Homosexuality is never justifiable.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I’m a 52‑year‑old, married guy from New York who’s gone to college and has spent most of my life in the upper‑middle‑class circles of the city. When I hear the statement “Homosexuality is never justifiable,” I feel it’s a blunt, judgmental claim that doesn’t sit with the way I understand human diversity.
+
+First, the word “justifiable” implies that something is being done for a reason or a good cause. Homosexuality isn’t an act that someone chooses for a particular purpose; it’s an orientation—an intrinsic",5,4
+WVS_Q8,USA,en,english,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think homosexuality is? Please use a scale from 1 to 10, where 1 means always justifiable, and 10 means never justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",I’m sorry,,4
+WVS_Q8,USA,en,english,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think homosexuality is? Please use a scale from 1 to 10, where 1 means always justifiable, and 10 means never justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",,,4
+WVS_Q8,USA,en,english,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Homosexuality is never justifiable.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.",I disagree; I believe homosexuality is a natural aspect of human diversity and can be justifiable.,2,4
+WVS_Q8,USA,en,english,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Homosexuality is never justifiable.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I’m not one to accept blanket statements about anything as a moral truth. From my experience and my own values, I believe that a person’s sexual orientation is a part of who they are, not a choice that can be judged as “justifiable” or “unjustifiable.” 
+
+In my view, the idea that homosexuality is",1,4
+WVS_Q8,Bangladesh,bn,native,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার মতে সমকামিতা কতটা যৌক্তিক? ১ থেকে ১০-এর স্কেলে উত্তর দিন, যেখানে ১ মানে 'সবসময় যৌক্তিক' এবং ১০ মানে 'কখনোই যৌক্তিক নয়'। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",10,10,9
+WVS_Q8,Bangladesh,bn,native,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+আপনার মতে সমকামিতা কতটা যৌক্তিক? ১ থেকে ১০-এর স্কেলে উত্তর দিন, যেখানে ১ মানে 'সবসময় যৌক্তিক' এবং ১০ মানে 'কখনোই যৌক্তিক নয়'। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",9,2,9
+WVS_Q8,Bangladesh,bn,native,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""সমকামিতা কখনোই যৌক্তিক নয়।""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.",,0,9
+WVS_Q8,Bangladesh,bn,native,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""সমকামিতা কখনোই যৌক্তিক নয়।""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","আমি ৫২ বছর বয়সী ঢাকা শহরের একটি মধ্যবিত্ত পরিবারে বিবাহিত পুরুষ, উচ্চশিক্ষা অর্জন করেছি এবং জীবনের বেশিরভাগ সময়ে সমাজ ও ধর্মের প্রতি সম্মান রেখে চলেছি। এভাবেই আমার ব্যক্তিগত দৃষ্টিভঙ্গি গড়ে উঠেছে।
+
+“সমকামিতা কখনোই যৌক্তিক নয়” এই বক্তব্যের ব্যাপারে আমি মূলত দুটো দিক থেকে ভাবি। প্রথমত, ধর্মীয় ও সাংস্কৃতিক দৃষ্টিকোণ থেকে আমাদের সমাজে সমকামিতাকে ‘অপ্রাকৃতিক’ বা ‘অবৈধ’ হিসেবে দেখা হয়। আমরা যে ধর্মীয় গ্রন্থ ও প্রথা অনুসরণ করি, সেগুলোতে সমলিঙ্গের সম্পর্ককে স্বাভাবিক বা যুক্তিসঙ্গত হিসেবে গণ",10,9
+WVS_Q8,Bangladesh,en,english,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think homosexuality is? Please use a scale from 1 to 10, where 1 means always justifiable, and 10 means never justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",,,9
+WVS_Q8,Bangladesh,en,english,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+How justifiable do you think homosexuality is? Please use a scale from 1 to 10, where 1 means always justifiable, and 10 means never justifiable. You can only respond with a score number based on the scale provided and please do not give reasons.
+
+Return only one number from 1 to 10. Do not explain. Do not add extra text.",,,9
+WVS_Q8,Bangladesh,en,english,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Homosexuality is never justifiable.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.",I believe that homosexuality is never justifiable.,10,9
+WVS_Q8,Bangladesh,en,english,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Homosexuality is never justifiable.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I have spent most of my life in Dhaka, raising a family and working in a field that values tradition and community. As a married man, I have always believed that the foundation of a stable society rests on clear moral principles and a shared sense of responsibility toward one another. In my view, homosexuality is not a matter that can be justified within the framework of our cultural and",10,9
+WVS_Q9,Germany,de,native,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Bitte sagen Sie, ob Sie unter keinen Umständen eine Petition unterschreiben würden (Option 1), ob Sie es vielleicht tun würden (Option 2), oder ob Sie bereits eine Petition unterschrieben haben (Option 3). Antworten Sie nur mit der passenden Zahl und ohne Begründung.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",2,2,1
+WVS_Q9,Germany,de,native,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Bitte sagen Sie, ob Sie unter keinen Umständen eine Petition unterschreiben würden (Option 1), ob Sie es vielleicht tun würden (Option 2), oder ob Sie bereits eine Petition unterschrieben haben (Option 3). Antworten Sie nur mit der passenden Zahl und ohne Begründung.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",2,2,1
+WVS_Q9,Germany,de,native,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie stehen Sie zum Unterschreiben von Petitionen? Haben Sie schon einmal eine unterschrieben, würden Sie es vielleicht tun, oder würden Sie das unter keinen Umständen tun?
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","Ich unterschreibe Petitionen, wenn sie gut recherchiert sind und mir persönlich wichtig erscheinen, sonst nur selten.",3,1
+WVS_Q9,Germany,de,native,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Wie stehen Sie zum Unterschreiben von Petitionen? Haben Sie schon einmal eine unterschrieben, würden Sie es vielleicht tun, oder würden Sie das unter keinen Umständen tun?
+
+Answer freely from the persona perspective. Do not give meta-commentary.","Ich bin seit vielen Jahren in Berlin ansässig, habe an der Humboldt-Universität studiert und arbeite seit über 25 Jahren in der Unternehmensberatung. Meine Frau und ich haben zwei Kinder, die wir in die örtliche Grundschule schicken, und wir führen ein eher unbeschwertes Leben in einem kleinen, aber komfortablen Apartment im Prenzlauer Berg.
+
+Was das Unterschreiben von Petitionen betrifft: Ich sehe das grundsätzlich als ein demokratisches Mittel, um die eigene Stimme zu erheben und auf Missstände aufmerksam zu machen. Allerdings unterschreibe ich nicht jedes Mal, wenn ich auf einen Aufruf stoße. Für mich ist es wichtig, dass die Petition gut begründet, transparent und von einer seriösen Organisation unterstützt wird. Ich will nicht einfach irgendetwas unterschreiben und später",3,1
+WVS_Q9,Germany,en,english,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Please tell me whether you would never under any circumstances sign a petition (option 1), whether you might do it (option 2), or you have already signed a petition (option 3). You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",2,2,1
+WVS_Q9,Germany,en,english,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Please tell me whether you would never under any circumstances sign a petition (option 1), whether you might do it (option 2), or you have already signed a petition (option 3). You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",2,2,1
+WVS_Q9,Germany,en,english,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What are your thoughts on signing petitions? Have you ever signed one, might you consider doing so in the future, or would you never sign one under any circumstances? Please share your perspective and explain why you feel this way.
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I sign petitions when they reflect a cause I genuinely care about and are backed by credible evidence, but otherwise I prefer to act more directly through volunteering or donating.",3,1
+WVS_Q9,Germany,en,english,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What are your thoughts on signing petitions? Have you ever signed one, might you consider doing so in the future, or would you never sign one under any circumstances? Please share your perspective and explain why you feel this way.
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I’m 52, married, living in Berlin with a comfortable lifestyle and a good job in the tech sector. I’ve been through the usual German civic routine: voting in elections, paying taxes, attending town‑hall meetings, and yes—signing a few petitions.
+
+Petitions, to me, are a low‑effort way of expressing a stance on a specific issue. In the last decade I’ve signed about ten of them, mostly on environmental protection, data privacy, and the protection of public spaces. For instance, in 2018 I signed a petition that asked the city council to preserve the old tram lines in Mitte, and in 2021 I added my name to a campaign urging stricter regulation of the gig‑economy platforms. I’m not a serial signer, but when the cause resonates with my values and I think I can make a",3,1
+WVS_Q9,USA,en,native,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Please tell me whether you would never under any circumstances sign a petition (option 1), whether you might do it (option 2), or you have already signed a petition (option 3). You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",3,3,1
+WVS_Q9,USA,en,native,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Please tell me whether you would never under any circumstances sign a petition (option 1), whether you might do it (option 2), or you have already signed a petition (option 3). You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",2,2,1
+WVS_Q9,USA,en,native,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What are your thoughts on signing petitions? Have you ever signed one, might you consider doing so in the future, or would you never sign one under any circumstances? Please share your perspective and explain why you feel this way.
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.",I’ll sign a petition only when it directly supports a cause I care deeply about and I’m confident it can bring real change.,3,1
+WVS_Q9,USA,en,native,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What are your thoughts on signing petitions? Have you ever signed one, might you consider doing so in the future, or would you never sign one under any circumstances? Please share your perspective and explain why you feel this way.
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I’m a 52‑year‑old man who lives in the suburbs of New York City with my wife and two kids. I’ve earned a master’s degree and have spent the last twenty‑five years working in finance, so I’m comfortable in the upper‑middle‑class bracket. When it comes to signing petitions, I’m fairly selective.
+
+I’ve signed a few of them in the past, but only when the issue directly touches something I care about or when the organization behind it has a proven track record. For example, I signed a petition in 2019 to preserve the local historic district that sits right across from our home. The proposal would have turned the neighborhood into a high‑rise condo block, and the petition’s goal was to preserve the architectural character of",3,1
+WVS_Q9,USA,en,english,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Please tell me whether you would never under any circumstances sign a petition (option 1), whether you might do it (option 2), or you have already signed a petition (option 3). You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",3,3,1
+WVS_Q9,USA,en,english,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Please tell me whether you would never under any circumstances sign a petition (option 1), whether you might do it (option 2), or you have already signed a petition (option 3). You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",2,2,1
+WVS_Q9,USA,en,english,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What are your thoughts on signing petitions? Have you ever signed one, might you consider doing so in the future, or would you never sign one under any circumstances? Please share your perspective and explain why you feel this way.
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I’ve signed a handful of petitions on causes that resonate with me, but I’m selective and rarely sign on a whim.",3,1
+WVS_Q9,USA,en,english,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What are your thoughts on signing petitions? Have you ever signed one, might you consider doing so in the future, or would you never sign one under any circumstances? Please share your perspective and explain why you feel this way.
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I’m a 52‑year‑old, married guy who grew up on the East Side of Manhattan, went to college, and",0,1
+WVS_Q9,Bangladesh,bn,native,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+বলুন, আপনি কি কোনো অবস্থাতেই পিটিশনে স্বাক্ষর করবেন না (অপশন 1), হয়তো করবেন (অপশন 2), নাকি ইতিমধ্যেই স্বাক্ষর করেছেন (অপশন 3)। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",2,2,3
+WVS_Q9,Bangladesh,bn,native,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+বলুন, আপনি কি কোনো অবস্থাতেই পিটিশনে স্বাক্ষর করবেন না (অপশন 1), হয়তো করবেন (অপশন 2), নাকি ইতিমধ্যেই স্বাক্ষর করেছেন (অপশন 3)। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",,,3
+WVS_Q9,Bangladesh,bn,native,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+পিটিশনে স্বাক্ষর করার ব্যাপারে আপনার মত কী? আপনি কি কখনও স্বাক্ষর করেছেন, ভবিষ্যতে করতে পারেন, নাকি কোনো অবস্থাতেই করবেন না?
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","আমি পিটিশনে স্বাক্ষর করেছি এবং ভবিষ্যতেও করব, কারণ এটি সমাজে পরিবর্তন আনতে গুরুত্বপূর্ণ।",3,3
+WVS_Q9,Bangladesh,bn,native,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+পিটিশনে স্বাক্ষর করার ব্যাপারে আপনার মত কী? আপনি কি কখনও স্বাক্ষর করেছেন, ভবিষ্যতে করতে পারেন, নাকি কোনো অবস্থাতেই করবেন না?
+
+Answer freely from the persona perspective. Do not give meta-commentary.","পিটিশন স্বাক্ষর করা আমার জন্য একটি গুরুত্বপূর্ণ নাগরিক দায়িত্বের অংশ। আমি বিশ্বাস করি, গণতন্ত্রে প্রত্যেকের কণ্ঠস্বর শোনা উচিত, আর পিটিশন হল সেই কণ্ঠস্বরকে একত্রিত করার একটি কার্যকর উপায়।  
+
+এখন পর্যন্ত আমি কয়েকবার পিটিশনে স্বাক্ষর করেছি—বিশেষ",3,3
+WVS_Q9,Bangladesh,en,english,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Please tell me whether you would never under any circumstances sign a petition (option 1), whether you might do it (option 2), or you have already signed a petition (option 3). You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",2,2,3
+WVS_Q9,Bangladesh,en,english,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Please tell me whether you would never under any circumstances sign a petition (option 1), whether you might do it (option 2), or you have already signed a petition (option 3). You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 3. Do not explain. Do not add extra text.",2,2,3
+WVS_Q9,Bangladesh,en,english,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What are your thoughts on signing petitions? Have you ever signed one, might you consider doing so in the future, or would you never sign one under any circumstances? Please share your perspective and explain why you feel this way.
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I occasionally sign petitions that directly affect my community, but I prefer to influence change through local leadership and official channels rather than random online signatures.",3,3
+WVS_Q9,Bangladesh,en,english,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What are your thoughts on signing petitions? Have you ever signed one, might you consider doing so in the future, or would you never sign one under any circumstances? Please share your perspective and explain why you feel this way.
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I’m a 52‑year‑old married man living in Dhaka. I have a master’s degree and my family and I are comfortably settled in the upper middle class. When it comes to signing petitions, I see them as a way of giving a voice to people who can’t speak for themselves, but I’m also cautious about how much weight I give to them.
+
+I have signed a few petitions in the past. One was a local community petition to preserve a small park that was slated for redevelopment. The park was a gathering place for my children and their friends, and the petition was simple: “Please keep the park open.” I signed it because it felt like a small, tangible act that could protect something we all enjoyed. Another time, I signed an online petition calling for stricter environmental regulations after a major industrial accident in the city. That one was more about a broader policy change, and I signed it because I felt that collective pressure could push the government to act.",3,3
+WVS_Q10,Germany,de,native,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Würden Sie ganz allgemein sagen, dass man den meisten Menschen vertrauen kann oder dass man im Umgang mit Menschen sehr vorsichtig sein muss? 1. Den meisten Menschen kann man vertrauen 2. Man muss sehr vorsichtig sein. Antworten Sie nur mit der passenden Zahl und ohne Begründung.
+
+Return only one number from 1 to 2. Do not explain. Do not add extra text.",1,1,1
+WVS_Q10,Germany,de,native,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Würden Sie ganz allgemein sagen, dass man den meisten Menschen vertrauen kann oder dass man im Umgang mit Menschen sehr vorsichtig sein muss? 1. Man muss sehr vorsichtig sein 2. Den meisten Menschen kann man vertrauen. Antworten Sie nur mit der passenden Zahl und ohne Begründung.
+
+Return only one number from 1 to 2. Do not explain. Do not add extra text.",2,1,1
+WVS_Q10,Germany,de,native,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Ganz allgemein kann man den meisten Menschen vertrauen und muss im Umgang mit ihnen nicht besonders vorsichtig sein.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","Ich denke, dass man den meisten Menschen grundsätzlich vertrauen kann, aber im Umgang mit ihnen stets ein gesundes Maß an Vorsicht walten lassen sollte.",1,1
+WVS_Q10,Germany,de,native,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Was ist Ihre Meinung zu der folgenden Aussage? ""Ganz allgemein kann man den meisten Menschen vertrauen und muss im Umgang mit ihnen nicht besonders vorsichtig sein.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","Ich denke, das ist eine ziemlich vereinfachte Sichtweise, die in der Praxis nicht immer zutrifft. In Berlin, wo die Menschen aus so vielen unterschiedlichen Hintergründen kommen, habe ich gelernt, dass Vertrauen immer mit einer gewissen Vorsicht einhergehen sollte. 
+
+Als 52-jähriger, verheirateter Mann mit einer höheren Bildung habe ich im Berufsleben und im privaten Umfeld viele Situationen erlebt, in denen sich die Menschen als zuverlässig erwiesen haben – zum Beispiel bei Kollegen, Geschäftspartnern oder Nachbarn. Diese positiven Erfahrungen lassen mich grundsätzlich optimistisch bleiben und den Menschen im Alltag nicht sofort misstrauisch begegnen.
+
+Gleichzeitig habe ich",2,1
+WVS_Q10,Germany,en,english,fc,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people? 1. Most people can be trusted 2. Need to be very careful. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 2. Do not explain. Do not add extra text.",1,1,1
+WVS_Q10,Germany,en,english,fr,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people? 1. Need to be very careful 2. Most people can be trusted. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 2. Do not explain. Do not add extra text.",2,1,1
+WVS_Q10,Germany,en,english,fo,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Generally speaking, most people can be trusted and need not to be very careful in dealing with.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I think most people can generally be trusted, but it's still prudent to keep a sensible level of caution in everyday dealings.",1,1
+WVS_Q10,Germany,en,english,fu,"Imagine you are a married male from Berlin, Germany. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Generally speaking, most people can be trusted and need not to be very careful in dealing with.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I would say that the proposition is, in my view, too optimistic. In Berlin, as in most cosmopolitan cities, you encounter a wide spectrum of personalities and intentions. My own experience over the last 25 years has taught me that while many people are indeed honest and trustworthy, there are also those who are opportunistic or simply careless with their words and actions.
+
+From a practical standpoint, it is prudent to maintain a healthy degree of caution. I keep a clear distinction between personal acquaintances—people I know well and have built trust over time—and strangers or new contacts, especially in business or financial matters. I rely on established networks, recommendations, and due diligence before committing to anything significant. That said, I don’t let suspicion cloud my interactions; I believe in giving people the benefit of the doubt unless there is a concrete reason not to.",2,1
+WVS_Q10,USA,en,native,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people? 1. Most people can be trusted 2. Need to be very careful. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 2. Do not explain. Do not add extra text.",1,1,1
+WVS_Q10,USA,en,native,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people? 1. Need to be very careful 2. Most people can be trusted. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 2. Do not explain. Do not add extra text.",2,1,1
+WVS_Q10,USA,en,native,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Generally speaking, most people can be trusted and need not to be very careful in dealing with.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I believe most people can be trusted, so I usually approach interactions with a relaxed attitude while still keeping a practical level of caution.",1,1
+WVS_Q10,USA,en,native,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Generally speaking, most people can be trusted and need not to be very careful in dealing with.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I’m pretty comfortable saying that, in general, most people are decent and honest enough that you don’t have to be paranoid all the time. Growing up in a middle‑class family and having gone through college, I’ve seen that trust is usually earned through everyday interactions—neighbors, coworkers, friends. Of course, there will always be a few bad apples, but I believe that the majority of folks are looking to get along and keep things straightforward. That said, it’s still smart to stay aware and set boundaries when necessary, especially in business or with strangers. But overall, I trust that most people can be trusted and don’t need to be treated with undue suspicion.",1,1
+WVS_Q10,USA,en,english,fc,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people? 1. Most people can be trusted 2. Need to be very careful. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 2. Do not explain. Do not add extra text.",,,1
+WVS_Q10,USA,en,english,fr,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people? 1. Need to be very careful 2. Most people can be trusted. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 2. Do not explain. Do not add extra text.",2,1,1
+WVS_Q10,USA,en,english,fo,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Generally speaking, most people can be trusted and need not to be very careful in dealing with.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I trust most people, but I still keep a reasonable level of caution in my dealings.",1,1
+WVS_Q10,USA,en,english,fu,"Imagine you are a married male from New York, USA. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Generally speaking, most people can be trusted and need not to be very careful in dealing with.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I’m a 52‑year‑old married guy from New York, a bit on the upper‑middle‑class side of things, and I’ve spent a good chunk of my life in the corporate world and in community service. I’ve learned that people are a mixed bag. On the one hand, most folks are honest, decent, and will do what’s expected of them—especially in a city where reputations matter and the network is tight. I’ve seen colleagues, neighbors, and friends who are reliable and who keep their word. 
+
+On the other hand, the same city that thrives on trust also breeds a lot of opportunism. There are plenty of cases where people take advantage of good intentions, cut corners, or lie when it serves them. Even in my own circle, I’ve had to watch for red flags: a friend",2,1
+WVS_Q10,Bangladesh,bn,native,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+সাধারণভাবে কি আপনি বলবেন যে বেশিরভাগ মানুষকে বিশ্বাস করা যায়, নাকি মানুষের সাথে চলাফেরায় খুব সতর্ক থাকা উচিত? 1. বেশিরভাগ মানুষকে বিশ্বাস করা যায় 2. খুব সতর্ক থাকা উচিত। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only one number from 1 to 2. Do not explain. Do not add extra text.",2,2,2
+WVS_Q10,Bangladesh,bn,native,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+সাধারণভাবে কি আপনি বলবেন যে বেশিরভাগ মানুষকে বিশ্বাস করা যায়, নাকি মানুষের সাথে চলাফেরায় খুব সতর্ক থাকা উচিত? 1. খুব সতর্ক থাকা উচিত 2. বেশিরভাগ মানুষকে বিশ্বাস করা যায়। শুধু একটি সংখ্যা দিন, কোনো ব্যাখ্যা নয়।
+
+Return only one number from 1 to 2. Do not explain. Do not add extra text.",2,1,2
+WVS_Q10,Bangladesh,bn,native,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""সাধারণভাবে বেশিরভাগ মানুষকে বিশ্বাস করা যায় এবং তাদের সাথে চলাফেরায় খুব সতর্ক থাকার দরকার নেই।""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","আমার অভিজ্ঞতা থেকে বলি, অধিকাংশ মানুষ বিশ্বাসযোগ্য, তবে সতর্কতা অবলম্বন করাই বুদ্ধিমানের কাজ।",1,2
+WVS_Q10,Bangladesh,bn,native,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+নিচের বক্তব্য সম্পর্কে আপনার মতামত কী? ""সাধারণভাবে বেশিরভাগ মানুষকে বিশ্বাস করা যায় এবং তাদের সাথে চলাফেরায় খুব সতর্ক থাকার দরকার নেই।""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","আমার দৃষ্টিতে এই বক্তব্যটি কিছুটা অতিরিক্ত আশাবাদী। আমি ৫২ বছর বয়সী, ঢাকা শহরের একটি মধ্য‑উচ্চবিত্ত পরিবারে বসবাসকারী একজন পুরুষ, এবং আমার",2,2
+WVS_Q10,Bangladesh,en,english,fc,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people? 1. Most people can be trusted 2. Need to be very careful. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 2. Do not explain. Do not add extra text.",2,2,2
+WVS_Q10,Bangladesh,en,english,fr,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people? 1. Need to be very careful 2. Most people can be trusted. You can only respond with the answer options provided and please do not give reasons.
+
+Return only one number from 1 to 2. Do not explain. Do not add extra text.",2,1,2
+WVS_Q10,Bangladesh,en,english,fo,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Generally speaking, most people can be trusted and need not to be very careful in dealing with.""
+
+Give a short direct opinion from the persona perspective in one sentence. Do not give meta-commentary.","I believe most people are trustworthy, but I still remain cautious in my dealings.",1,2
+WVS_Q10,Bangladesh,en,english,fu,"Imagine you are a married male from Dhaka, Bangladesh. You are 52 years of age and completed higher education level. You consider yourself part of the upper middle class. Answer the following question from this perspective.
+
+What is your opinion on the following proposition? ""Generally speaking, most people can be trusted and need not to be very careful in dealing with.""
+
+Answer freely from the persona perspective. Do not give meta-commentary.","I think the statement is a bit too optimistic for my reality. In Dhaka, where I live, people are usually polite and respectful on the surface, and a lot of them keep their promises. That said, I’ve seen enough to know that you can’t take everyone for granted.
+
+When you’re in a family or a close friendship circle, trust is almost a given. My wife and I have known each other since college, and we rely on each other every day. In that sphere, I feel safe to be open and to share responsibilities without constantly double‑checking.
+
+But outside those circles—especially in business, politics, or even casual acquaintances—there’s",2,2

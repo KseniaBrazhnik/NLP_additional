@@ -1,0 +1,13 @@
+country,method,mean_absolute_error
+Bangladesh,fc,17.833333333333332
+Bangladesh,fo,17.5
+Bangladesh,fr,30.166666666666668
+Bangladesh,fu,16.5
+Germany,fc,16.833333333333332
+Germany,fo,17.833333333333332
+Germany,fr,25.5
+Germany,fu,15.333333333333334
+USA,fc,19.0
+USA,fo,19.0
+USA,fr,13.333333333333334
+USA,fu,17.333333333333332
